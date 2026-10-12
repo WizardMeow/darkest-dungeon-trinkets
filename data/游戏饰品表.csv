@@ -1,0 +1,279 @@
+﻿饰品名称,英文名称,饰品ID,稀有度,职业,游戏属性,套装效果,套装ID,水晶成本,定义来源
+褪落的翼羽,Molted Wingfeather,crow_wingfeather,尖叫者,通用,闪避 +10；疾病抗性 +33%（火炬亮度低于75）；位移抗性 +33%（火炬亮度低于50）；受到压力 +15%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+褪落的尾翼,Molted Tailfeather,crow_tailfeather,尖叫者,通用,速度 +4；疾病抗性 +33%（火炬亮度低于75）；眩晕抗性 +33%（火炬亮度低于50）；受到压力 +15%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+结痂的鸦爪,Callous Talon,crow_talon,尖叫者,通用,暴击率 +7%；疾病抗性 +33%（火炬亮度低于75）；流血技能概率 +33%（火炬亮度低于50）；受到压力 +15%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+膨胀的鸦眼,Distended Crowseye,crow_eye,尖叫者,通用,命中 +10；疾病抗性 +33%（火炬亮度低于75）；侦察概率 +15%（火炬亮度低于50）；受到压力 +15%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+先祖的外套,Ancestor's Coat,ancestors_coat,先祖,通用,闪避 +15；受到压力 +10%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+先祖的弹丸,Ancestor's Musket Ball,ancestors_musket_ball,先祖,通用,暴击率 +8%（远程）；伤害 +10%（远程）；受到压力 +10%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+先祖的手枪,Ancestor's Pistol,ancestors_pistol,先祖,通用,命中 +15（远程）；速度 +3；受到压力 +10%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+先祖的蘸水笔,Ancestor's Pen,ancestors_pen,先祖,通用,暴击率 +8%（近战）；伤害 +10%（近战）；受到压力 +10%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+先祖的肖像画,Ancestor's Portrait,ancestors_portrait,先祖,通用,决心经验 +50%；受到压力 +10%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+先祖的灯笼,Ancestor's Lantern,ancestors_lantern,先祖,通用,我方被突袭概率 -20%；敌方被突袭概率 +20%；受到压力 +10%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+先祖的手帕,Ancestor's Handkerchief,ancestors_handkerchief,先祖,通用,流血抗性 +50%；疾病抗性 +50%；受到压力 +10%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+先祖的刮胡膏,Ancestor's Moustache Cream,ancestors_moustache_cream,先祖,通用,腐蚀抗性 +50%；减益抗性 +50%；受到压力 +10%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+先祖的家印戒指,Ancestor's Signet Ring,ancestors_signet_ring,先祖,通用,命中 +10；防御 +10%；受到压力 +10%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+先祖的地图,Ancestor's Map,ancestors_map,先祖（跛行者）,通用,trap抗性 +25%；侦察概率 +25%；受到压力 +10%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+先祖的蜡烛,Ancestor's Candle,ancestors_candle,先祖（跛行者）,通用,伤害 +15%（火炬亮度高于50）；速度 +2（火炬亮度高于50）；闪避 +5（火炬亮度高于50）；受到压力 +10%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+先祖的触须魔偶,Ancestor's Tentacle Idol,ancestors_tentacle_idol,先祖（跛行者）,通用,美德概率 +20%；死亡抗性 +8%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+先祖的药瓶,Ancestor's Bottle,ancestors_bottle,先祖（跛行者）,通用,最大生命 +25%；食物消耗 +50%；受到压力 +10%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+先祖的卷轴,Ancestor's Scroll,ancestors_scroll,先祖（跛行者）,通用,治疗量 +25%；压力治疗量 +25%；受到压力 +10%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+神圣卷轴,Sacred Scroll,sacred_scroll,橙色/非常稀有,修女,受到压力 -10%；治疗量 +33%；眩晕技能概率 -10%；伤害 -33%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+传奇护腕,Legendary Bracer,legendary_bracer,橙色/非常稀有,通用,伤害 +20%；速度 -1；受到压力 +10%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+专注戒指,Focus Ring,focus_ring,橙色/非常稀有,通用,命中 +10；暴击率 +5%；闪避 -8,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+强韧戒指,Tough Ring,tough_ring,橙色/非常稀有,通用,防御 +10%；最大生命 +15%；伤害 -15%；受到压力 +10%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+净化水晶,Cleansing Crystal,cleansing_crystal,橙色/非常稀有,通用,腐蚀抗性 +40%；流血抗性 +40%；减益抗性 +40%；腐蚀技能概率 -15%；流血技能概率 -15%；减益技能概率 -15%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+尖刺项圈,Spiked Collar,spiked_collar,橙色/非常稀有,驯犬师,伤害 +20%；流血技能概率 +30%；受到治疗 -20%；治疗量 -50%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+强盗的皮带扣,Gunslinger's Buckle,poisoning_buckle,橙色/非常稀有,强盗,伤害 +20%（远程）；命中 +15（远程）；伤害 -10%（近战）；暴击率 -5%（近战）,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+愤怒头巾,Wrathful Bandana,wrathful_bandana,橙色/非常稀有,弩手,伤害 +25%（位置4）；减益技能概率 +30%；治疗量 -50%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+亵渎魔瓶,Blasphemous Vial,blasphemous_vial,橙色/非常稀有,瘟疫医生,命中 +10（远程）；眩晕技能概率 +20%；腐蚀技能概率 +20%；受到压力 +25%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+圣洁之书,Book of Holiness,book_of_holiness,绿色/优良,通用,受到压力 -20%；死亡抗性 -10%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+恶魔坩埚,Demon's Cauldron,demons_cauldron,橙色/非常稀有,神秘学者,眩晕技能概率 +30%；减益技能概率 +40%；暴击率 +3%；美德概率 -10%；受到压力 +15%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+狂暴面具,Berserk Mask,berserk_mask,橙色/非常稀有,麻风剑客,暴击率 +8%；速度 +3；美德概率 -10%；受到治疗 -33%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+摸金符,Raider's Talisman,raiders_talisman,橙色/非常稀有,盗墓贼,暴击率 +5%；trap抗性 +30%；速度 +2；侦察概率 +15%；最大生命 -10%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+英雄戒指,Hero's Ring,heros_ring,橙色/非常稀有,通用,美德概率 +25%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+神圣祷文,Holy Orders,holy_orders,橙色/非常稀有,十字军,美德概率 +15%；受到压力 -20%；死亡抗性 +12%；腐蚀抗性 -20%；流血抗性 -20%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+地狱发髻,Hell's Hairpin,hells_hairpin,橙色/非常稀有,蛮族战士,暴击率 +10%（火炬亮度低于25）；命中 +15（火炬亮度低于25）；减益抗性 -10%；流血抗性 -10%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+守卫盾牌,Guardian's Shield,guardians_shield,橙色/非常稀有,老兵,防御 +10%（位置4）；受到治疗 +50%（位置4）；闪避 +10（位置4）,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+黑暗手鼓,Dark Tambourine,dark_tambourine,橙色/非常稀有,小丑,死亡抗性 +12%；受到压力 -25%（火炬亮度低于26）；美德概率 +10%（火炬亮度低于26）,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+敏捷之爪,Agility Talon,agile_talon,白色/普通,赏金猎人,速度 +1；闪避 +4,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+殉道者徽记,Martyr's Seal,martyrs_seal,橙色/非常稀有,通用,伤害 +60%（濒死时）；暴击率 +14%（濒死时）；死亡抗性 +12%；最大生命 +15%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+日光戒指,Sun Ring,sun_ring,蓝色/稀有,通用,伤害 +10%（火炬亮度高于75）；命中 +5（火炬亮度高于75）；受到压力 +10%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+日光斗篷,Sun Cloak,sun_cloak,蓝色/稀有,通用,防御 +5%（火炬亮度高于75）；闪避 +10（火炬亮度高于75）；受到压力 +10%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+狂暴吊坠,Berserk Charm,berserk_charm,蓝色/稀有,通用,速度 +3；伤害 +15%；受到压力 +15%；命中 -5；美德概率 -10%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+月光戒指,Moon Ring,moon_ring,蓝色/稀有,通用,伤害 +15%（火炬亮度低于25）；命中 +10（火炬亮度低于25）；受到压力 +10%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+伪装斗篷,Camouflage Cloak,camouflage_cloak,绿色/优良,通用,闪避 +15（火炬亮度高于75）；眩晕抗性 -20%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+轻羽水晶,Feather Crystal,feather_crystal,蓝色/稀有,通用,速度 +2；闪避 +8；眩晕抗性 -20%；位移抗性 -20%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+斗士手套,Brawler's Gloves,brawlers_gloves,蓝色/稀有,通用,伤害 +25%（位置1）；暴击率 -5%；速度 -1,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+生命水晶,Life Crystal,life_crystal,绿色/优良,通用,最大生命 +20%；速度 -1,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+月光斗篷,Moon Cloak,moon_cloak,蓝色/稀有,通用,防御 +15%（火炬亮度低于26）；闪避 +10（火炬亮度低于26）；受到压力 +10%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+先行挂坠,Quick Draw Charm,quick_draw_charm,蓝色/稀有,通用,速度 +8（首回合）；暴击率 +12%（首回合）；速度 -3（不满足条件：首回合）,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+军令状,Commander's Orders,commanders_orders,蓝色/稀有,十字军,受到压力治疗 +15%；治疗量 +33%；伤害 -10%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+幸运护符,Lucky Talisman,lucky_talisman,蓝色/稀有,盗墓贼,闪避 +12；命中 +10（远程）；受到压力 +10%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+狙击戒指,Sniper's Ring,snipers_ring,蓝色/稀有,通用,命中 +15（位置4）；速度 -2；暴击率 +4%（位置4）,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+防壁巨盾,Rampart Shield,rampart_shield,蓝色/稀有,老兵,位移技能概率 +40%；眩晕技能概率 +30%；伤害 -15%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+标靶头巾,Bull's Eye Bandana,bulls_eye_bandana,蓝色/稀有,弩手,命中 +8；暴击率 +5%；闪避 -4,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+防护项圈,Protective Collar,protective_collar,蓝色/稀有,驯犬师,闪避 +12；伤害 -15%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+恢复挂坠,Recovery Charm,recovery_charm,蓝色/稀有,通用,受到治疗 +40%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+光明手鼓,Bright Tambourine,bright_tambourine,蓝色/稀有,小丑,受到压力 -25%（火炬亮度高于75）；受到压力 +15%（火炬亮度低于51）；压力治疗量 +20%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+免疫面具,Immunity Mask,immunity_mask,蓝色/稀有,麻风剑客,眩晕抗性 +40%；腐蚀抗性 +30%；流血抗性 +30%；最大生命 -10%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+理智之书,Book of Sanity,book_of_sanity,橙色/非常稀有,通用,受到压力 -20%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+锋利的剑鞘,Sharpening Sheath,sharpening_sheath,蓝色/稀有,强盗,暴击率 +7%（近战）；流血技能概率 +40%；速度 -1,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+巫师药瓶,Witch's Vial,witchs_vial,白色/普通,瘟疫医生,眩晕技能概率 +15%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+天堂发髻,Heaven's Hairpin,heavens_hairpin,蓝色/稀有,蛮族战士,受到压力 -25%（火炬亮度高于75）；命中 +10（火炬亮度高于75）,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+献祭坩埚,Sacrificial Cauldron,sacrificial_cauldron,蓝色/稀有,神秘学者,伤害 +20%；受到压力 +10%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+猎手之爪,Hunter's Talon,hunters_talon,蓝色/稀有,赏金猎人,暴击率 +6%；命中 +10；食物消耗 +50%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+斋戒徽记,Fasting Seal,fasting_seal,蓝色/稀有,通用,食物消耗 -100%；饥饿伤害 -100%；闪避 +5；受到压力 -100%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+亵圣卷轴,Profane Scroll,profane_scroll,蓝色/稀有,修女,伤害 +15%；防御 +10%（位置2）；治疗量 +33%（位置2）；受到压力 +15%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+治疗圣典,Tome of Holy Healing,book_of_holy_healing,蓝色/稀有,修女,治疗量 +25%；最大生命 -15%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+闪烁斗篷,Shimmering Cloak,shimmering_cloak,绿色/优良,通用,闪避 +8；受到治疗 -33%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+迅捷圣杯,Haste Chalice,haste_chalice,绿色/优良,修女,速度 +8（首回合）；速度 +2（不满足条件：首回合）；眩晕技能概率 -25%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+双刃吊坠,Double-Edged Pendant,double_edged_pendant,绿色/优良,蛮族战士,最大生命 +15%；眩晕抗性 -20%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+眩晕项链,Stun Amulet,stun_amulet,绿色/优良,通用,眩晕技能概率 +10%；眩晕抗性 +20%；闪避 -4,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+光明护腕,Solar Bracer,solar_bracer,绿色/优良,通用,暴击率 +4%（火炬亮度高于75）；闪避 +5（火炬亮度高于75）；暴击率 -5%（火炬亮度低于50）；闪避 -6（火炬亮度低于51）,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+鲜血项链,Bleed Amulet,bleed_amulet,绿色/优良,通用,流血技能概率 +20%；流血抗性 +20%；腐蚀抗性 -20%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+制裁饰章,Paralyzer's Crest,paralyzers_crest,绿色/优良,十字军,眩晕技能概率 +20%；闪避 -2,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+幸运臂环,Fortunate Armlet,fortunate_armlet,绿色/优良,麻风剑客,命中 +8；暴击率 +3%；受到压力 +10%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+安神之书,Book of Relaxation,book_of_relaxation,绿色/优良,通用,受到压力 -10%；命中 +4；闪避 -4,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+抗病香草,Diseased Herb,diseased_herb,白色/普通,瘟疫医生,疾病抗性 +40%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+狡诈剑鞘,Dodgy Sheath,dodgy_sheath,绿色/优良,强盗,闪避 +8；速度 +1；命中 -10（远程）,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+稳固护腕,Steady Bracer,steady_bracer,绿色/优良,通用,命中 +10（远程）；闪避 -2,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+沉重长靴,Heavy Boots,heavy_boots,绿色/优良,通用,位移抗性 +40%；防御 +20%；速度 -2,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+安定水晶,Calming Crystal,calming_crystal,绿色/优良,通用,受到压力 -15%；速度 -1,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+强壮眼罩,Longevity Eyepatch,longevity_eyepatch,绿色/优良,老兵,最大生命 +15%；速度 -2,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+诅咒焚香,Cursed Incense,cursed_incense,绿色/优良,神秘学者,减益技能概率 +40%；位移技能概率 +20%；最大生命 -10%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+贤者之石,Seer Stone,seer_stone,绿色/优良,通用,侦察概率 +15%；速度 -1,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+警署闷棍,Cudgel Weight,cudgel_weight,绿色/优良,驯犬师,眩晕技能概率 +25%；速度 -1,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+暴击骰子,Critical Dice,critical_dice,绿色/优良,小丑,暴击率 +7%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+恶毒背包,Blighting Satchel,seers_satchel,绿色/优良,盗墓贼,腐蚀技能概率 +25%；速度 +1；闪避 -4,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+迅捷斗篷,Swift Cloak,swift_cloak,绿色/优良,通用,速度 +2；位移抗性 -20%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+赌徒挂坠,Gambler's Charm,gamblers_charm,绿色/优良,通用,最大生命 +15%；死亡抗性 -10%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+忘忧石,Worrystone,worrystone,绿色/优良,通用,美德概率 +10%；受到压力 -10%；速度 -1,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+构造之书,Book of Constitution,book_of_constitution,绿色/优良,通用,腐蚀抗性 +30%；疾病抗性 +30%；速度 -1,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+蚀毒项链,Blight Amulet,blight_amulet,绿色/优良,通用,腐蚀技能概率 +20%；腐蚀抗性 +20%；流血抗性 -20%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+暗黑护腕,Dark Bracer,dark_bracer,绿色/优良,通用,暴击率 +8%（火炬亮度低于26）；闪避 +5（火炬亮度低于51）；伤害 -10%（火炬亮度高于51）,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+衰弱项链,Debuff Amulet,debuff_amulet,绿色/优良,通用,减益技能概率 +30%；减益抗性 +30%；闪避 -4,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+手术手套,Surgical Gloves,surgical_glove,绿色/优良,通用,暴击率 +8%（近战）；命中 +5（近战）；位移抗性 -20%；减益抗性 -10%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+营寨头盔,Camper's Helmet,campers_helmet,绿色/优良,赏金猎人,受到压力治疗 +20%（扎营时）；侦察概率 +10%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+坚韧戒指,Tenacity Ring,tenacity_ring,绿色/优良,通用,死亡抗性 +10%；闪避 +5；暴击率 -5%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+治疗护胫,Medic's Greaves,medics_greaves,绿色/优良,弩手,治疗量 +33%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+光明王冠,Solar Crown,solar_crown,蓝色/稀有,通用,受到压力 -20%（火炬亮度高于75）,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+错位项链,Move Amulet,move_amulet,绿色/优良,通用,位移技能概率 +20%；位移抗性 +30%；减益抗性 -20%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+愤怒之书,Book of Rage,book_of_rage,绿色/优良,通用,伤害 +20%（生命比例低于33%）；暴击率 +8%（生命比例低于33%）；流血抗性 -10%；腐蚀抗性 -10%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+暗黑王冠,Dark Crown,dark_crown,蓝色/稀有,通用,受到压力 -25%（火炬亮度低于26）；美德概率 +15%（火炬亮度低于26）,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+伤害魔石,Damage Stone,damage_stone,白色/普通,通用,伤害 +10%；闪避 -4,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+骑士饰章,Knight's Crest,knights_crest,白色/普通,十字军,最大生命 +10%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+剑士饰章,Swordsman's Crest,swordsmans_crest,白色/普通,十字军,伤害 +10%（近战）；治疗量 -50%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+青春圣杯,Youth Chalice,youth_chalice,绿色/优良,修女,最大生命 +20%；伤害 -10%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+生存指南,Survival Guide,survival_guide,白色/普通,通用,侦察概率 +10%；trap抗性 +10%；速度 -1,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+光滑长靴,Slippery Boots,slippery_boots,白色/普通,通用,闪避 +4；位移抗性 -20%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+渴血之戒,Bloodthirst Ring,bloodthirst_ring,绿色/优良,通用,食物消耗 -100%；最大生命 +10%；受到治疗 -25%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+勇士护腕,Warrior's Bracer,warriors_bracer,白色/普通,通用,伤害 +10%（近战）；闪避 -4,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+直觉之书,Book of Intuition,book_of_intuition,白色/普通,通用,我方被突袭概率 -20%；速度 -1,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+迅捷尖哨,Agility Whistle,agility_whistle,白色/普通,驯犬师,闪避 +4；速度 +1；减益抗性 -20%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+防御印记,Defender's Seal,defenders_seal,白色/普通,十字军,防御 +5%；暴击率 -3%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+射手戒指,Archer's Ring,archers_ring,白色/普通,通用,命中 +5（远程）；速度 -1,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+恶化护腕,Deteriorating Bracer,deteriorating_bracer,白色/普通,通用,闪避 +10（生命比例高于75%）；闪避 -6（生命比例低于50%）,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+速燃火药,Flashfire Gunpowder,flashfire_gunpowder,白色/普通,强盗,伤害 +10%（远程）；眩晕抗性 -20%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+贞洁圣杯,Virtuous Chalice,recovery_chalice,白色/普通,修女,美德概率 +10%；最大生命 -5%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+流浪汉的皮带扣,Drifter's Buckle,drifters_buckle,白色/普通,强盗,trap抗性 +10%；闪避 +4；受到压力治疗 -5%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+狡诈眼罩,Sly Eyepatch,sly_eyepatch,白色/普通,老兵,闪避 +4；眩晕抗性 -10%；位移抗性 -10%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+流血吊坠,Bleeding Pendant,bleeding_pendant,白色/普通,蛮族战士,流血技能概率 +15%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+蛮力挂坠,Reckless Charm,reckless_charm,白色/普通,通用,命中 +5；闪避 -2,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+幸运骰子,Lucky Dice,lucky_dice,白色/普通,小丑,命中 +4；闪避 +4,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+剧毒草药,Poisoned Herb,poisoned_herb,绿色/优良,瘟疫医生,腐蚀技能概率 +40%；最大生命 -15%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+救赎臂章,Redemption Armlet,selfish_armlet,白色/普通,麻风剑客,伤害 +15%（位置1）；美德概率 -3%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+邪秽克星戒指,Unholy Slayer's Ring,unholy_slayers_ring,蓝色/稀有,通用,伤害 +25%（对邪秽）；闪避 -8,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+染血玩偶,Bloodied Fetish,bloodied_fetish,白色/普通,通用,腐蚀抗性 +20%；流血抗性 +20%；疾病抗性 -20%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+蛇油,Snake Oil,snake_oil,白色/普通,通用,受到压力 -10%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+勇士头盔,Warrior's Cap,warriors_cap,白色/普通,通用,命中 +5（近战）,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+厌物背包,Sickening Satchel,stunning_satchel,白色/普通,盗墓贼,伤害 +20%（自身腐蚀时）,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+闪亮挂坠,Dazzling Charm,dazzling_charm,白色/普通,通用,眩晕技能概率 +10%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+速度魔石,Speed Stone,speed_stone,白色/普通,通用,速度 +1,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+坚定带扣,Stalwart Buckle,cursed_buckle,白色/普通,强盗,暴击率 +5%；受到压力 +5%；美德概率 -3%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+治疗臂章,Healing Armlet,healing_armlet,白色/普通,麻风剑客,受到治疗 +20%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+闪避熏香,Evasion Incense,evasion_incense,白色/普通,神秘学者,闪避 +8；速度 -1,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+血腥挂坠,Blood Charm,blood_charm,绿色/优良,通用,流血抗性 +30%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+腐烂香炉,Rotgut Censer,rotgut_censer,白色/普通,瘟疫医生,命中 +8；最大生命 -5%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+诛魔焚香,Eldritch Killing Incense,eldritch_killing_incense,白色/普通,神秘学者,暴击率 +6%（对异魔）；伤害 +15%（对异魔）,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+侦察尖哨,Scouting Whistle,scouting_whistle,白色/普通,驯犬师,侦察概率 +20%（火炬亮度低于51）；trap抗性 +20%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+纯净眼罩,Cleansing Eyepatch,cleansing_eyepatch,白色/普通,老兵,腐蚀抗性 +30%；疾病抗性 +20%；闪避 -2,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+自私吊坠,Selfish Pendant,selfish_pendant,白色/普通,蛮族战士,受到压力 -15%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+警戒斗篷,Caution Cloak,caution_cloak,白色/普通,通用,侦察概率 +10%；速度 -10（首回合）,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+血腥骰子,Bloody Dice,bloody_dice,白色/普通,小丑,流血技能概率 +30%；流血抗性 -10%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+人类克星戒指,Man Slayer's Ring,man_slayers_ring,蓝色/稀有,通用,伤害 +25%（对人类）；闪避 -8,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+野兽克星戒指,Beast Slayer's Ring,beast_slayers_ring,蓝色/稀有,通用,伤害 +25%（对野兽）；闪避 -8,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+医者挂坠,Chirurgeons Charm,chirurgeons_charm,绿色/优良,通用,治疗量 +15%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+迅捷背包,Quickening Satchel,quickening_satchel,白色/普通,盗墓贼,速度 +2,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+血腥毒草,Bloody Herb,bloody_herb,蓝色/稀有,瘟疫医生,命中 +10（近战）；流血技能概率 +30%；伤害 +20%（近战）,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+稳固头盔,Unmovable Helmet,unmovable_helmet,白色/普通,赏金猎人,位移抗性 +30%；位移技能概率 +20%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+异魔克星戒指,Eldritch Slayer's Ring,eldritch_slayers_ring,蓝色/稀有,通用,伤害 +25%（对异魔）；闪避 -8,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+命中魔石,Accuracy Stone,accuracy_stone,灰色/非常普通,通用,命中 +4；速度 -1,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+生命魔石,Health Stone,health_stone,灰色/非常普通,通用,最大生命 +10%；速度 -1,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+防御魔石,Protection Stone,protection_stone,灰色/非常普通,通用,防御 +5%；速度 -1,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+闪避魔石,Dodge Stone,dodge_stone,灰色/非常普通,通用,闪避 +4；速度 -1,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+暴击魔石,Critical Stone,critical_stone,灰色/非常普通,通用,暴击率 +3%；速度 -1,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+流血魔石,Bleed Stone,bleed_stone,灰色/非常普通,通用,流血技能概率 +15%；速度 -1,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+血腥挂坠,Bleed Charm,bleed_charm,灰色/非常普通,通用,流血抗性 +20%；闪避 -2,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+眩晕魔石,Stun Stone,stun_stone,灰色/非常普通,通用,眩晕技能概率 +10%；速度 -1,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+中毒魔石,Blight Stone,blight_stone,灰色/非常普通,通用,腐蚀技能概率 +15%；速度 -1,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+眩晕挂坠,Stun Charm,stun_charm,灰色/非常普通,通用,眩晕抗性 +20%；闪避 -2,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+减益魔石,Debuff Stone,debuff_stone,灰色/非常普通,通用,减益技能概率 +15%；速度 -1,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+避邪挂坠,Debuff Charm,debuff_charm,灰色/非常普通,通用,减益抗性 +20%；闪避 -2,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+抗毒挂坠,Blight Charm,blight_charm,灰色/非常普通,通用,腐蚀抗性 +20%；闪避 -2,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+错位挂坠,Move Charm,move_charm,灰色/非常普通,通用,位移抗性 +20%；速度 -1,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+位移魔石,Move Stone,move_stone,灰色/非常普通,通用,位移技能概率 +15%；速度 -1,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+瘟疫护坠,Disease Charm,disease_charm,灰色/非常普通,通用,疾病抗性 +20%；闪避 -2,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+耐心枷锁,Lock of Patience,padlock_1,白色/普通,咒缚者,美德概率 +10%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+变身枷锁,Padlock of Transference,padlock_2,绿色/优良,咒缚者,眩晕技能概率 +20%；腐蚀技能概率 +20%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+守护枷锁,Protective Padlock,padlock_3,绿色/优良,咒缚者,防御 +15%；速度 -1,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+狂怒枷锁,Lock of Fury,padlock_4,蓝色/稀有,咒缚者,伤害 +10%；速度 +3；最大生命 -10%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+抑制枷锁,Restraining Padlock,padlock_5,橙色/非常稀有,咒缚者,"造成压力 -40%（skill(transform, 0)）；受到压力 -40%",,,,游戏安装目录/trinkets/base.entries.trinkets.json
+弹珠袋子,Bag of Marbles,antiq_1,白色/普通,古董商人,闪避 +10,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+血课奖章,Bloodcourse Medallion,antiq_2,绿色/优良,古董商人,受到治疗 +33%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+甲壳圣像,Carapace Idol,antiq_3,绿色/优良,古董商人,防御 +25%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+舰队弗罗林,Fleet Florin,antiq_4,蓝色/稀有,古董商人,速度 +4；减益技能概率 +20%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+生命之烛,Candle of Life,antiq_5,橙色/非常稀有,古董商人,治疗量 +50%；最大生命 +15%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+叹咏乐盒,Aria Box,madman_1,疯子,通用,受到压力 -25%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+序曲乐盒,Overture Box,madman_2,疯子,通用,最大生命 +15%；闪避 +8；命中 -2,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+渐响乐盒,Crescendo Box,madman_3,疯子,通用,速度 +2；伤害 +15%；受到压力 +10%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+迪斯马的头颅,Dismas' Head,collector_1,收藏家,通用,伤害 +25%；最大生命 -10%；受到压力 +20%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+巴利斯坦的头颅,Barristan's Head,collector_2,收藏家,通用,防御 +25%；受到压力 +20%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+朱妮娅的头颅,Junia's Head,collector_3,收藏家,通用,治疗量 +30%；受到压力 +20%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+死灵法师的尖领,Necromancer's Collar,boss_necromancer,猎获,通用,伤害 +20%（对邪秽）；暴击率 +8%（对邪秽）,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+巫婆的汤勺,Hag's Ladle,boss_hag,猎获,通用,腐蚀技能概率 +30%；腐蚀抗性 +40%；疾病抗性 +40%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+威利伯的旗帜,Wilbur's Flag,boss_wilbur,猎获,通用,眩晕抗性 +50%；闪避 +10,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+塞壬的螺号,Siren's Conch,boss_siren,猎获,通用,减益抗性 +50%；受到压力 -20%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+点火人的引燃棒,Fuseman's Matchstick,boss_cannon,猎获,通用,速度 +2；伤害 +10%（远程）；暴击率 +6%（远程）,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+先知的眼睛,Prophet's Eye,boss_prophet,猎获,通用,命中 +15（位置4）；速度 +3（位置4）；受到压力 -15%（位置4）,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+血肉之心,Flesh's Heart,boss_flesh,猎获,通用,流血抗性 +50%；最大生命 +15%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+船长的铃铛,Crew's Bell,boss_crew,猎获,通用,位移抗性 +50%；受到治疗 +20%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+“头狼”挂坠,Vvulf's Tassel,boss_tassle,猎获,通用,伤害 +20%（自身状态：tagged）；命中 +10（自身状态：tagged）；暴击率 +5%（目标体型2）,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+强力大蒜,Fortifying Garlic,fortifying_garlic,橙色/非常稀有,通用,腐蚀抗性 +33%；流血抗性 +33%；疾病抗性 +33%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+缥缈十字架,Ethereal Crucifix,ethereal_crucifix,橙色/非常稀有,通用,伤害 +25%（对异魔）；流血抗性 +30%；最大生命 -20%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+诱惑酒杯,The Tempting Goblet,tempting_goblet,廷臣,通用,最大生命 +20%；速度 +3；闪避 +8；受到压力 +25%；美德概率 -10%,,,,游戏安装目录/trinkets/base.entries.trinkets.json
+暴怒帽子,Wrathful Hat,wrathful_hat,橙色/非常稀有,火枪手,伤害 +25%（位置4）；减益技能概率 +30%；治疗量 -50%,,,,游戏安装目录/dlc/445700_musketeer/trinkets/musketeer.entries.trinkets.json
+靶心帽子,Bulls-Eye Hat,bulls_eye_hat,蓝色/稀有,火枪手,命中 +8；暴击率 +5%；闪避 -4,,,,游戏安装目录/dlc/445700_musketeer/trinkets/musketeer.entries.trinkets.json
+医疗之靴,Medic's Boots,medics_boots,绿色/优良,火枪手,治疗量 +33%,,,,游戏安装目录/dlc/445700_musketeer/trinkets/musketeer.entries.trinkets.json
+强壮之靴,Sturdy Boots,sturdy_boots,白色/普通,火枪手,位移抗性 +30%；位移技能概率 +30%；速度 -1,,,,游戏安装目录/dlc/445700_musketeer/trinkets/musketeer.entries.trinkets.json
+复仇之靴,Vengeful Boots,vengeful_boots,白色/普通,火枪手,暴击率 +3%,,,,游戏安装目录/dlc/445700_musketeer/trinkets/musketeer.entries.trinkets.json
+水银药膏,Mercurial Salve,cc_quicksilver_salve,橙色/非常稀有,通用,伤害 +25%（对vampire）,,,,游戏安装目录/dlc/580100_crimson_court/features/crimson_court/trinkets/crimson_court.entries.trinkets.json
+耀眼的镜子,Dazzling Mirror,cc_dazzling_mirror,橙色/非常稀有,通用,速度 +4（场上至少 1 个vampire）；眩晕技能概率 +20%（对vampire）,,,,游戏安装目录/dlc/580100_crimson_court/features/crimson_court/trinkets/crimson_court.entries.trinkets.json
+斋戒符咒,Mantra of Fasting,cc_mantra_of_fasting,橙色/非常稀有,通用,"最大生命 +40%（has_quirk(disease_vampire_wasting, 0)）；速度 +7（has_quirk(disease_vampire_wasting, 0)）",,,,游戏安装目录/dlc/580100_crimson_court/features/crimson_court/trinkets/crimson_court.entries.trinkets.json
+老鼠的遗骸,Rat Carcass,cc_rat_carcass,橙色/非常稀有,通用,quirk_evolution_death_immune/: +1,,,,游戏安装目录/dlc/580100_crimson_court/features/crimson_court/trinkets/crimson_court.entries.trinkets.json
+宴会图章,Coven Signet,cc_coven_signet,橙色/非常稀有,通用,受到压力 -25%（受猩红诅咒时）,,,,游戏安装目录/dlc/580100_crimson_court/features/crimson_court/trinkets/crimson_court.entries.trinkets.json
+先祖的佳酿,Ancestor's Vintage,cc_crimson_tincture,橙色/非常稀有,通用,vampire_evolution_duration/: +69,,,,游戏安装目录/dlc/580100_crimson_court/features/crimson_court/trinkets/crimson_court.entries.trinkets.json
+雕塑家的工具,Sculptor's Tools,cc_sculptors_tools,橙色/非常稀有,通用,伤害 +40%（对stonework）,,,,游戏安装目录/dlc/580100_crimson_court/features/crimson_court/trinkets/crimson_court.entries.trinkets.json
+男爵的鞭子,Baron's Lash,cc_boss_baron,猎获,通用,减益抗性 +75%（受猩红诅咒时）；速度 +4（受猩红诅咒时）；眩晕抗性 -10%（受猩红诅咒时）,,,,游戏安装目录/dlc/580100_crimson_court/features/crimson_court/trinkets/crimson_court.entries.trinkets.json
+子爵的香料,Viscount's Spices,cc_boss_viscount,猎获,通用,暴击率 +5%（受猩红诅咒时）；受到治疗 +100%（受猩红诅咒时）；食物消耗 +100%（受猩红诅咒时）,,,,游戏安装目录/dlc/580100_crimson_court/features/crimson_court/trinkets/crimson_court.entries.trinkets.json
+伯爵夫人的扇子,Countess' Fan,cc_boss_countess,猎获,通用,受到治疗 +50%（受猩红诅咒时）；流血抗性 -25%（受猩红诅咒时）,,,,游戏安装目录/dlc/580100_crimson_court/features/crimson_court/trinkets/crimson_court.entries.trinkets.json
+屈辱披风,Shameful Shroud,cc_set_abom_shameful_shroud,庭院,咒缚者,受到压力 -15%；闪避 +10,伤害 +20%（位置1）,cc_abom,,游戏安装目录/dlc/580100_crimson_court/features/crimson_court/trinkets/crimson_court.entries.trinkets.json
+神护锁链,Osmond Chains,cc_set_abom_wrought_osmond_chains,庭院,咒缚者,伤害 +20%（远程）；暴击率 +8%（远程）,伤害 +20%（位置1）,cc_abom,,游戏安装目录/dlc/580100_crimson_court/features/crimson_court/trinkets/crimson_court.entries.trinkets.json
+三相之二,Two of Three,cc_set_anti_two_of_the_three,庭院,古董商人,伤害 +50%（自身腐蚀时）；暴击率 +8%（自身腐蚀时）,速度 +4；闪避 +10,cc_anti,,游戏安装目录/dlc/580100_crimson_court/features/crimson_court/trinkets/crimson_court.entries.trinkets.json
+主人的精华,The Master's Essence,cc_set_anti_the_masters_essence,庭院,古董商人,治疗量 +50%；腐蚀技能概率 +35%；减益技能概率 +35%,速度 +4；闪避 +10,cc_anti,,游戏安装目录/dlc/580100_crimson_court/features/crimson_court/trinkets/crimson_court.entries.trinkets.json
+睡前故事,Bedtime Story,cc_set_arb_sharpshooters_string_wax,庭院,弩手,命中 +15（自身状态：tagged）；暴击率 +8%（自身状态：tagged）；减益技能概率 +35%；位移技能概率 +35%,防御 +25%,cc_arb,,游戏安装目录/dlc/580100_crimson_court/features/crimson_court/trinkets/crimson_court.entries.trinkets.json
+童年的宝藏,Childhood Treasure,cc_set_arb_childhood_treasure,庭院,弩手,治疗量 +30%；治疗量 +20%（扎营时）；受到压力 -15%,防御 +25%,cc_arb,,游戏安装目录/dlc/580100_crimson_court/features/crimson_court/trinkets/crimson_court.entries.trinkets.json
+黑道老大的臼齿,Crime Lords' Molars,cc_set_bh_crime_lords_molars,庭院,赏金猎人,伤害 +20%（自身状态：tagged）；伤害 +20%（自身状态：stunned）；伤害 +20%（自身流血时）；闪避 -10,暴击率 +5%（自身状态：tagged）；暴击率 +5%（自身状态：stunned）；暴击率 +5%（自身流血时）,cc_bh,,游戏安装目录/dlc/580100_crimson_court/features/crimson_court/trinkets/crimson_court.entries.trinkets.json
+充满仇恨的杀戮名单,Vengeful Kill List,cc_set_bh_vow_of_revenge,庭院,赏金猎人,位移技能概率 +50%；流血技能概率 +35%；命中 +15（远程）,暴击率 +5%（自身状态：tagged）；暴击率 +5%（自身状态：stunned）；暴击率 +5%（自身流血时）,cc_bh,,游戏安装目录/dlc/580100_crimson_court/features/crimson_court/trinkets/crimson_court.entries.trinkets.json
+闪亮的肩甲,Glittering Spaulders,cc_set_cru_glittering_spaulders,庭院,十字军,防御 +15%；位移抗性 +35%；受到压力 -15%；速度 -2,最大生命 +20%,cc_cru,,游戏安装目录/dlc/580100_crimson_court/features/crimson_court/trinkets/crimson_court.entries.trinkets.json
+签署的动员章,Signed Conscription,cc_set_cru_signed_conscription,庭院,十字军,治疗量 +20%；压力治疗量 +20%,最大生命 +20%,cc_cru,,游戏安装目录/dlc/580100_crimson_court/features/crimson_court/trinkets/crimson_court.entries.trinkets.json
+苦艾酒,Absinthe,cc_set_gr_absinthe,庭院,盗墓贼,疾病抗性 +35%；腐蚀抗性 +35%；腐蚀技能概率 +35%；最大生命 -10%,暴击率 +5%,cc_gr,,游戏安装目录/dlc/580100_crimson_court/features/crimson_court/trinkets/crimson_court.entries.trinkets.json
+锋利的开信刀,Sharpened Letter Opener,cc_set_gr_sharpened_letter_opener,庭院,盗墓贼,伤害 +25%（近战）；命中 +10（近战）；闪避 +5,暴击率 +5%,cc_gr,,游戏安装目录/dlc/580100_crimson_court/features/crimson_court/trinkets/crimson_court.entries.trinkets.json
+雌狮战痕,Lioness Warpaint,cc_set_hel_lioness_warpaint,庭院,蛮族战士,伤害 +20%（生命比例低于75%）；伤害 +20%（生命比例低于50%）；伤害 +20%（生命比例低于25%）；受到压力 +10%,命中 +7；闪避 +7,cc_hel,,游戏安装目录/dlc/580100_crimson_court/features/crimson_court/trinkets/crimson_court.entries.trinkets.json
+放逐印记,Mark of the Outcast,cc_set_hel_mark_of_the_outcast,庭院,蛮族战士,速度 +2；流血技能概率 +35%；死亡抗性 +15%；受到治疗 -15%,命中 +7；闪避 +7,cc_hel,,游戏安装目录/dlc/580100_crimson_court/features/crimson_court/trinkets/crimson_court.entries.trinkets.json
+羞耻吊坠,Shameful Locket,cc_set_high_shameful_locket,庭院,强盗,命中 +10；暴击率 +5%；受到压力 +15%,美德概率 +45%,cc_high,,游戏安装目录/dlc/580100_crimson_court/features/crimson_court/trinkets/crimson_court.entries.trinkets.json
+染血围巾,Bloodied Neckerchief,cc_set_high_bloodied_neckerchief,庭院,强盗,速度 +2；闪避 +10,美德概率 +45%,cc_high,,游戏安装目录/dlc/580100_crimson_court/features/crimson_court/trinkets/crimson_court.entries.trinkets.json
+破损警章,Battered Lawman's Badge,cc_set_hm_lawmans_badge,庭院,驯犬师,命中 +15（远程）；压力治疗量 +50%（扎营时）；治疗量 +25%；眩晕抗性 -20%；减益抗性 -20%,伤害 +25%（自身流血时）；暴击率 +5%（自身流血时）,cc_hm,,游戏安装目录/dlc/580100_crimson_court/features/crimson_court/trinkets/crimson_court.entries.trinkets.json
+腐败之证,Evidence of Corruption,cc_set_hm_damning_evidence,庭院,驯犬师,侦察概率 +25%；我方被突袭概率 -15%；受到压力 +10%,伤害 +25%（自身流血时）；暴击率 +5%（自身流血时）,cc_hm,,游戏安装目录/dlc/580100_crimson_court/features/crimson_court/trinkets/crimson_court.entries.trinkets.json
+暴君的品酒杯,Tyrant's Tasting Cup,cc_set_jest_tasting_cup,庭院,小丑,压力治疗量 +33%；受到压力 +25%,压力治疗量 +33%（扎营时）,cc_jest,,游戏安装目录/dlc/580100_crimson_court/features/crimson_court/trinkets/crimson_court.entries.trinkets.json
+暴君的指骨,Tyrant's Fingerbone,cc_set_jest_tyrants_fingerbone,庭院,小丑,速度 +3（位置1）；闪避 +20（位置1）,压力治疗量 +33%（扎营时）,cc_jest,,游戏安装目录/dlc/580100_crimson_court/features/crimson_court/trinkets/crimson_court.entries.trinkets.json
+长笛,Tin Flute,cc_set_lep_tin_flute,庭院,麻风剑客,受到压力 -20%；压力治疗量 +33%（扎营时）,命中 +15（生命比例高于60%）,cc_lep,,游戏安装目录/dlc/580100_crimson_court/features/crimson_court/trinkets/crimson_court.entries.trinkets.json
+临终遗嘱,Last Will and Testament,cc_set_lep_last_will_and_testament,庭院,麻风剑客,防御 +15%；最大生命 +15%；死亡抗性 -10%,命中 +15（生命比例高于60%）,cc_lep,,游戏安装目录/dlc/580100_crimson_court/features/crimson_court/trinkets/crimson_court.entries.trinkets.json
+旧役旗标,Old Unit Standard,cc_set_maa_old_unit_banner,庭院,老兵,眩晕技能概率 +15%；减益技能概率 +20%；死亡抗性 +15%；受到压力 +10%,"伤害 +25%（riposte(, 0)）；命中 +10（riposte(, 0)）",cc_maa,,游戏安装目录/dlc/580100_crimson_court/features/crimson_court/trinkets/crimson_court.entries.trinkets.json
+玩具士兵,Toy Soldier,cc_set_maa_toy_soldier,庭院,老兵,防御 +10%；暴击率 +5%,"伤害 +25%（riposte(, 0)）；命中 +10（riposte(, 0)）",cc_maa,,游戏安装目录/dlc/580100_crimson_court/features/crimson_court/trinkets/crimson_court.entries.trinkets.json
+一瓶黄沙,Vial of Sand,cc_set_occ_vial_of_sand,庭院,神秘学者,眩晕技能概率 +20%；减益技能概率 +20%；位移技能概率 +20%；眩晕抗性 +20%,闪避 +15,cc_occ,,游戏安装目录/dlc/580100_crimson_court/features/crimson_court/trinkets/crimson_court.entries.trinkets.json
+血之契约,Blood Pact,cc_set_occ_blood_pact,庭院,神秘学者,速度 +4（火炬亮度低于60）；伤害 +25%（火炬亮度低于60）；流血技能概率 -25%；最大生命 -10%,闪避 +15,cc_occ,,游戏安装目录/dlc/580100_crimson_court/features/crimson_court/trinkets/crimson_court.entries.trinkets.json
+第40号实验的记录,Subject #40 Notes,cc_set_pd_codex_of_plagues,庭院,瘟疫医生,最大生命 +25%；疾病抗性 +35%,腐蚀技能概率 +15%；眩晕技能概率 +15%,cc_pd,,游戏安装目录/dlc/580100_crimson_court/features/crimson_court/trinkets/crimson_court.entries.trinkets.json
+解剖工具,Dissection Kit,cc_set_pd_dissection_kit,庭院,瘟疫医生,流血技能概率 +35%；伤害 +25%,腐蚀技能概率 +15%；眩晕技能概率 +15%,cc_pd,,游戏安装目录/dlc/580100_crimson_court/features/crimson_court/trinkets/crimson_court.entries.trinkets.json
+赎罪念珠,Atonement Beads,cc_set_vest_atonement_beads,庭院,修女,伤害 +15%（近战）；暴击率 +8%（近战）；美德概率 -15%,减益技能概率 +35%；眩晕技能概率 +35%,cc_vest,,游戏安装目录/dlc/580100_crimson_court/features/crimson_court/trinkets/crimson_court.entries.trinkets.json
+背德日记,Salacious Diary,cc_set_vest_salacious_diary,庭院,修女,压力治疗量 +33%（扎营时）；治疗量 +25%,减益技能概率 +35%；眩晕技能概率 +35%,cc_vest,,游戏安装目录/dlc/580100_crimson_court/features/crimson_court/trinkets/crimson_court.entries.trinkets.json
+断裂的牙齿,Chipped Tooth,cc_set_flag_chipped_tooth,庭院,苦修者,最大生命 +20%；位移抗性 +35%,死亡抗性 +10%,cc_flag,,游戏安装目录/dlc/580100_crimson_court/features/crimson_court/trinkets/crimson_court.entries.trinkets.json
+玻璃碎片,Shard of Glass,cc_set_flag_shard_of_glass,庭院,苦修者,流血技能概率 +35%；流血抗性 -20%,死亡抗性 +10%,cc_flag,,游戏安装目录/dlc/580100_crimson_court/features/crimson_court/trinkets/crimson_court.entries.trinkets.json
+苦难领环,Suffering's Collar,flag_2,蓝色/稀有,苦修者,流血抗性 +20%（生命比例低于40%）；腐蚀抗性 +20%（生命比例低于40%）；最大生命 +10%,,,,游戏安装目录/dlc/580100_crimson_court/features/flagellant/trinkets/flagellant.entries.trinkets.json
+惩罚头巾,Punishment's Hood,flag_3,绿色/优良,苦修者,流血技能概率 +20%；伤害 +15%（生命比例低于40%）；治疗量 -20%,,,,游戏安装目录/dlc/580100_crimson_court/features/flagellant/trinkets/flagellant.entries.trinkets.json
+复生领环,Resurrection's Collar,flag_4,绿色/优良,苦修者,治疗量 +33%；流血技能概率 -15%,,,,游戏安装目录/dlc/580100_crimson_court/features/flagellant/trinkets/flagellant.entries.trinkets.json
+裂心头巾,Heartburst Hood,flag_5,白色/普通,苦修者,速度 +4（生命比例低于40%）,,,,游戏安装目录/dlc/580100_crimson_court/features/flagellant/trinkets/flagellant.entries.trinkets.json
+蛇毒之瓶,Venomous Vial,sb_1,破盾者,破盾者,腐蚀技能概率 +30%；腐蚀抗性 -10%,,,,游戏安装目录/dlc/702540_shieldbreaker/trinkets/shieldbreaker.entries.trinkets.json
+闪光蛇鳞,Shimmering Scale,sb_2,破盾者,破盾者,防御 +10%；受到压力 +5%,,,,游戏安装目录/dlc/702540_shieldbreaker/trinkets/shieldbreaker.entries.trinkets.json
+舞者的缠足布,Dancer's Footwraps,sb_3,破盾者,破盾者,位移抗性 +40%；速度 +2,,,,游戏安装目录/dlc/702540_shieldbreaker/trinkets/shieldbreaker.entries.trinkets.json
+利牙矛尖,Fanged Spear Tip,sb_4,破盾者,破盾者,伤害 +35%（自身状态：tagged）；伤害 -10%,,,,游戏安装目录/dlc/702540_shieldbreaker/trinkets/shieldbreaker.entries.trinkets.json
+坚皮衣甲,Cuirboilli,sb_5,破盾者,破盾者,最大生命 +33%；速度 -2,,,,游戏安装目录/dlc/702540_shieldbreaker/trinkets/shieldbreaker.entries.trinkets.json
+黑耀石匕首,Obsidian Dagger,sb_set_1,破盾者,破盾者,减益技能概率 +40%；腐蚀技能概率 +40%,最大生命 +15%；防御 +10%；guard_blocked/: +1,sb_set1,,游戏安装目录/dlc/702540_shieldbreaker/trinkets/shieldbreaker.entries.trinkets.json
+被切断的手,Severed Hand,sb_set_2,破盾者,破盾者,腐蚀抗性 +50%；受到压力 -10%,最大生命 +15%；防御 +10%；guard_blocked/: +1,sb_set1,,游戏安装目录/dlc/702540_shieldbreaker/trinkets/shieldbreaker.entries.trinkets.json
+米尔德里德的吊坠,Mildred's Locket,com_mildredslocket,米尔德丽德,通用,"受到伤害 -100%（skill(grind_the_grist, 0)）；腐蚀抗性 +40%；速度 +3；伤害 +40%（对unfortunate_soul）",,,0,游戏安装目录/dlc/735730_color_of_madness/trinkets/com.entries.trinkets.json
+彗星透镜,Lens of the Comet,com_lens_of_comet,水晶,通用,"无视潜行；美德概率 -20%；暴击率 +5%（has_item_id(spice, 0)）",,,25,游戏安装目录/dlc/735730_color_of_madness/trinkets/com.entries.trinkets.json
+石化颅骨,Petrified Skull,com_occ_elder_sign,水晶,神秘学者,防御 +40%（受到husk攻击时）；受到治疗 -20%；防御 +30%（受到异魔攻击时）；最大生命 +15%,,,25,游戏安装目录/dlc/735730_color_of_madness/trinkets/com.entries.trinkets.json
+镜罩,Mirror Shield,com_maa_mirror_shield,水晶,老兵,闪避 +10；damage_reflect_percent/reflected_dmg: +0.3；眩晕抗性 +20%,,,75,游戏安装目录/dlc/735730_color_of_madness/trinkets/com.entries.trinkets.json
+异教文章,Heretical Passage,com_ves_heretical_passages,水晶,修女,"治疗量 +20%（has_item_id(holy_water, 0)）；伤害 +25%（对husk）；伤害 +25%（对异魔）；受到压力 +10%",,,70,游戏安装目录/dlc/735730_color_of_madness/trinkets/com.entries.trinkets.json
+尘埃蒸馏,Ashen Distillation,com_pd_ashen_distillation,水晶,瘟疫医生,"闪避 +20；腐蚀技能概率 +25%；受到治疗 +20%（has_item_id(medicinal_herbs, 0)）",,,45,游戏安装目录/dlc/735730_color_of_madness/trinkets/com.entries.trinkets.json
+冒烟颅骨,Smoking Skull,com_ant_smoking_skull,水晶,古董商人,"闪避 +35（has_item_id(spice, 0)）；命中 -15；腐蚀抗性 -15%",,,45,游戏安装目录/dlc/735730_color_of_madness/trinkets/com.entries.trinkets.json
+永恒面具,Mask Of The Timeless,com_bh_mask_of_timeless,水晶,赏金猎人,速度 +2；闪避 +15；受到压力 +5%,,,75,游戏安装目录/dlc/735730_color_of_madness/trinkets/com.entries.trinkets.json
+吞噬者挽歌,Dirge For The Devoured,com_jes_dirge_for_devoured,水晶,小丑,"压力治疗量 +25%；伤害 +25%（has_item_id(laudanum, 0)）；受到压力 +10%",,,60,游戏安装目录/dlc/735730_color_of_madness/trinkets/com.entries.trinkets.json
+破损钥匙,Broken Key,com_abom_broken_key,水晶,咒缚者,命中 +15；眩晕技能概率 +35%；受到压力 +10%,,,30,游戏安装目录/dlc/735730_color_of_madness/trinkets/com.entries.trinkets.json
+珍贵药剂,Topshelf Tonic,com_grv_huskclaw_toxin,水晶,盗墓贼,"闪避 +15（has_item_id(medicinal_herbs, 0)）；速度 +3；腐蚀抗性 -20%；hp_dot_poison_duration_percent/: +0.5",,,80,游戏安装目录/dlc/735730_color_of_madness/trinkets/com.entries.trinkets.json
+晶体火药,Crystalline Gunpowder,com_hwy_crystalline_gunpowder,水晶,强盗,伤害 +20%；速度 +3；眩晕抗性 -15%,,,90,游戏安装目录/dlc/735730_color_of_madness/trinkets/com.entries.trinkets.json
+瘪牙尖哨,Huskfang Whistle,com_hnd_huskfang_whistle,水晶,驯犬师,"流血技能概率 +50%（has_item_id(dog_treats, 0)）；压力治疗量 +40%（is_guarding(, 0)）；闪避 -10；guard_duration_percent/: +0.66",,,70,游戏安装目录/dlc/735730_color_of_madness/trinkets/com.entries.trinkets.json
+石化护身符,Petrified Amulet,com_lep_crystalized_amulet,水晶,麻风剑客,"命中 +10（has_item_id(bandage, 0)）；最大生命 +15%；流血抗性 -15%",,,80,游戏安装目录/dlc/735730_color_of_madness/trinkets/com.entries.trinkets.json
+幽灵矛尖,Spectral Speartip,com_sb_spectral_speartip,水晶,破盾者,伤害 +15%；攻击随机目标概率 +5%；腐蚀技能概率 +20%；最大生命 +15%,,,65,游戏安装目录/dlc/735730_color_of_madness/trinkets/com.entries.trinkets.json
+酸性灵液,Acidic Husk Ichor,com_flag_acidic_husk_ichor,水晶,苦修者,最大生命 -25%；伤害 +30%；流血技能概率 +30%（对husk）；受到治疗 +25%（生命比例低于20%）,,,65,游戏安装目录/dlc/735730_color_of_madness/trinkets/com.entries.trinkets.json
+水晶吊坠,Crystal Pendant,com_comet_seed_pendant,水晶,通用,碎片奖励 +15%；受到压力 +15%,,,65,游戏安装目录/dlc/735730_color_of_madness/trinkets/com.entries.trinkets.json
+水晶簇吊坠,Cluster Pendant,com_comet_cluster_pendant,水晶,通用,碎片奖励 +25%；受到压力 +15%,,,100,游戏安装目录/dlc/735730_color_of_madness/trinkets/com.entries.trinkets.json
+超级火枪子弹,Icosahedric Musket Balls,com_msk_icosahedric_balls,水晶,火枪手,伤害 +20%；攻击随机目标概率 +20%,,,150,游戏安装目录/dlc/735730_color_of_madness/trinkets/com.entries.trinkets.json
+棱镜心形水晶,Prismatic Heart Crystal,com_prismatic_heart_crystal,星之彩,通用,"腐蚀技能概率 +35%（actor_base_class(thing, 0)）；流血技能概率 +35%（actor_base_class(thing, 0)）；暴击率 +12%（actor_base_class(thing, 0)）",,,0,游戏安装目录/dlc/735730_color_of_madness/trinkets/com.entries.trinkets.json
+怪物的水晶牙,Thing's Crystalline Fang,com_thing_fang,星之彩,通用,眩晕技能概率 +10%（生命比例高于40%）；眩晕技能概率 +40%（生命比例低于41%）,,,0,游戏安装目录/dlc/735730_color_of_madness/trinkets/com.entries.trinkets.json
+怪物相移皮肤,Thing's Phase Shifting Hide,com_thing_hide,星之彩,通用,受到压力 -15%（生命比例高于41%）；受到压力 -50%（生命比例低于40%）,,,0,游戏安装目录/dlc/735730_color_of_madness/trinkets/com.entries.trinkets.json
+怪物迷人的眼睛,Thing's Mesmerizing Eye,com_thing_eye,星之彩,通用,暴击率 +4%（生命比例高于41%）；暴击率 +8%（生命比例低于40%）,,,0,游戏安装目录/dlc/735730_color_of_madness/trinkets/com.entries.trinkets.json
+非欧刀柄,Non-Euclidean Hilt,com_cru_non_euclidean_hilt,水晶,十字军,"最大生命 +15%；攻击随机目标概率 +5%；眩晕技能概率 +25%（has_item_id(holy_water, 0)）",,,200,游戏安装目录/dlc/735730_color_of_madness/trinkets/special_com.entries.trinkets.json
+锐利箭矢,Keening Bolts,com_arb_keening_bolts,水晶,弩手,伤害 +20%；暴击率 +7%（远程）,,,170,游戏安装目录/dlc/735730_color_of_madness/trinkets/special_com.entries.trinkets.json
+嗜血之刃,Thirsting Blade,com_hel_thirsting_blade,水晶,蛮族战士,命中 +15；流血抗性 -20%；速度 +2；暴击率 +8%（自身流血时）,,,120,游戏安装目录/dlc/735730_color_of_madness/trinkets/special_com.entries.trinkets.json
+彩色外套,Coat Of Many Colors,com_coat_many_colours,水晶,通用,,,,180,游戏安装目录/dlc/735730_color_of_madness/trinkets/special_com.entries.trinkets.json
+磨坊主的烟斗,Miller's Pipe,com_millers_pipe,水晶,通用,,,,180,游戏安装目录/dlc/735730_color_of_madness/trinkets/special_com.entries.trinkets.json
