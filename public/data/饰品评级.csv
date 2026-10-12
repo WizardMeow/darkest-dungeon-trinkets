@@ -1,0 +1,625 @@
+﻿分类,饰品名称,评级对象,实用程度,获取优先,介绍,限定条件,适用职业,游戏属性,套装效果,出售价格,时间,图片ID,截图地址,视频地址,饰品ID,图中名称,同页评级范围,名称核对状态,正文识别状态,来源平台,UP主,UP主主页,原视频合集
+灰白,生命魔石,单品,C,D,"脆皮英雄暂时使用，例如0级古商、0级小丑。
+点出2级甲后就不需要了，卖掉补贴日常支出。",,通用,最大生命 +10%；速度 -1,,750,00:00:59,BV1J1dzBnEyd_008_00-00-59,frames/BV1J1dzBnEyd_008_00-00-59.jpg,https://www.bilibili.com/video/BV1J1dzBnEyd/?t=59,health_stone,生命魔石,同页共同评级（生命魔石；防御魔石）,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+灰白,防御魔石,单品,C,D,"脆皮英雄暂时使用，例如0级古商、0级小丑。
+点出2级甲后就不需要了，卖掉补贴日常支出。",,通用,防御 +5%；速度 -1,,750,00:00:59,BV1J1dzBnEyd_008_00-00-59,frames/BV1J1dzBnEyd_008_00-00-59.jpg,https://www.bilibili.com/video/BV1J1dzBnEyd/?t=59,protection_stone,防御魔石,同页共同评级（生命魔石；防御魔石）,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+灰白,闪避魔石,单品,D,D,"4点闪避的回报过小，且不如生命值、防御稳定，
+与减速的效果不匹配。即使没有饰品，也不会带你。",,通用,闪避 +4；速度 -1,,750,00:01:33,BV1J1dzBnEyd_010_00-01-33,frames/BV1J1dzBnEyd_010_00-01-33.jpg,https://www.bilibili.com/video/BV1J1dzBnEyd/?t=93,dodge_stone,闪避魔石,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+灰白,命中魔石,单品,B,C,"-1速度的瑕疵，难掩精准之魅力。
+此物输出英雄优先，控制英雄次选。",※兽窟专属饰品,通用,命中 +4；速度 -1,,750,00:01:50,BV1J1dzBnEyd_012_00-01-50,frames/BV1J1dzBnEyd_012_00-01-50.jpg,https://www.bilibili.com/video/BV1J1dzBnEyd/?t=110,accuracy_stone,命中魔石,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+灰白,暴击魔石,单品,C,D,可以给麻风/十字/弩手等速度较慢的英雄。,※兽窟专属饰品,通用,暴击率 +3%；速度 -1,,750,00:02:13,BV1J1dzBnEyd_013_00-02-13,frames/BV1J1dzBnEyd_013_00-02-13.jpg,https://www.bilibili.com/video/BV1J1dzBnEyd/?t=133,critical_stone,暴击魔石,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+灰白,中毒魔石,单品,C,D,"增加技能概率，学徒期用来过渡和对策。
+瘟疫拿中毒魔石输出死灵、塞壬：
+苦修拿流血魔石在海湾打流血：
+赏金拿位移魔石在遗迹打控制...",,通用,腐蚀技能概率 +15%；速度 -1,,750,00:02:26,BV1J1dzBnEyd_014_00-02-26,frames/BV1J1dzBnEyd_014_00-02-26.jpg,https://www.bilibili.com/video/BV1J1dzBnEyd/?t=146,blight_stone,中毒魔石,同页共同评级（中毒魔石；流血魔石；位移魔石）,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+灰白,流血魔石,单品,C,D,"增加技能概率，学徒期用来过渡和对策。
+瘟疫拿中毒魔石输出死灵、塞壬：
+苦修拿流血魔石在海湾打流血：
+赏金拿位移魔石在遗迹打控制...",,通用,流血技能概率 +15%；速度 -1,,750,00:02:26,BV1J1dzBnEyd_014_00-02-26,frames/BV1J1dzBnEyd_014_00-02-26.jpg,https://www.bilibili.com/video/BV1J1dzBnEyd/?t=146,bleed_stone,流血魔石,同页共同评级（中毒魔石；流血魔石；位移魔石）,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+灰白,位移魔石,单品,C,D,"增加技能概率，学徒期用来过渡和对策。
+瘟疫拿中毒魔石输出死灵、塞壬：
+苦修拿流血魔石在海湾打流血：
+赏金拿位移魔石在遗迹打控制...",,通用,位移技能概率 +15%；速度 -1,,750,00:02:26,BV1J1dzBnEyd_014_00-02-26,frames/BV1J1dzBnEyd_014_00-02-26.jpg,https://www.bilibili.com/video/BV1J1dzBnEyd/?t=146,move_stone,位移魔石,同页共同评级（中毒魔石；流血魔石；位移魔石）,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+灰白,减益魔石,单品,C,C,"增加技能概率，学徒期用来过渡和对策。
+老兵拿减益魔石给敌人挂怒吼：
+麻风拿减益魔石威吓先知，减少落石伤害...",※遗迹专属饰品,通用,减益技能概率 +15%；速度 -1,,750,00:02:51,BV1J1dzBnEyd_016_00-02-51,frames/BV1J1dzBnEyd_016_00-02-51.jpg,https://www.bilibili.com/video/BV1J1dzBnEyd/?t=171,debuff_stone,减益魔石,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+灰白,眩晕魔石,单品,B,C,"珍贵的眩晕概率，多用于0级控制英雄，避免星不住。
+狼人情况特殊，基础眩晕概率最低，输在了起跑线上，
+故而可以用很长一段时间，直至获得上位饰品。",,通用,眩晕技能概率 +10%；速度 -1,,750,00:03:18,BV1J1dzBnEyd_020_00-03-18,frames/BV1J1dzBnEyd_020_00-03-18.jpg,https://www.bilibili.com/video/BV1J1dzBnEyd/?t=198,stun_stone,眩晕魔石,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+灰白,错位挂坠,单品,C,D,"增加对应抗性，学徒期用来过渡和对策。
+错位挂坠防止船员、鳄鱼拉前：
+避邪挂坠干扰塞壬抓人：
+瘟疫护坠减少荒野、兽窟得病：
+抗毒挂坠减少荒野、兽窟腐蚀..",,通用,位移抗性 +20%；速度 -1,,750,00:03:40,BV1J1dzBnEyd_021_00-03-40,frames/BV1J1dzBnEyd_021_00-03-40.jpg,https://www.bilibili.com/video/BV1J1dzBnEyd/?t=220,move_charm,错位挂坠,同页共同评级（错位挂坠；避邪挂坠；瘟疫护坠；抗毒挂坠）,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+灰白,避邪挂坠,单品,C,D,"增加对应抗性，学徒期用来过渡和对策。
+错位挂坠防止船员、鳄鱼拉前：
+避邪挂坠干扰塞壬抓人：
+瘟疫护坠减少荒野、兽窟得病：
+抗毒挂坠减少荒野、兽窟腐蚀..",,通用,减益抗性 +20%；闪避 -2,,750,00:03:40,BV1J1dzBnEyd_021_00-03-40,frames/BV1J1dzBnEyd_021_00-03-40.jpg,https://www.bilibili.com/video/BV1J1dzBnEyd/?t=220,debuff_charm,避邪挂坠,同页共同评级（错位挂坠；避邪挂坠；瘟疫护坠；抗毒挂坠）,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+灰白,瘟疫护坠,单品,C,D,"增加对应抗性，学徒期用来过渡和对策。
+错位挂坠防止船员、鳄鱼拉前：
+避邪挂坠干扰塞壬抓人：
+瘟疫护坠减少荒野、兽窟得病：
+抗毒挂坠减少荒野、兽窟腐蚀..",,通用,疾病抗性 +20%；闪避 -2,,750,00:03:40,BV1J1dzBnEyd_021_00-03-40,frames/BV1J1dzBnEyd_021_00-03-40.jpg,https://www.bilibili.com/video/BV1J1dzBnEyd/?t=220,disease_charm,瘟疫护坠,同页共同评级（错位挂坠；避邪挂坠；瘟疫护坠；抗毒挂坠）,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+灰白,抗毒挂坠,单品,C,D,"增加对应抗性，学徒期用来过渡和对策。
+错位挂坠防止船员、鳄鱼拉前：
+避邪挂坠干扰塞壬抓人：
+瘟疫护坠减少荒野、兽窟得病：
+抗毒挂坠减少荒野、兽窟腐蚀..",,通用,腐蚀抗性 +20%；闪避 -2,,750,00:03:40,BV1J1dzBnEyd_021_00-03-40,frames/BV1J1dzBnEyd_021_00-03-40.jpg,https://www.bilibili.com/video/BV1J1dzBnEyd/?t=220,blight_charm,抗毒挂坠,同页共同评级（错位挂坠；避邪挂坠；瘟疫护坠；抗毒挂坠）,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+灰白,血腥挂坠,单品,B,C,"流血怪物更多，所以流血抗性更加实用。
+可以配合学者的命运重构，预防流血
+提高苦修的生存能力，同时降低授教的流血频率。",※荒野专属饰品,通用,流血抗性 +20%；闪避 -2,,750,00:04:14,BV1J1dzBnEyd_022_00-04-14,frames/BV1J1dzBnEyd_022_00-04-14.jpg,https://www.bilibili.com/video/BV1J1dzBnEyd/?t=254,bleed_charm,血腥挂坠,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+灰白,眩晕挂坠,单品,B,C,"增加老兵眩晕抗性，防止中断守护。
+增加治疗位眩晕抗性，尽量保证抬死门。
+先知、猪王、血肉、头狼对策饰品。",※遗迹专属饰品,通用,眩晕抗性 +20%；闪避 -2,,750,00:04:41,BV1J1dzBnEyd_023_00-04-41,frames/BV1J1dzBnEyd_023_00-04-41.jpg,https://www.bilibili.com/video/BV1J1dzBnEyd/?t=281,stun_charm,眩晕挂坠,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+灰白,光滑长靴,单品,C,D,站位灵活的英雄可带，如盗墓、强盗。,,通用,闪避 +4；位移抗性 -20%,,1125,00:05:15,BV1J1dzBnEyd_025_00-05-15,frames/BV1J1dzBnEyd_025_00-05-15.jpg,https://www.bilibili.com/video/BV1J1dzBnEyd/?t=315,slippery_boots,光滑长靴,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+灰白,恶化护腕,单品,D,D,两个字，抽象。,※荒野专属饰品,通用,闪避 +10（生命比例高于75%）；闪避 -6（生命比例低于50%）,,1125,00:05:32,BV1J1dzBnEyd_026_00-05-32,frames/BV1J1dzBnEyd_026_00-05-32.jpg,https://www.bilibili.com/video/BV1J1dzBnEyd/?t=332,deteriorating_bracer,恶化护腕,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+灰白,蛮力挂坠,单品,A,A,+5通用精准，一2闪避不痛不痒。,※荒野专属饰品,通用,命中 +5；闪避 -2,,1125,00:05:53,BV1J1dzBnEyd_027_00-05-53,frames/BV1J1dzBnEyd_027_00-05-53.jpg,https://www.bilibili.com/video/BV1J1dzBnEyd/?t=353,reckless_charm,蛮力挂坠,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+灰白,勇士头盔,单品,A,A,+5近战精准，供不应求，看到就拿。,,通用,命中 +5（近战）,,1125,00:06:05,BV1J1dzBnEyd_029_00-06-05,frames/BV1J1dzBnEyd_029_00-06-05.jpg,https://www.bilibili.com/video/BV1J1dzBnEyd/?t=365,warriors_cap,勇士头盔,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+灰白,射手戒指,单品,B,C,一1速度，远程输出英雄优先，控制英雄次选。,,通用,命中 +5（远程）；速度 -1,,1125,00:06:17,BV1J1dzBnEyd_030_00-06-17,frames/BV1J1dzBnEyd_030_00-06-17.jpg,https://www.bilibili.com/video/BV1J1dzBnEyd/?t=377,archers_ring,射手戒指,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+灰白,伤害魔石,单品,A,A,"优质通用伤害，精英期依旧很能打。
+即使扩展至蓝色饰品，也鲜有敌手。",,通用,伤害 +10%；闪避 -4,,1125,00:06:35,BV1J1dzBnEyd_031_00-06-35,frames/BV1J1dzBnEyd_031_00-06-35.jpg,https://www.bilibili.com/video/BV1J1dzBnEyd/?t=395,damage_stone,伤害魔石,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+灰白,勇士护腕,单品,A,A,"优质同伤害魔石，仅用于近战。
+即使扩展至蓝色饰品，也鲜有敌手。",,通用,伤害 +10%（近战）；闪避 -4,,1125,00:06:51,BV1J1dzBnEyd_032_00-06-51,frames/BV1J1dzBnEyd_032_00-06-51.jpg,https://www.bilibili.com/video/BV1J1dzBnEyd/?t=411,warriors_bracer,勇士护腕,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+灰白,速度魔石,单品,B,B,"+1速度不关键，可它毕竟没有负面，
+没饰品时能一直上场，撑场面的同时，
+抵消其他饰品的减速，达成心理平衡。",,通用,速度 +1,,1125,00:07:15,BV1J1dzBnEyd_034_00-07-15,frames/BV1J1dzBnEyd_034_00-07-15.jpg,https://www.bilibili.com/video/BV1J1dzBnEyd/?t=435,speed_stone,速度魔石,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+灰白,染血玩偶,单品,B,B,"+20%双抗，然减病抗令人却步，
+主要是苦修使用，学徒毕业装。",,通用,腐蚀抗性 +20%；流血抗性 +20%；疾病抗性 -20%,,1125,00:07:40,BV1J1dzBnEyd_035_00-07-40,frames/BV1J1dzBnEyd_035_00-07-40.jpg,https://www.bilibili.com/video/BV1J1dzBnEyd/?t=460,bloodied_fetish,染血玩偶,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+灰白,闪亮挂坠,单品,S,S,"珍贵的眩晕概率，没有负面，眩晕魔石上位。
+坩埚、魔瓶、蓝盾在学徒大本不仅收益溢出，
+还会制造压力、输出短板，可以转带闪亮挂坠
+狼人则是闪亮挂坠+眩晕魔石，弥补自身问题。",,通用,眩晕技能概率 +10%,,1125,00:07:57,BV1J1dzBnEyd_036_00-07-57,frames/BV1J1dzBnEyd_036_00-07-57.jpg,https://www.bilibili.com/video/BV1J1dzBnEyd/?t=477,dazzling_charm,闪亮挂坠,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+灰白,直觉之书,单品,B,C,"高光质变装，无光安神散。
+高光、庭院可带一件，永不惊慌
+无光仅能作为侦察饰品的临时替代。",,通用,我方被突袭概率 -20%；速度 -1,,1125,00:08:41,BV1J1dzBnEyd_040_00-08-41,frames/BV1J1dzBnEyd_040_00-08-41.jpg,https://www.bilibili.com/video/BV1J1dzBnEyd/?t=521,book_of_intuition,直觉之书,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+灰白,警戒斗篷,单品,A（无光）,B,"第一回合-10速度十分严重，除麻风/十字/弩手
+以外的英雄难堪重任，但侦察就是天大的机缘，
+避免乱位大于一切，无光玩家仍要争上一争。",※荒野专属饰品,通用,侦察概率 +10%；速度 -10（首回合）,,1125,00:09:12,BV1J1dzBnEyd_042_00-09-12,frames/BV1J1dzBnEyd_042_00-09-12.jpg,https://www.bilibili.com/video/BV1J1dzBnEyd/?t=552,caution_cloak,警戒斗篷,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+灰白,生存指南,单品,S（无光）,S,"无光小地图，有格就要带，控制英雄不例外。
+两本不嫌多，三本刚刚好，四本小书稳如狗。",,通用,侦察概率 +10%；trap抗性 +10%；速度 -1,,1125,00:09:34,BV1J1dzBnEyd_043_00-09-34,frames/BV1J1dzBnEyd_043_00-09-34.jpg,https://www.bilibili.com/video/BV1J1dzBnEyd/?t=574,survival_guide,生存指南,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+灰白,蛇油,单品,B,C,缓解0级英雄、地区恐惧症以及无光压力问题。,※遗迹专属饰品,通用,受到压力 -10%,,1125,00:09:52,BV1J1dzBnEyd_044_00-09-52,frames/BV1J1dzBnEyd_044_00-09-52.jpg,https://www.bilibili.com/video/BV1J1dzBnEyd/?t=592,snake_oil,蛇油,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+灰白,骑士饰章,单品,C,D,十字不缺血量，不过没负面，没事可以带着。,,十字军,最大生命 +10%,,1125,00:10:12,BV1J1dzBnEyd_047_00-10-12,frames/BV1J1dzBnEyd_047_00-10-12.jpg,https://www.bilibili.com/video/BV1J1dzBnEyd/?t=612,knights_crest,骑士饰章,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+灰白,防御印记,单品,D,D,"刻下的话语，浮上心头：
+将我的暴击，弃置于此。",,十字军,防御 +5%；暴击率 -3%,,1125,00:10:28,BV1J1dzBnEyd_048_00-10-28,frames/BV1J1dzBnEyd_048_00-10-28.jpg,https://www.bilibili.com/video/BV1J1dzBnEyd/?t=628,defenders_seal,防御印记,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+灰白,剑士饰章,单品,A,B,"学徒期作为队伍中的输出兼控制位，
+完全可以接受减治疗的负面效果。
+精英开始需承担副奶职责，因此不保值。",,十字军,伤害 +10%（近战）；治疗量 -50%,,1125,00:10:42,BV1J1dzBnEyd_050_00-10-42,frames/BV1J1dzBnEyd_050_00-10-42.jpg,https://www.bilibili.com/video/BV1J1dzBnEyd/?t=642,swordsmans_crest,剑士饰章,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+灰白,坚定带扣,单品,A,B,"不错的过渡饰品。坚定带扣负可忽略。
+速燃火药可通过站位规避减晕抗负面。",,强盗,暴击率 +5%；受到压力 +5%；美德概率 -3%,,1125,00:11:04,BV1J1dzBnEyd_051_00-11-04,frames/BV1J1dzBnEyd_051_00-11-04.jpg,https://www.bilibili.com/video/BV1J1dzBnEyd/?t=664,cursed_buckle,坚定带扣,同页共同评级（坚定带扣；速燃火药）,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+灰白,速燃火药,单品,A,B,"不错的过渡饰品。坚定带扣负可忽略。
+速燃火药可通过站位规避减晕抗负面。",,强盗,伤害 +10%（远程）；眩晕抗性 -20%,,1125,00:11:04,BV1J1dzBnEyd_051_00-11-04,frames/BV1J1dzBnEyd_051_00-11-04.jpg,https://www.bilibili.com/video/BV1J1dzBnEyd/?t=664,flashfire_gunpowder,速燃火药,同页共同评级（坚定带扣；速燃火药）,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+灰白,流浪汉的皮带扣,单品,B,C,"不错的过渡饰品。拆陷阱保状态，
+也是考核一个队伍的重要标准。",,强盗,trap抗性 +10%；闪避 +4；受到压力治疗 -5%,,1125,00:11:30,BV1J1dzBnEyd_052_00-11-30,frames/BV1J1dzBnEyd_052_00-11-30.jpg,https://www.bilibili.com/video/BV1J1dzBnEyd/?t=690,drifters_buckle,流浪汉的皮带扣,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+灰白,腐烂香炉,单品,A,B,"+8精准很慷慨，帮助瘟疫的技能
+稳定命中，这点减血尚可以接受，
+可谓是一件优秀的过渡饰品",,瘟疫医生,命中 +8；最大生命 -5%,,1125,00:11:59,BV1J1dzBnEyd_053_00-11-59,frames/BV1J1dzBnEyd_053_00-11-59.jpg,https://www.bilibili.com/video/BV1J1dzBnEyd/?t=719,rotgut_censer,腐烂香炉,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+灰白,巫师药瓶,单品,S,S,"+15%眩晕概率，瘟疫的毕业装之二
+渎魔瓶+巫师药瓶能最大程度上发挥
+瘟疫的控制能力，也是最为通用的配套。",,瘟疫医生,眩晕技能概率 +15%,,1125,00:12:18,BV1J1dzBnEyd_054_00-12-18,frames/BV1J1dzBnEyd_054_00-12-18.jpg,https://www.bilibili.com/video/BV1J1dzBnEyd/?t=738,witchs_vial,巫师药瓶,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+灰白,抗病香草,单品,C,D,瘟疫护坠PLUS，没饰品可以带。,,瘟疫医生,疾病抗性 +40%,,1125,00:12:45,BV1J1dzBnEyd_057_00-12-45,frames/BV1J1dzBnEyd_057_00-12-45.jpg,https://www.bilibili.com/video/BV1J1dzBnEyd/?t=765,diseased_herb,抗病香草,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+灰白,贞洁圣杯,单品,D,D,"美德概率本身没问题，但减血量设计
+意义不明，造就这件饰品的该谐底色。",,修女,美德概率 +10%；最大生命 -5%,,1125,00:12:59,BV1J1dzBnEyd_058_00-12-59,frames/BV1J1dzBnEyd_058_00-12-59.jpg,https://www.bilibili.com/video/BV1J1dzBnEyd/?t=779,recovery_chalice,贞洁圣杯,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+灰白,幸运骰子,单品,A,B,既有精准又有闪避，难能可贵的设计。,,小丑,命中 +4；闪避 +4,,1125,00:13:12,BV1J1dzBnEyd_059_00-13-12,frames/BV1J1dzBnEyd_059_00-13-12.jpg,https://www.bilibili.com/video/BV1J1dzBnEyd/?t=792,lucky_dice,幸运骰子,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+灰白,血腥骰子,单品,A,B,"流血小丑毕业饰品，物美价廉。
+上可门前恶狼打满流血伤害，
+下可破兵修丑弥补打爬问题。",,小丑,流血技能概率 +30%；流血抗性 -10%,,1125,00:13:32,BV1J1dzBnEyd_061_00-13-32,frames/BV1J1dzBnEyd_061_00-13-32.jpg,https://www.bilibili.com/video/BV1J1dzBnEyd/?t=812,bloody_dice,血腥骰子,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+灰白,狡诈眼罩,单品,D,D,"老兵身为前排英雄，眩晕和位移抗性
+至关重要，本就不经折损，闪避数值
+又跟哄小孩似的，还不如带闪避魔石。",※荒野专属饰品,老兵,闪避 +4；眩晕抗性 -10%；位移抗性 -10%,,1125,00:13:56,BV1J1dzBnEyd_063_00-13-56,frames/BV1J1dzBnEyd_063_00-13-56.jpg,https://www.bilibili.com/video/BV1J1dzBnEyd/?t=836,sly_eyepatch,狡诈眼罩,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+灰白,纯净眼罩,单品,B,C,腐蚀抗性+疾病抗性，荒野、兽窟都受用。,,老兵,腐蚀抗性 +30%；疾病抗性 +20%；闪避 -2,,1125,00:14:14,BV1J1dzBnEyd_064_00-14-14,frames/BV1J1dzBnEyd_064_00-14-14.jpg,https://www.bilibili.com/video/BV1J1dzBnEyd/?t=854,cleansing_eyepatch,纯净眼罩,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+灰白,闪避熏香,单品,C,D,CC1、学徒农庄用用还行。,,神秘学者,闪避 +8；速度 -1,,1125,00:14:27,BV1J1dzBnEyd_065_00-14-27,frames/BV1J1dzBnEyd_065_00-14-27.jpg,https://www.bilibili.com/video/BV1J1dzBnEyd/?t=867,evasion_incense,闪避熏香,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+灰白,诛魔焚香,单品,A,B,"变态输出饰品，可转三号位小刀输出。
+本就冠绝的暴击率，烈火烹油再攀新高，
+驯犬师给我擦皮靴，跋行者哭着喊爸爸。",,神秘学者,暴击率 +6%（对异魔）；伤害 +15%（对异魔）,,1125,00:14:40,BV1J1dzBnEyd_066_00-14-40,frames/BV1J1dzBnEyd_066_00-14-40.jpg,https://www.bilibili.com/video/BV1J1dzBnEyd/?t=880,eldritch_killing_incense,诛魔焚香,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+灰白,迅捷尖哨,单品,B,B,"减益抗性无关紧要，值得一带。
+可作为塞壬对策饰品，干扰抓人。",,驯犬师,闪避 +4；速度 +1；减益抗性 -20%,,1125,00:15:11,BV1J1dzBnEyd_068_00-15-11,frames/BV1J1dzBnEyd_068_00-15-11.jpg,https://www.bilibili.com/video/BV1J1dzBnEyd/?t=911,agility_whistle,迅捷尖哨,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+灰白,侦察尖哨,单品,S（无光）,S,"唯一真神，S级是因为评级最高只有S。
+重要到英雄林立，但唯独不能缺了狗哥。
+没有地图的日子，全靠狗哨拖家带口。
+即使毕业后全饰品，仍是最优选择之一。",,驯犬师,侦察概率 +20%（火炬亮度低于51）；trap抗性 +20%,,1125,00:15:44,BV1J1dzBnEyd_070_00-15-44,frames/BV1J1dzBnEyd_070_00-15-44.jpg,https://www.bilibili.com/video/BV1J1dzBnEyd/?t=944,scouting_whistle,侦察尖哨,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+灰白,敏捷之爪,单品,B,B,和迅捷尖哨差不多，值得一带。,,赏金猎人,速度 +1；闪避 +4,,1125,00:16:35,BV1J1dzBnEyd_071_00-16-35,frames/BV1J1dzBnEyd_071_00-16-35.jpg,https://www.bilibili.com/video/BV1J1dzBnEyd/?t=995,agile_talon,敏捷之爪,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+灰白,稳固头盔,单品,B,C,遗迹特攻饰品，对骷弩手宝具。,,赏金猎人,位移抗性 +30%；位移技能概率 +20%,,1125,00:16:43,BV1J1dzBnEyd_072_00-16-43,frames/BV1J1dzBnEyd_072_00-16-43.jpg,https://www.bilibili.com/video/BV1J1dzBnEyd/?t=1003,unmovable_helmet,稳固头盔,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+灰白,复仇之靴,单品,B,C,+3%暴击率，适合弩手，也无负面,,火枪手,暴击率 +3%,,1125,00:17:00,BV1J1dzBnEyd_074_00-17-00,frames/BV1J1dzBnEyd_074_00-17-00.jpg,https://www.bilibili.com/video/BV1J1dzBnEyd/?t=1020,vengeful_boots,复仇之靴,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+灰白,强壮之靴,单品,C,D,"拌索击退不值得专门投入，
+但加位移抗性防拉前还行。",,火枪手,位移抗性 +30%；位移技能概率 +30%；速度 -1,,1125,00:17:11,BV1J1dzBnEyd_075_00-17-11,frames/BV1J1dzBnEyd_075_00-17-11.jpg,https://www.bilibili.com/video/BV1J1dzBnEyd/?t=1031,sturdy_boots,强壮之靴,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+灰白,弹珠袋子,单品,B,C,"不错的闪避装，可随时携带，
+闪避流也是古商唯二的出路。",,古董商人,闪避 +10,,1125,00:17:31,BV1J1dzBnEyd_076_00-17-31,frames/BV1J1dzBnEyd_076_00-17-31.jpg,https://www.bilibili.com/video/BV1J1dzBnEyd/?t=1051,antiq_1,弹珠袋子,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+灰白,流血吊坠,单品,B,C,"提高对三号位的输出/补刀能力，
+同时便利学徒打爬，但要让贤
+给其他输出饰品，如伤害魔石。",,蛮族战士,流血技能概率 +15%,,1125,00:17:52,BV1J1dzBnEyd_077_00-17-52,frames/BV1J1dzBnEyd_077_00-17-52.jpg,https://www.bilibili.com/video/BV1J1dzBnEyd/?t=1072,bleeding_pendant,流血吊坠,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+灰白,自私吊坠,单品,B,C,无负面减压饰品，0级恶女可带。,※荒野专属饰品,蛮族战士,受到压力 -15%,,1125,00:18:10,BV1J1dzBnEyd_079_00-18-10,frames/BV1J1dzBnEyd_079_00-18-10.jpg,https://www.bilibili.com/video/BV1J1dzBnEyd/?t=1090,selfish_pendant,自私吊坠,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+灰白,救赎臂章,单品,A,A,优质增伤，负面忽略不计。,,麻风剑客,伤害 +15%（位置1）；美德概率 -3%,,1125,00:18:20,BV1J1dzBnEyd_080_00-18-20,frames/BV1J1dzBnEyd_080_00-18-20.jpg,https://www.bilibili.com/video/BV1J1dzBnEyd/?t=1100,selfish_armlet,救赎臂章,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+灰白,治疗臂章,单品,B,C,提高回复能力，荒野吸伤好用。,,麻风剑客,受到治疗 +20%,,1125,00:18:36,BV1J1dzBnEyd_081_00-18-36,frames/BV1J1dzBnEyd_081_00-18-36.jpg,https://www.bilibili.com/video/BV1J1dzBnEyd/?t=1116,healing_armlet,治疗臂章,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+灰白,耐心枷锁,单品,C,D,至少不扣血量，比贞洁圣杯强。,,咒缚者,美德概率 +10%,,1125,00:19:04,BV1J1dzBnEyd_083_00-19-04,frames/BV1J1dzBnEyd_083_00-19-04.jpg,https://www.bilibili.com/video/BV1J1dzBnEyd/?t=1144,padlock_1,耐心伽锁,,名称近似匹配，待核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+灰白,厌物背包,单品,B,C,"道中增幅频率低，BOSS战有用处，
+但整体竞争不过无条件的增伤饰品。",,盗墓贼,伤害 +20%（自身腐蚀时）,,1125,00:19:13,BV1J1dzBnEyd_084_00-19-13,frames/BV1J1dzBnEyd_084_00-19-13.jpg,https://www.bilibili.com/video/BV1J1dzBnEyd/?t=1153,stunning_satchel,厌物背包,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+灰白,迅捷背包,单品,A,A,先手突刺，千里不留行,,盗墓贼,速度 +2,,1125,00:19:44,BV1J1dzBnEyd_086_00-19-44,frames/BV1J1dzBnEyd_086_00-19-44.jpg,https://www.bilibili.com/video/BV1J1dzBnEyd/?t=1184,quickening_satchel,迅捷背包,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+灰白,蛇毒之瓶,单品,A,未给出（原图横线或留空）,"帮破盾度过尴尬的直伤弱势期，
+高效输出塞壬、船员等BOSS。",,破盾者,腐蚀技能概率 +30%；腐蚀抗性 -10%,,无法出售,00:20:19,BV1J1dzBnEyd_090_00-20-19,frames/BV1J1dzBnEyd_090_00-20-19.jpg,https://www.bilibili.com/video/BV1J1dzBnEyd/?t=1219,sb_1,蛇毒之瓶,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+灰白,裂心头巾,单品,B,C,空血偿赎，死门跳舞，战略价值不俗。,,苦修者,速度 +4（生命比例低于40%）,,1125,00:20:48,BV1J1dzBnEyd_093_00-20-48,frames/BV1J1dzBnEyd_093_00-20-48.jpg,https://www.bilibili.com/video/BV1J1dzBnEyd/?t=1248,flag_5,裂心头巾,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+绿色,赌徒挂坠,单品,B,C,"生命魔石上位，脆皮英雄保命专用。
+由于不减速度，控制英雄也能使用。",,通用,最大生命 +15%；死亡抗性 -10%,,1500,00:00:19,BV1dioZBAE7U_003_00-00-19,frames/BV1dioZBAE7U_003_00-00-19.jpg,https://www.bilibili.com/video/BV1dioZBAE7U/?t=19,gamblers_charm,赌徒挂坠,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+绿色,生命水晶,单品,B,C,"生命魔石上位，脆皮英雄保命专用。
+由于减速负面，多用于古商、小丑。",,通用,最大生命 +20%；速度 -1,,1500,00:00:41,BV1dioZBAE7U_004_00-00-41,frames/BV1dioZBAE7U_004_00-00-41.jpg,https://www.bilibili.com/video/BV1dioZBAE7U/?t=41,life_crystal,生命水晶,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+绿色,沉重长靴,单品,A,A,"20%防御远胜20%血量，兼具保命/长线/对策功效，
+适用英雄：古商、小丑、修女、老兵、十字等。
+极大提升脆皮的生存能力和坦克的承伤能力：
+猩红庭院、无尽农庄、极暗地牢长线作战利器；
+高伤BOSS先知、猪王、血肉、鳄鱼、头狼对策饰品：
+巨额位移抗性应对鱼人剑圣、船员、男仆、鳄鱼拉前。",,通用,位移抗性 +40%；防御 +20%；速度 -2,,1500,00:00:58,BV1dioZBAE7U_005_00-00-58,frames/BV1dioZBAE7U_005_00-00-58.jpg,https://www.bilibili.com/video/BV1dioZBAE7U/?t=58,heavy_boots,沉重长靴,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+绿色,伪装斗篷,单品,A（高光）,B,"高光顶尖闪避饰品，通用饰品难觅敌手，
+适用英雄：古商、小丑、狗哥、盗墓等。
+闪避队必备饰品，用量极大，人手一件。
+无光流程中，庭院、农庄、DD4也有需求。",,通用,闪避 +15（火炬亮度高于75）；眩晕抗性 -20%,,1500,00:02:52,BV1dioZBAE7U_014_00-02-52,frames/BV1dioZBAE7U_014_00-02-52.jpg,https://www.bilibili.com/video/BV1dioZBAE7U/?t=172,camouflage_cloak,伪装斗篷,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+绿色,闪烁斗篷,单品,C,C,"数值上斗不过其他斗篷，早晚会被取代。
+无光就业率骤跌，更有月光斗篷珠玉在前。",※遗迹专属饰品,通用,闪避 +8；受到治疗 -33%,,1500,00:03:29,BV1dioZBAE7U_016_00-03-29,frames/BV1dioZBAE7U_016_00-03-29.jpg,https://www.bilibili.com/video/BV1dioZBAE7U/?t=209,shimmering_cloak,闪烁斗篷,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+绿色,暗黑护腕,单品,A（无光）,A,"+8%暴击数值夸张，能做到刀刀烈火。
+难以想象的是，该饰品不仅没有负面，
+还提供闪避，完美适配高闪输出英雄。",,通用,暴击率 +8%（火炬亮度低于26）；闪避 +5（火炬亮度低于51）；伤害 -10%（火炬亮度高于51）,,1500,00:03:54,BV1dioZBAE7U_017_00-03-54,frames/BV1dioZBAE7U_017_00-03-54.jpg,https://www.bilibili.com/video/BV1dioZBAE7U/?t=234,dark_bracer,暗黑护腕,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+绿色,光明护腕,单品,B（高光）,B,"地位不比暗黑护腕，但仍是一件优良的通用绿，
+就是对亮度苛刻，庭院、农庄、DD4无责使用。",※兽窟专属饰品,通用,暴击率 +4%（火炬亮度高于75）；闪避 +5（火炬亮度高于75）；暴击率 -5%（火炬亮度低于50）；闪避 -6（火炬亮度低于51）,,1500,00:04:18,BV1dioZBAE7U_018_00-04-18,frames/BV1dioZBAE7U_018_00-04-18.jpg,https://www.bilibili.com/video/BV1dioZBAE7U/?t=258,solar_bracer,光明护腕,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+绿色,手术手套,单品,S,S,"既是精准饰品，也是输出饰品。
++5精准在精英已是合格线水平，
++8%暴击数值夸张，蔬水笔强度。
+麻风站桩怕乱位，不一定合适。",※兽窟专属饰品,通用,暴击率 +8%（近战）；命中 +5（近战）；位移抗性 -20%；减益抗性 -10%,,1500,00:04:40,BV1dioZBAE7U_019_00-04-40,frames/BV1dioZBAE7U_019_00-04-40.jpg,https://www.bilibili.com/video/BV1dioZBAE7U/?t=280,surgical_glove,手术手套,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+绿色,稳固护腕,单品,A,A,"+10远程精准，已达精准分水岭，
+接管了学者/修女/狗哥的精英期。",,通用,命中 +10（远程）；闪避 -2,,1500,00:05:13,BV1dioZBAE7U_022_00-05-13,frames/BV1dioZBAE7U_022_00-05-13.jpg,https://www.bilibili.com/video/BV1dioZBAE7U/?t=313,steady_bracer,稳固护腕,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+绿色,安神之书,单品,A,B,"+4精准合格线徘徊，比上不足比下有余，
+有减压伤适合给0级英雄、地埚学者使用。
+温柔贤惠可管温饱，但精英过后不能保值",,通用,受到压力 -10%；命中 +4；闪避 -4,,1500,00:05:37,BV1dioZBAE7U_023_00-05-37,frames/BV1dioZBAE7U_023_00-05-37.jpg,https://www.bilibili.com/video/BV1dioZBAE7U/?t=337,book_of_relaxation,安神之书,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+绿色,愤怒之书,单品,D,D,"娱乐饰品，正常流程完全用不到。
+减DOT抗性直接被苦修拒之门外。",,通用,伤害 +20%（生命比例低于33%）；暴击率 +8%（生命比例低于33%）；流血抗性 -10%；腐蚀抗性 -10%,,1500,00:05:59,BV1dioZBAE7U_024_00-05-59,frames/BV1dioZBAE7U_024_00-05-59.jpg,https://www.bilibili.com/video/BV1dioZBAE7U/?t=359,book_of_rage,愤怒之书,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+绿色,迅捷斗篷,单品,A,B,"+2速度属性优秀，帮助取得先手。
+减位移抗性需要了解各副本怪物，
+分配给合适的英雄，规避其负面",,通用,速度 +2；位移抗性 -20%,,1500,00:06:24,BV1dioZBAE7U_026_00-06-24,frames/BV1dioZBAE7U_026_00-06-24.jpg,https://www.bilibili.com/video/BV1dioZBAE7U/?t=384,swift_cloak,迅捷斗篷,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+绿色,医者挂坠,单品,A,A,"无负面治疗装，修女如获至宝。
+三件上位分别有一定的前提条件：
+击败跛行者、开启庭院/农庄DLC。
+因此该饰品可以横跨整个狱火流程。",,通用,治疗量 +15%,,1500,00:07:01,BV1dioZBAE7U_030_00-07-01,frames/BV1dioZBAE7U_030_00-07-01.jpg,https://www.bilibili.com/video/BV1dioZBAE7U/?t=421,chirurgeons_charm,医者挂坠,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+绿色,眩晕项链,单品,S,S,"珍贵的眩晕概率，珍贵的眩晕抗性。
+地位相比闪亮挂坠有过之而无不及。
+先知、猪王、血肉、头狼对策饰品。",,通用,眩晕技能概率 +10%；眩晕抗性 +20%；闪避 -4,,1500,00:08:23,BV1dioZBAE7U_038_00-08-23,frames/BV1dioZBAE7U_038_00-08-23.jpg,https://www.bilibili.com/video/BV1dioZBAE7U/?t=503,stun_amulet,眩晕项链,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+绿色,错位项链,单品,B,C,"位移魔石、错位挂坠融一体。
+多用于赏金猎人、神秘学者；
+麻风在学徒本击退前排肉盾；
+破盾在冠军兽窟伏袭投矛猪；
+增加位移抗性防止船员拉前...",,通用,位移技能概率 +20%；位移抗性 +30%；减益抗性 -20%,,1500,00:09:04,BV1dioZBAE7U_042_00-09-04,frames/BV1dioZBAE7U_042_00-09-04.jpg,https://www.bilibili.com/video/BV1dioZBAE7U/?t=544,move_amulet,错位项链,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+绿色,蚀毒项链,单品,B,C,"平庸的过渡饰品，负责给BOSS稳定上毒，
+减血抗会导致流血频出，记得带好绷带。",,通用,腐蚀技能概率 +20%；腐蚀抗性 +20%；流血抗性 -20%,,1500,00:09:47,BV1dioZBAE7U_046_00-09-47,frames/BV1dioZBAE7U_046_00-09-47.jpg,https://www.bilibili.com/video/BV1dioZBAE7U/?t=587,blight_amulet,蚀毒项链,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+绿色,鲜血项链,单品,A,A,"流血概率/抗性兼具，实用性远超蚀毒项链。
+苦修的毕业饰品，提高战力的同时补足生存，
+其他英雄诸如小丑、恶女，也可拿去打流血。
+忠孝难两全，减腐蚀抗性美中不足，否则S。",,通用,流血技能概率 +20%；流血抗性 +20%；腐蚀抗性 -20%,,1500,00:09:59,BV1dioZBAE7U_047_00-09-59,frames/BV1dioZBAE7U_047_00-09-59.jpg,https://www.bilibili.com/video/BV1dioZBAE7U/?t=599,bleed_amulet,鲜血项链,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+绿色,血腥挂坠,单品,A,B,"灰色挂坠上位，也不再受到地区限制。
+在高频流血环境里表现优异，如DD1。
+可以配合学者的命运重构，预防流血。
+提高苦修的生存能力，同时降低授教的流血概率。",,通用,流血抗性 +30%,,1500,00:10:49,BV1dioZBAE7U_051_00-10-49,frames/BV1dioZBAE7U_051_00-10-49.jpg,https://www.bilibili.com/video/BV1dioZBAE7U/?t=649,blood_charm,血腥挂坠,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+绿色,构造之书,单品,C,C,"腐蚀抗性+疾病抗性，荒野、兽窟都受用。
+身为抗性装居然减少速度，评价不会给高。",,通用,腐蚀抗性 +30%；疾病抗性 +30%；速度 -1,,1500,00:11:06,BV1dioZBAE7U_052_00-11-06,frames/BV1dioZBAE7U_052_00-11-06.jpg,https://www.bilibili.com/video/BV1dioZBAE7U/?t=666,book_of_constitution,构造之书,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+绿色,衰弱项链,单品,A,A,"减益流派之核心，威吓麻风必需品。
+只要涉及到减益，都绕不开这座山，
+更是无DLC一刀老祖的关键组件。",,通用,减益技能概率 +30%；减益抗性 +30%；闪避 -4,,1500,00:11:20,BV1dioZBAE7U_053_00-11-20,frames/BV1dioZBAE7U_053_00-11-20.jpg,https://www.bilibili.com/video/BV1dioZBAE7U/?t=680,debuff_amulet,衰弱项链,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+绿色,坚韧戒指,单品,D,D,"致死抗性形同虚设，
+加闪减暴得不偿失。",※遗迹专属饰品,通用,死亡抗性 +10%；闪避 +5；暴击率 -5%,,1500,00:12:15,BV1dioZBAE7U_058_00-12-15,frames/BV1dioZBAE7U_058_00-12-15.jpg,https://www.bilibili.com/video/BV1dioZBAE7U/?t=735,tenacity_ring,坚韧戒指,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+绿色,圣洁之书,单品,B,C,"20%减压伤已是业内标杆，可长期留于库存。
+缓解0级英雄、地区恐惧症以及无光压力问题。
+DD4麻兵兵瘟一刀老祖，瘟疫需要减压饰品。",,通用,受到压力 -20%；死亡抗性 -10%,,1500,00:12:26,BV1dioZBAE7U_059_00-12-26,frames/BV1dioZBAE7U_059_00-12-26.jpg,https://www.bilibili.com/video/BV1dioZBAE7U/?t=746,book_of_holiness,圣洁之书,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+绿色,安定水晶,单品,C,C,作用同安定之书，数值和负面表现略逊一筹。,※遗迹专属饰品,通用,受到压力 -15%；速度 -1,,1500,00:12:56,BV1dioZBAE7U_061_00-12-56,frames/BV1dioZBAE7U_061_00-12-56.jpg,https://www.bilibili.com/video/BV1dioZBAE7U/?t=776,calming_crystal,安定水晶,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+绿色,忘忧石,单品,C,C,"美德概率、减压伤数值平庙，
+-1速度更是平添缺陷扯后腿。",,通用,美德概率 +10%；受到压力 -10%；速度 -1,,1500,00:13:07,BV1dioZBAE7U_063_00-13-07,frames/BV1dioZBAE7U_063_00-13-07.jpg,https://www.bilibili.com/video/BV1dioZBAE7U/?t=787,worrystone,忘忧石,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+绿色,贤者之石,单品,S（无光）,S,"通用侦察三天王，地图以下第一人。
+同为15%侦察概率，没有亮度要求，
+比膨胀鸦眼更容易获取，辐射更强。
+前几周刷在遗迹中本更是直接破局。",※遗迹专属饰品,通用,侦察概率 +15%；速度 -1,,1500,00:13:20,BV1dioZBAE7U_064_00-13-20,frames/BV1dioZBAE7U_064_00-13-20.jpg,https://www.bilibili.com/video/BV1dioZBAE7U/?t=800,seer_stone,贤者之石,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+绿色,渴血之戒,单品,C,D,减少食物消耗，困苦期省钱专用。,,通用,食物消耗 -100%；最大生命 +10%；受到治疗 -25%,,1500,00:13:54,BV1dioZBAE7U_067_00-13-54,frames/BV1dioZBAE7U_067_00-13-54.jpg,https://www.bilibili.com/video/BV1dioZBAE7U/?t=834,bloodthirst_ring,渴血之戒,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+绿色,制裁饰章,单品,A,B,"眩晕饰品，精英及以上控二体型需要
+综合属性不如非欧剑柄，但胜在易得。",,十字军,眩晕技能概率 +20%；闪避 -2,,1500,00:14:11,BV1dioZBAE7U_069_00-14-11,frames/BV1dioZBAE7U_069_00-14-11.jpg,https://www.bilibili.com/video/BV1dioZBAE7U/?t=851,paralyzers_crest,制裁饰章,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+绿色,狡诈剑鞘,单品,C,D,"属性上无任何质变，数值也低。
+减少手枪/抵近精准，自断一臂。",,强盗,闪避 +8；速度 +1；命中 -10（远程）,,1500,00:15:10,BV1dioZBAE7U_075_00-15-10,frames/BV1dioZBAE7U_075_00-15-10.jpg,https://www.bilibili.com/video/BV1dioZBAE7U/?t=910,dodgy_sheath,狡诈剑鞘,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+绿色,剧毒草药,单品,D,D,-15%最大生命千凶万险。,,瘟疫医生,腐蚀技能概率 +40%；最大生命 -15%,,1500,00:15:48,BV1dioZBAE7U_077_00-15-48,frames/BV1dioZBAE7U_077_00-15-48.jpg,https://www.bilibili.com/video/BV1dioZBAE7U/?t=948,poisoned_herb,剧毒草药,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+绿色,青春圣杯,单品,C,D,练级保命可用，但不如通用绿。,※遗迹专属饰品,修女,最大生命 +20%；伤害 -10%,,1500,00:15:59,BV1dioZBAE7U_078_00-15-59,frames/BV1dioZBAE7U_078_00-15-59.jpg,https://www.bilibili.com/video/BV1dioZBAE7U/?t=959,youth_chalice,青春圣杯,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+绿色,迅捷圣杯,单品,C,D,"先手强光破隐，精英勉强能用。
+所得不偿所失，实用价值有限。",,修女,速度 +8（首回合）；速度 +2（不满足条件：首回合）；眩晕技能概率 -25%,,1500,00:16:20,BV1dioZBAE7U_079_00-16-20,frames/BV1dioZBAE7U_079_00-16-20.jpg,https://www.bilibili.com/video/BV1dioZBAE7U/?t=980,haste_chalice,迅捷圣杯,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+绿色,暴击骰子,单品,B,C,"无负面加暴击，流血小丑可带。
+无DLC小丑一刀老祖备选饰品。",,小丑,暴击率 +7%,,1500,00:16:43,BV1dioZBAE7U_082_00-16-43,frames/BV1dioZBAE7U_082_00-16-43.jpg,https://www.bilibili.com/video/BV1dioZBAE7U/?t=1003,critical_dice,暴击般子,,名称近似匹配，待核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+绿色,强壮眼罩,单品,C,D,抗压保命可用，但不如通用绿。,,老兵,最大生命 +15%；速度 -2,,1500,00:17:06,BV1dioZBAE7U_086_00-17-06,frames/BV1dioZBAE7U_086_00-17-06.jpg,https://www.bilibili.com/video/BV1dioZBAE7U/?t=1026,longevity_eyepatch,强壮眼罩,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+绿色,诅咒焚香,单品,C,D,"-10%最大生命千凶万险。
+上位饰品有恶魔地埚、一瓶黄沙，
+同期饰品有衰弱项链、错位项链",,神秘学者,减益技能概率 +40%；位移技能概率 +20%；最大生命 -10%,,1500,00:17:18,BV1dioZBAE7U_087_00-17-18,frames/BV1dioZBAE7U_087_00-17-18.jpg,https://www.bilibili.com/video/BV1dioZBAE7U/?t=1038,cursed_incense,诅咒焚香,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+绿色,警署闷棍,单品,A,B,"眩晕饰品，精英及以上控二体型需要。
++25%眩晕概率甚是难得，站在前排
+主打棍子，实战表现逼近地埚学者。",,驯犬师,眩晕技能概率 +25%；速度 -1,,1500,00:17:39,BV1dioZBAE7U_089_00-17-39,frames/BV1dioZBAE7U_089_00-17-39.jpg,https://www.bilibili.com/video/BV1dioZBAE7U/?t=1059,cudgel_weight,警署闷棍,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+绿色,营寨头盔,单品,S（无光）,S,"赏金专属侦察饰品，侦察概率略低，
+但不加压也不减速，还有小礼相赠。",赏金专属侦察饰品，侦察概率略低，,赏金猎人,受到压力治疗 +20%（扎营时）；侦察概率 +10%,,1500,00:18:14,BV1dioZBAE7U_092_00-18-14,frames/BV1dioZBAE7U_092_00-18-14.jpg,https://www.bilibili.com/video/BV1dioZBAE7U/?t=1094,campers_helmet,营寨头盔,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+绿色,治疗护胫,单品,B,C,"弩手主奶专用饰品，
+也能提升扎营治疗。",,弩手,治疗量 +33%,,1500,00:18:27,BV1dioZBAE7U_093_00-18-27,frames/BV1dioZBAE7U_093_00-18-27.jpg,https://www.bilibili.com/video/BV1dioZBAE7U/?t=1107,medics_greaves,治疗护胫,同页共同评级（治疗护胫；医疗之靴）,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+绿色,医疗之靴,单品,B,C,"弩手主奶专用饰品，
+也能提升扎营治疗。",,火枪手,治疗量 +33%,,1500,00:18:27,BV1dioZBAE7U_093_00-18-27,frames/BV1dioZBAE7U_093_00-18-27.jpg,https://www.bilibili.com/video/BV1dioZBAE7U/?t=1107,medics_boots,医疗之靴,同页共同评级（治疗护胫；医疗之靴）,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+绿色,甲壳圣像,单品,A,B,古商最强苟活装备，摸爬滚打无忧。,,古董商人,防御 +25%,,1500,00:18:50,BV1dioZBAE7U_095_00-18-50,frames/BV1dioZBAE7U_095_00-18-50.jpg,https://www.bilibili.com/video/BV1dioZBAE7U/?t=1130,antiq_3,甲壳圣像,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+绿色,血课奖章,单品,C,D,挂件，拿去卖钱。,,古董商人,受到治疗 +33%,,1500,00:19:27,BV1dioZBAE7U_098_00-19-27,frames/BV1dioZBAE7U_098_00-19-27.jpg,https://www.bilibili.com/video/BV1dioZBAE7U/?t=1167,antiq_2,血课奖章,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+绿色,双刃吊坠,单品,C,D,练级保命可用，但不如通用绿。,,蛮族战士,最大生命 +15%；眩晕抗性 -20%,,1500,00:19:39,BV1dioZBAE7U_099_00-19-39,frames/BV1dioZBAE7U_099_00-19-39.jpg,https://www.bilibili.com/video/BV1dioZBAE7U/?t=1179,double_edged_pendant,双刃吊坠,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+绿色,幸运臂环,单品,S,A,"麻风优良精准装，重要性不言而喻，
+能有效缓解英雄间的精准竞争压力。",,麻风剑客,命中 +8；暴击率 +3%；受到压力 +10%,,1500,00:19:51,BV1dioZBAE7U_100_00-19-51,frames/BV1dioZBAE7U_100_00-19-51.jpg,https://www.bilibili.com/video/BV1dioZBAE7U/?t=1191,fortunate_armlet,幸运臂环,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+绿色,守护枷锁,单品,B,C,练级保命、二号位抗压可用。,,咒缚者,防御 +15%；速度 -1,,1500,00:20:14,BV1dioZBAE7U_101_00-20-14,frames/BV1dioZBAE7U_101_00-20-14.jpg,https://www.bilibili.com/video/BV1dioZBAE7U/?t=1214,padlock_3,守护伽锁,,名称近似匹配，待核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+绿色,变身枷锁,单品,S,S,"+20%眩晕概率，狼人的毕业装之二
++20%腐蚀概率，输出、打爬能力提高。
+破损钥匙+变身柳锁能最大程度上发挥
+狼人的控制能力，也是最为通用的配套。",,咒缚者,眩晕技能概率 +20%；腐蚀技能概率 +20%,,1500,00:20:32,BV1dioZBAE7U_103_00-20-32,frames/BV1dioZBAE7U_103_00-20-32.jpg,https://www.bilibili.com/video/BV1dioZBAE7U/?t=1232,padlock_2,变身伽锁,,名称近似匹配，待核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+绿色,恶毒背包,单品,B,C,"提高毒镖腐蚀概率，
+主要用于输出塞壬。",,盗墓贼,腐蚀技能概率 +25%；速度 +1；闪避 -4,,1500,00:21:30,BV1dioZBAE7U_107_00-21-30,frames/BV1dioZBAE7U_107_00-21-30.jpg,https://www.bilibili.com/video/BV1dioZBAE7U/?t=1290,seers_satchel,恶毒背包,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+绿色,闪光蛇鳞,单品,B,未给出（原图横线或留空）,破盾优质防装，练级保命可用。,,破盾者,防御 +10%；受到压力 +5%,,无法出售,00:21:39,BV1dioZBAE7U_108_00-21-39,frames/BV1dioZBAE7U_108_00-21-39.jpg,https://www.bilibili.com/video/BV1dioZBAE7U/?t=1299,sb_2,闪光蛇鳞,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+绿色,舞者的缠足布,单品,A,未给出（原图横线或留空）,"+2速度属性优秀，帮助取得先手。
+位移抗性不减反增，职业绿榜样。",,破盾者,位移抗性 +40%；速度 +2,,无法出售,00:21:52,BV1dioZBAE7U_109_00-21-52,frames/BV1dioZBAE7U_109_00-21-52.jpg,https://www.bilibili.com/video/BV1dioZBAE7U/?t=1312,sb_3,舞者的缠足布,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+绿色,复生领环,单品,D,D,"千言万语汇成一句话：
+为什么不带流血抗性？",,苦修者,治疗量 +33%；流血技能概率 -15%,,1500,00:22:08,BV1dioZBAE7U_111_00-22-08,frames/BV1dioZBAE7U_111_00-22-08.jpg,https://www.bilibili.com/video/BV1dioZBAE7U/?t=1328,flag_4,复生领环,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+绿色,惩罚头巾,单品,B,C,"+20%流血概率可以，稳定给敌人挂上流血。
+-20%生命治疗不行，严重削减偿赎治疗量。
+从此告别主奶之位，配队参考苦三狗瘟",,苦修者,流血技能概率 +20%；伤害 +15%（生命比例低于40%）；治疗量 -20%,,1500,00:22:26,BV1dioZBAE7U_112_00-22-26,frames/BV1dioZBAE7U_112_00-22-26.jpg,https://www.bilibili.com/video/BV1dioZBAE7U/?t=1346,flag_3,惩罚头巾,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+蓝色,月光斗篷,单品,S（无光）,S,"湖光秋月两相和，潭面无风镜未磨。
+既有防御又有闪避，打破一切争端。
+高端的饰品往往只需要最朴实的包装。",,通用,防御 +15%（火炬亮度低于26）；闪避 +10（火炬亮度低于26）；受到压力 +10%,,2250,00:00:16,BV1wCRWBCE7S_003_00-00-16,frames/BV1wCRWBCE7S_003_00-00-16.jpg,https://www.bilibili.com/video/BV1wCRWBCE7S/?t=16,moon_cloak,月光斗篷,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+蓝色,日光斗篷,单品,A（高光）,B,"高光优选闪避饰品，稍逊于伪装斗篷，
+但根据防御特殊规则二：有防必减1，
+而且不减晕抗，给修女等英雄更吃香。
+闪避队必备饰品，用量极大，人手一件。",,通用,防御 +5%（火炬亮度高于75）；闪避 +10（火炬亮度高于75）；受到压力 +10%,,2250,00:00:39,BV1wCRWBCE7S_004_00-00-39,frames/BV1wCRWBCE7S_004_00-00-39.jpg,https://www.bilibili.com/video/BV1wCRWBCE7S/?t=39,sun_cloak,日光斗篷,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+蓝色,月光戒指,单品,S（无光）,S,"落霞与孤齐飞，秋水共长天一色。
+精准增伤二合一，输出英雄梦中情物。
+高端的饰品往往只需要最朴实的包装。",,通用,伤害 +15%（火炬亮度低于25）；命中 +10（火炬亮度低于25）；受到压力 +10%,,2250,00:00:59,BV1wCRWBCE7S_006_00-00-59,frames/BV1wCRWBCE7S_006_00-00-59.jpg,https://www.bilibili.com/video/BV1wCRWBCE7S/?t=59,moon_ring,月光戒指,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+蓝色,日光戒指,单品,A（高光）,A,"地位不比月光戒指，但仍是一件重要的精准装。
+没人会和精准过不去，10%通用伤害还算不错。",,通用,伤害 +10%（火炬亮度高于75）；命中 +5（火炬亮度高于75）；受到压力 +10%,,2250,00:01:21,BV1wCRWBCE7S_007_00-01-21,frames/BV1wCRWBCE7S_007_00-01-21.jpg,https://www.bilibili.com/video/BV1wCRWBCE7S/?t=81,sun_ring,日光戒指,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+蓝色,狙击戒指,单品,B,B,"15精准看似豪华，但要求站桩4号位，
+还有减速负面，只适合修女/狗哥/弩手。
+无光没侦察、多乱位，也不太好出场。",,通用,命中 +15（位置4）；速度 -2；暴击率 +4%（位置4）,,2250,00:01:35,BV1wCRWBCE7S_008_00-01-35,frames/BV1wCRWBCE7S_008_00-01-35.jpg,https://www.bilibili.com/video/BV1wCRWBCE7S/?t=95,snipers_ring,狙击戒指,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+蓝色,人类克星戒指,单品,B,B,"增伤饰品，用来过渡和对策特定怪物。
+考虑到中立怪物，以及各种游荡BOSS，
+这些饰品容易亏模，不适合常驻使用。",,通用,伤害 +25%（对人类）；闪避 -8,,2250,00:02:03,BV1wCRWBCE7S_009_00-02-03,frames/BV1wCRWBCE7S_009_00-02-03.jpg,https://www.bilibili.com/video/BV1wCRWBCE7S/?t=123,man_slayers_ring,人类克星减指,同页共同评级（人类克星戒指；邪秽克星戒指；野兽克星戒指）,名称近似匹配，待核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+蓝色,邪秽克星戒指,单品,B,B,"增伤饰品，用来过渡和对策特定怪物。
+考虑到中立怪物，以及各种游荡BOSS，
+这些饰品容易亏模，不适合常驻使用。",,通用,伤害 +25%（对邪秽）；闪避 -8,,2250,00:02:03,BV1wCRWBCE7S_009_00-02-03,frames/BV1wCRWBCE7S_009_00-02-03.jpg,https://www.bilibili.com/video/BV1wCRWBCE7S/?t=123,unholy_slayers_ring,邪秽克星戒指,同页共同评级（人类克星戒指；邪秽克星戒指；野兽克星戒指）,名称近似匹配，待核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+蓝色,野兽克星戒指,单品,B,B,"增伤饰品，用来过渡和对策特定怪物。
+考虑到中立怪物，以及各种游荡BOSS，
+这些饰品容易亏模，不适合常驻使用。",,通用,伤害 +25%（对野兽）；闪避 -8,,2250,00:02:03,BV1wCRWBCE7S_009_00-02-03,frames/BV1wCRWBCE7S_009_00-02-03.jpg,https://www.bilibili.com/video/BV1wCRWBCE7S/?t=123,beast_slayers_ring,野兽克星戒指,同页共同评级（人类克星戒指；邪秽克星戒指；野兽克星戒指）,名称近似匹配，待核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+蓝色,异魔克星戒指,单品,A,B,"增伤饰品，用来过渡和对策特定怪物。
+游荡BOSS收藏家、皱行者都是异魔，
+在海湾带异魔克星戒指不容易吃亏。",,通用,伤害 +25%（对异魔）；闪避 -8,,2250,00:02:33,BV1wCRWBCE7S_012_00-02-33,frames/BV1wCRWBCE7S_012_00-02-33.jpg,https://www.bilibili.com/video/BV1wCRWBCE7S/?t=153,eldritch_slayers_ring,异魔克星戒指,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+蓝色,斗士手套,单品,C,D,"减暴击减速都非善茬，还有站位要求，
+只有学徒麻风可以用，不如伤害魔石。",,通用,伤害 +25%（位置1）；暴击率 -5%；速度 -1,,2250,00:02:59,BV1wCRWBCE7S_013_00-02-59,frames/BV1wCRWBCE7S_013_00-02-59.jpg,https://www.bilibili.com/video/BV1wCRWBCE7S/?t=179,brawlers_gloves,斗士手套,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+蓝色,狂暴吊坠,单品,B,C,"加速度加伤害，主打先手取得优势，
+加压伤减美德，逆风抗压能力较差，
+一5精准最为要命，风险与收益并存
+学徒弩手、地狱发医恶女考虑使用。",,通用,速度 +3；伤害 +15%；受到压力 +15%；命中 -5；美德概率 -10%,,2250,00:03:14,BV1wCRWBCE7S_014_00-03-14,frames/BV1wCRWBCE7S_014_00-03-14.jpg,https://www.bilibili.com/video/BV1wCRWBCE7S/?t=194,berserk_charm,狂暴吊坠,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+蓝色,轻羽水晶,单品,B,B,"+2速度属性优秀，帮助取得先手。
+综合了迅捷斗篷、伪装斗篷的优点，
+以及它们的缺点，论整体好坏参半。",,通用,速度 +2；闪避 +8；眩晕抗性 -20%；位移抗性 -20%,,2250,00:04:07,BV1wCRWBCE7S_018_00-04-07,frames/BV1wCRWBCE7S_018_00-04-07.jpg,https://www.bilibili.com/video/BV1wCRWBCE7S/?t=247,feather_crystal,轻羽水晶,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+蓝色,先行挂坠,单品,B,C,"第一回合战神，可配合十字军遗迹圣矛。
+老兵戴上打尖叫魔，开局起防守住队友。
+理论上可以用来控速，但实际应用较少。",,通用,速度 +8（首回合）；暴击率 +12%（首回合）；速度 -3（不满足条件：首回合）,,2250,00:04:25,BV1wCRWBCE7S_019_00-04-25,frames/BV1wCRWBCE7S_019_00-04-25.jpg,https://www.bilibili.com/video/BV1wCRWBCE7S/?t=265,quick_draw_charm,先行挂坠,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+蓝色,恢复挂坠,单品,B,C,"无奶食疗队必备饰品，操作性强。
+在抗压场景下，亦可作为软防装，
+场景参考：尖叫魔、门前恶狼...",,通用,受到治疗 +40%,,2250,00:04:56,BV1wCRWBCE7S_021_00-04-56,frames/BV1wCRWBCE7S_021_00-04-56.jpg,https://www.bilibili.com/video/BV1wCRWBCE7S/?t=296,recovery_charm,恢复挂坠,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+蓝色,斋戒徽记,单品,B,C,减少食物消耗，困苦期省钱专用。,※兽窟专属饰品,通用,食物消耗 -100%；饥饿伤害 -100%；闪避 +5；受到压力 -100%,,2250,00:06:07,BV1wCRWBCE7S_028_00-06-07,frames/BV1wCRWBCE7S_028_00-06-07.jpg,https://www.bilibili.com/video/BV1wCRWBCE7S/?t=367,fasting_seal,斋戒徽记,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+蓝色,暗黑王冠,单品,A（无光）,B,"减压数值极高，极大缓解无光压力问题，
+同时又是件美德装，可谓是兼具上下限。",※荒野专属饰品,通用,受到压力 -25%（火炬亮度低于26）；美德概率 +15%（火炬亮度低于26）,,2250,00:06:18,BV1wCRWBCE7S_029_00-06-18,frames/BV1wCRWBCE7S_029_00-06-18.jpg,https://www.bilibili.com/video/BV1wCRWBCE7S/?t=378,dark_crown,暗黑王冠,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+蓝色,光明王冠,单品,B（高光）,C,缓解0级英雄、地区恐惧症等压力问题。,,通用,受到压力 -20%（火炬亮度高于75）,,2250,00:06:46,BV1wCRWBCE7S_030_00-06-46,frames/BV1wCRWBCE7S_030_00-06-46.jpg,https://www.bilibili.com/video/BV1wCRWBCE7S/?t=406,solar_crown,光明王冠,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+蓝色,军令状,单品,C,D,"看清楚是+15%受到压力治疗，
+最终圣战一四十字军可以考虑。",,十字军,受到压力治疗 +15%；治疗量 +33%；伤害 -10%,,2250,00:06:56,BV1wCRWBCE7S_031_00-06-56,frames/BV1wCRWBCE7S_031_00-06-56.jpg,https://www.bilibili.com/video/BV1wCRWBCE7S/?t=416,commanders_orders,军令状,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+蓝色,锋利的剑鞘,单品,B,C,"全游最慷概的流血概率，红刀稳定出血。
+荒野/庭院好用，对鳄鱼/男爵/头狼效果好。",,强盗,暴击率 +7%（近战）；流血技能概率 +40%；速度 -1,,2250,00:07:35,BV1wCRWBCE7S_032_00-07-35,frames/BV1wCRWBCE7S_032_00-07-35.jpg,https://www.bilibili.com/video/BV1wCRWBCE7S/?t=455,sharpening_sheath,锋利的剑鞘,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+蓝色,血腥毒草,单品,B,C,"荒野/兽窟/庭院的优秀过渡饰品
+过渡结束后优先站4保自身安全。",,瘟疫医生,命中 +10（近战）；流血技能概率 +30%；伤害 +20%（近战）,,2250,00:08:35,BV1wCRWBCE7S_036_00-08-35,frames/BV1wCRWBCE7S_036_00-08-35.jpg,https://www.bilibili.com/video/BV1wCRWBCE7S/?t=515,bloody_herb,血腥毒草,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+蓝色,亵圣卷轴,单品,C,D,"2号位是动荡起伏的中心，既会遭到各种针对，
+又会干扰队友的位移，出一点差池就没增益了。
+修女的技能池子十分笨重，导致乱位抗性奇差。",※遗迹专属饰品,修女,伤害 +15%；防御 +10%（位置2）；治疗量 +33%（位置2）；受到压力 +15%,,2250,00:09:08,BV1wCRWBCE7S_037_00-09-08,frames/BV1wCRWBCE7S_037_00-09-08.jpg,https://www.bilibili.com/video/BV1wCRWBCE7S/?t=548,profane_scroll,亵圣卷轴,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+蓝色,治疗圣典,单品,B,C,过渡奶量装。,,修女,治疗量 +25%；最大生命 -15%,,2250,00:09:40,BV1wCRWBCE7S_040_00-09-40,frames/BV1wCRWBCE7S_040_00-09-40.jpg,https://www.bilibili.com/video/BV1wCRWBCE7S/?t=580,book_of_holy_healing,治疗圣典,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+蓝色,光明手鼓,单品,S（高光）,A,"+20%减压类技能，大幅提高减压效率。
+即使在无光，仍是值得携带的优秀饰品。",,小丑,受到压力 -25%（火炬亮度高于75）；受到压力 +15%（火炬亮度低于51）；压力治疗量 +20%,,2250,00:09:54,BV1wCRWBCE7S_041_00-09-54,frames/BV1wCRWBCE7S_041_00-09-54.jpg,https://www.bilibili.com/video/BV1wCRWBCE7S/?t=594,bright_tambourine,光明手鼓,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+蓝色,防壁巨盾,单品,S,S,"+30%眩晕概率，+40%位移概率，老兵毕业饰品
+只要谈到最稳阵容，那第一个想到的必然是老兵。
+-15%伤害两肋插刀，是必要牺牲，流程价值极高",,老兵,位移技能概率 +40%；眩晕技能概率 +30%；伤害 -15%,,2250,00:10:24,BV1wCRWBCE7S_043_00-10-24,frames/BV1wCRWBCE7S_043_00-10-24.jpg,https://www.bilibili.com/video/BV1wCRWBCE7S/?t=624,rampart_shield,防壁巨盾,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+蓝色,献祭坩埚,单品,B,C,"优质通用伤害，可惜给了学者。
+后排过渡可用，需要补充精准。",,神秘学者,伤害 +20%；受到压力 +10%,,2250,00:10:56,BV1wCRWBCE7S_044_00-10-56,frames/BV1wCRWBCE7S_044_00-10-56.jpg,https://www.bilibili.com/video/BV1wCRWBCE7S/?t=656,sacrificial_cauldron,献祭地埚,,名称近似匹配，待核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+蓝色,防护项圈,单品,C,D,"我有四个朋友想和你结识一下，它们分别是：
+伪装斗篷、日光斗篷、月光斗篷、先祖外套。",,驯犬师,闪避 +12；伤害 -15%,,2250,00:11:09,BV1wCRWBCE7S_045_00-11-09,frames/BV1wCRWBCE7S_045_00-11-09.jpg,https://www.bilibili.com/video/BV1wCRWBCE7S/?t=669,protective_collar,防护项圈,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+蓝色,猎手之爪,单品,S,S,+10精准，+6%暴击，赏金真正的职业橙。,※兽窟专属饰品,赏金猎人,暴击率 +6%；命中 +10；食物消耗 +50%,,2250,00:11:32,BV1wCRWBCE7S_046_00-11-32,frames/BV1wCRWBCE7S_046_00-11-32.jpg,https://www.bilibili.com/video/BV1wCRWBCE7S/?t=692,hunters_talon,猎手之爪,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+蓝色,标靶头巾,单品,A,B,+8精准，+5%暴击，弩手半个毕业装。,,弩手,命中 +8；暴击率 +5%；闪避 -4,,2250,00:12:36,BV1wCRWBCE7S_052_00-12-36,frames/BV1wCRWBCE7S_052_00-12-36.jpg,https://www.bilibili.com/video/BV1wCRWBCE7S/?t=756,bulls_eye_bandana,标靶头巾,同页共同评级（标靶头巾；靶心帽子）,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+蓝色,靶心帽子,单品,A,B,+8精准，+5%暴击，弩手半个毕业装。,,火枪手,命中 +8；暴击率 +5%；闪避 -4,,2250,00:12:36,BV1wCRWBCE7S_052_00-12-36,frames/BV1wCRWBCE7S_052_00-12-36.jpg,https://www.bilibili.com/video/BV1wCRWBCE7S/?t=756,bulls_eye_hat,靶心帽子,同页共同评级（标靶头巾；靶心帽子）,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+蓝色,舰队弗罗林,单品,B,C,"卧倒调整队伍位置，闪光粉末破除隐身，
+又或者直接保护我，都有一定积极作用。
+但一般是肉装+侦察，可能没什么位置带。",,古董商人,速度 +4；减益技能概率 +20%,,2250,00:12:46,BV1wCRWBCE7S_053_00-12-46,frames/BV1wCRWBCE7S_053_00-12-46.jpg,https://www.bilibili.com/video/BV1wCRWBCE7S/?t=766,antiq_4,舰队弗罗林,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+蓝色,天堂发髻,单品,A（高光）,B,+10精准，高光恶女毕业装。,,蛮族战士,受到压力 -25%（火炬亮度高于75）；命中 +10（火炬亮度高于75）,,2250,00:13:15,BV1wCRWBCE7S_054_00-13-15,frames/BV1wCRWBCE7S_054_00-13-15.jpg,https://www.bilibili.com/video/BV1wCRWBCE7S/?t=795,heavens_hairpin,天堂发醫,,名称近似匹配，待核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+蓝色,免疫面具,单品,C,C,麻风只缺流血抗性，不如血腥挂坠。,,麻风剑客,眩晕抗性 +40%；腐蚀抗性 +30%；流血抗性 +30%；最大生命 -10%,,2250,00:13:40,BV1wCRWBCE7S_057_00-13-40,frames/BV1wCRWBCE7S_057_00-13-40.jpg,https://www.bilibili.com/video/BV1wCRWBCE7S/?t=820,immunity_mask,免疫面具,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+蓝色,狂怒枷锁,单品,C,C,"正面属性很强，负面同样严重。
+建议搭配坚韧、表皮硬化食用。",,咒缚者,伤害 +10%；速度 +3；最大生命 -10%,,2250,00:13:56,BV1wCRWBCE7S_059_00-13-56,frames/BV1wCRWBCE7S_059_00-13-56.jpg,https://www.bilibili.com/video/BV1wCRWBCE7S/?t=836,padlock_4,狂怒伽锁,,名称近似匹配，待核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+蓝色,幸运护符,单品,A,B,"属性优秀的闪避、补刀饰品
+闪避是主角，远程精准是配角。",,盗墓贼,闪避 +12；命中 +10（远程）；受到压力 +10%,,2250,00:14:21,BV1wCRWBCE7S_060_00-14-21,frames/BV1wCRWBCE7S_060_00-14-21.jpg,https://www.bilibili.com/video/BV1wCRWBCE7S/?t=861,lucky_talisman,幸运护符,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+蓝色,利牙矛尖,单品,C,未给出（原图横线或留空）,要求苛刻，容易亏模。,,破盾者,伤害 +35%（自身状态：tagged）；伤害 -10%,,无法出售,00:14:48,BV1wCRWBCE7S_062_00-14-48,frames/BV1wCRWBCE7S_062_00-14-48.jpg,https://www.bilibili.com/video/BV1wCRWBCE7S/?t=888,sb_4,利牙矛尖,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+蓝色,苦难领环,单品,B,C,中规中矩的过渡饰品,,苦修者,流血抗性 +20%（生命比例低于40%）；腐蚀抗性 +20%（生命比例低于40%）；最大生命 +10%,,2250,00:15:09,BV1wCRWBCE7S_063_00-15-09,frames/BV1wCRWBCE7S_063_00-15-09.jpg,https://www.bilibili.com/video/BV1wCRWBCE7S/?t=909,flag_2,苦难领环,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+橙色,殉道者徽记,单品,B,C,"赌徒挂坠上位，脆皮英雄保命专用。
+只看生命加成，不要贪恋致死抗性。",,通用,伤害 +60%（濒死时）；暴击率 +14%（濒死时）；死亡抗性 +12%；最大生命 +15%,,3750,00:00:21,BV11m5B6REni_003_00-00-21,frames/BV11m5B6REni_003_00-00-21.jpg,https://www.bilibili.com/video/BV11m5B6REni/?t=21,martyrs_seal,殉道者徽记,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+橙色,强韧戒指,单品,B,C,"-15%伤害过于严重，只适合0级古商/小丑/学者。
+（仅老兵）高伤BOSS先知、猪王、血肉对策饰品。",,通用,防御 +10%；最大生命 +15%；伤害 -15%；受到压力 +10%,,3750,00:00:45,BV11m5B6REni_004_00-00-45,frames/BV11m5B6REni_004_00-00-45.jpg,https://www.bilibili.com/video/BV11m5B6REni/?t=45,tough_ring,强韧戒指,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+橙色,专注戒指,单品,S,S,"梅须逊雪三分白，雪却输梅一段香。
++10精准乃立业之根本，全英雄可用。
++5%暴击适合控制英雄，如神秘学者。
+一8闪避需要斟酌利整，但大多时候没得选。",,通用,命中 +10；暴击率 +5%；闪避 -8,,3750,00:01:23,BV11m5B6REni_005_00-01-23,frames/BV11m5B6REni_005_00-01-23.jpg,https://www.bilibili.com/video/BV11m5B6REni/?t=83,focus_ring,专注戒指,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+橙色,传奇护腕,单品,B,C,"品级较差，输出饰品中下选，
+十字/弩手等低速英雄勉强用。
+兵十十丑：二号位十字控速；
+破破修丑：二号位破盾控速.",,通用,伤害 +20%；速度 -1；受到压力 +10%,,3750,00:02:19,BV11m5B6REni_006_00-02-19,frames/BV11m5B6REni_006_00-02-19.jpg,https://www.bilibili.com/video/BV11m5B6REni/?t=139,legendary_bracer,传奇护腕,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+橙色,缥缈十字架,单品,C,C,"-20%最大生命再创新低，泛用性没有。
+应用场景仅有DD4，加快第一阶段节奏。",,通用,伤害 +25%（对异魔）；流血抗性 +30%；最大生命 -20%,,3750,00:03:09,BV11m5B6REni_011_00-03-09,frames/BV11m5B6REni_011_00-03-09.jpg,https://www.bilibili.com/video/BV11m5B6REni/?t=189,ethereal_crucifix,缥缈十字架,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+橙色,强力大蒜,单品,A,B,"集三种抗性于一体，苦修毕业抗性装。
+在高频DOT环境里表现优异，如庭院。
+病抗可以预防各种疾病，包括猩红诅咒。",,通用,腐蚀抗性 +33%；流血抗性 +33%；疾病抗性 +33%,,3750,00:03:43,BV11m5B6REni_013_00-03-43,frames/BV11m5B6REni_013_00-03-43.jpg,https://www.bilibili.com/video/BV11m5B6REni/?t=223,fortifying_garlic,强力大蒜,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+橙色,净化水晶,单品,B,C,"减技能概率，不得DOT英雄青，
+也影响麻风一众英雄的减益技能。
+就业狭窄，主要由老兵、修女使用。
+给神秘学者有奇效，奶技不再流血。",※兽窟专属饰品,通用,腐蚀抗性 +40%；流血抗性 +40%；减益抗性 +40%；腐蚀技能概率 -15%；流血技能概率 -15%；减益技能概率 -15%,,3750,00:04:47,BV11m5B6REni_018_00-04-47,frames/BV11m5B6REni_018_00-04-47.jpg,https://www.bilibili.com/video/BV11m5B6REni/?t=287,cleansing_crystal,净化水晶,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+橙色,理智之书,单品,B,C,"20%减压伤已是业内标杆，可长期留于库存。
+缓解0级英雄、地区恐惧症以及无光压力问题
+DD4麻兵兵瘟一刀老祖，瘟疫需要减压饰品。",,通用,受到压力 -20%,,3750,00:05:29,BV11m5B6REni_019_00-05-29,frames/BV11m5B6REni_019_00-05-29.jpg,https://www.bilibili.com/video/BV11m5B6REni/?t=329,book_of_sanity,理智之书,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+橙色,英雄戒指,单品,A,B,"+25%美德概率，单件最高。上限之选，值得携带。
+并不是无脑硬赌美德，而是辅以一定的刷压能力，
+要求玩家熟练掌握刷状态，确保出折磨能够解除。",,通用,美德概率 +25%,,3750,00:05:41,BV11m5B6REni_020_00-05-41,frames/BV11m5B6REni_020_00-05-41.jpg,https://www.bilibili.com/video/BV11m5B6REni/?t=341,heros_ring,英雄戒指,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+橙色,宴会图章,单品,C/D,D,庭院给的时尚小垃圾。,※隶属庭院DLC,通用,受到压力 -25%（受猩红诅咒时）,,3750,00:06:45,BV11m5B6REni_024_00-06-45,frames/BV11m5B6REni_024_00-06-45.jpg,https://www.bilibili.com/video/BV11m5B6REni/?t=405,cc_coven_signet,宴会图章,同页共同评级（宴会图章；雕塑家的工具；先祖的佳酿；斋戒符咒）,名称近似匹配，待核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+橙色,雕塑家的工具,单品,C/D,D,庭院给的时尚小垃圾。,※隶属庭院DLC,通用,伤害 +40%（对stonework）,,3750,00:06:45,BV11m5B6REni_024_00-06-45,frames/BV11m5B6REni_024_00-06-45.jpg,https://www.bilibili.com/video/BV11m5B6REni/?t=405,cc_sculptors_tools,雕量家的工具,同页共同评级（宴会图章；雕塑家的工具；先祖的佳酿；斋戒符咒）,名称近似匹配，待核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+橙色,先祖的佳酿,单品,C/D,D,庭院给的时尚小垃圾。,※隶属庭院DLC,通用,vampire_evolution_duration/: +69,,3750,00:06:45,BV11m5B6REni_024_00-06-45,frames/BV11m5B6REni_024_00-06-45.jpg,https://www.bilibili.com/video/BV11m5B6REni/?t=405,cc_crimson_tincture,先祖的佳酿,同页共同评级（宴会图章；雕塑家的工具；先祖的佳酿；斋戒符咒）,名称近似匹配，待核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+橙色,斋戒符咒,单品,C/D,D,庭院给的时尚小垃圾。,※隶属庭院DLC,通用,"最大生命 +40%（has_quirk(disease_vampire_wasting, 0)）；速度 +7（has_quirk(disease_vampire_wasting, 0)）",,3750,00:06:45,BV11m5B6REni_024_00-06-45,frames/BV11m5B6REni_024_00-06-45.jpg,https://www.bilibili.com/video/BV11m5B6REni/?t=405,cc_mantra_of_fasting,斋戒符咒,同页共同评级（宴会图章；雕塑家的工具；先祖的佳酿；斋戒符咒）,名称近似匹配，待核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+橙色,水银药膏,单品,A,B,庭院神器，值得一拿。,※隶属庭院DLC,通用,伤害 +25%（对vampire）,,3750,00:07:33,BV11m5B6REni_029_00-07-33,frames/BV11m5B6REni_029_00-07-33.jpg,https://www.bilibili.com/video/BV11m5B6REni/?t=453,cc_quicksilver_salve,水银药膏,同页共同评级（水银药膏；耀眼的镜子）,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+橙色,耀眼的镜子,单品,A,B,庭院神器，值得一拿。,※隶属庭院DLC,通用,速度 +4（场上至少 1 个vampire）；眩晕技能概率 +20%（对vampire）,,3750,00:07:33,BV11m5B6REni_029_00-07-33,frames/BV11m5B6REni_029_00-07-33.jpg,https://www.bilibili.com/video/BV11m5B6REni/?t=453,cc_dazzling_mirror,耀眼的镜子,同页共同评级（水银药膏；耀眼的镜子）,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+橙色,神圣祷文,单品,D,D,不如英雄戒指，甚至忘忧石。,,十字军,美德概率 +15%；受到压力 -20%；死亡抗性 +12%；腐蚀抗性 -20%；流血抗性 -20%,,3750,00:07:55,BV11m5B6REni_030_00-07-55,frames/BV11m5B6REni_030_00-07-55.jpg,https://www.bilibili.com/video/BV11m5B6REni/?t=475,holy_orders,神圣祷文,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+橙色,强盗的皮带扣,单品,B,B,"强化手枪和露弹，远程强盗专用。
+可以针对压力怪/潜行怪/冠军怪，
+拓展后期玩法，但流程价值一般。",※遗迹专属饰品,强盗,伤害 +20%（远程）；命中 +15（远程）；伤害 -10%（近战）；暴击率 -5%（近战）,,3750,00:08:25,BV11m5B6REni_031_00-08-25,frames/BV11m5B6REni_031_00-08-25.jpg,https://www.bilibili.com/video/BV11m5B6REni/?t=505,poisoning_buckle,强盗的皮带扣,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+橙色,亵渎魔瓶,单品,S,S,"瘟疫毕业饰品，职业橙三幻神。
+一件饰品兼顾了命中/控制/输出，
+饰品史上前无古人，强度独一档。",,瘟疫医生,命中 +10（远程）；眩晕技能概率 +20%；腐蚀技能概率 +20%；受到压力 +25%,,3750,00:09:02,BV11m5B6REni_034_00-09-02,frames/BV11m5B6REni_034_00-09-02.jpg,https://www.bilibili.com/video/BV11m5B6REni/?t=542,blasphemous_vial,亵渎魔瓶,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+橙色,神圣卷轴,单品,B,B,"+33%生命治疗，能有效抬起治疗量，
+同时负面特严重，修女废了半边功能。
+更多拿来过渡，或是走纯粹治疗路线，
+打法没有对错可言，主要看个人风格。",,修女,受到压力 -10%；治疗量 +33%；眩晕技能概率 -10%；伤害 -33%,,3750,00:09:23,BV11m5B6REni_035_00-09-23,frames/BV11m5B6REni_035_00-09-23.jpg,https://www.bilibili.com/video/BV11m5B6REni/?t=563,sacred_scroll,神圣卷轴,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+橙色,黑暗手鼓,单品,C,D,"美德饰品的两大核心点：
+①概率要高②通用饰品",,小丑,死亡抗性 +12%；受到压力 -25%（火炬亮度低于26）；美德概率 +10%（火炬亮度低于26）,,3750,00:11:07,BV11m5B6REni_041_00-11-07,frames/BV11m5B6REni_041_00-11-07.jpg,https://www.bilibili.com/video/BV11m5B6REni/?t=667,dark_tambourine,黑暗手鼓,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+橙色,守卫盾牌,单品,C,D,"没必要专门拿这件饰品
+亦或是特意让老兵站四。",,老兵,防御 +10%（位置4）；受到治疗 +50%（位置4）；闪避 +10（位置4）,,3750,00:11:25,BV11m5B6REni_042_00-11-25,frames/BV11m5B6REni_042_00-11-25.jpg,https://www.bilibili.com/video/BV11m5B6REni/?t=685,guardians_shield,守卫盾牌,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+橙色,恶魔坩埚,单品,S,S,"学者毕业饰品，职业橙三幻神。
+直接化身游戏内的最强点控手，
+加暴击也一定程度强化了控制。
+大胆行者！我要你原形毕露！",,神秘学者,眩晕技能概率 +30%；减益技能概率 +40%；暴击率 +3%；美德概率 -10%；受到压力 +15%,,3750,00:12:05,BV11m5B6REni_044_00-12-05,frames/BV11m5B6REni_044_00-12-05.jpg,https://www.bilibili.com/video/BV11m5B6REni/?t=725,demons_cauldron,恶魔地埚,,名称近似匹配，待核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+橙色,尖刺项圈,单品,B,C,"正面增幅相当契合狗哥，同时提升直伤和DOT。
+双重减疗大砍自理能力，最好和修女一起下本。",※兽窟专属饰品,驯犬师,伤害 +20%；流血技能概率 +30%；受到治疗 -20%；治疗量 -50%,,3750,00:12:26,BV11m5B6REni_045_00-12-26,frames/BV11m5B6REni_045_00-12-26.jpg,https://www.bilibili.com/video/BV11m5B6REni/?t=746,spiked_collar,尖刺项圈,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+橙色,狂暴面具,单品,C,C,不至于不能用，但总有更好的选择。,,麻风剑客,暴击率 +8%；速度 +3；美德概率 -10%；受到治疗 -33%,,3750,00:12:47,BV11m5B6REni_048_00-12-47,frames/BV11m5B6REni_048_00-12-47.jpg,https://www.bilibili.com/video/BV11m5B6REni/?t=767,berserk_mask,狂暴面具,同页共同评级（狂暴面具；愤怒头巾；暴怒帽子）,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+橙色,愤怒头巾,单品,C,C,不至于不能用，但总有更好的选择。,,弩手,伤害 +25%（位置4）；减益技能概率 +30%；治疗量 -50%,,3750,00:12:47,BV11m5B6REni_048_00-12-47,frames/BV11m5B6REni_048_00-12-47.jpg,https://www.bilibili.com/video/BV11m5B6REni/?t=767,wrathful_bandana,愤怒头巾,同页共同评级（狂暴面具；愤怒头巾；暴怒帽子）,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+橙色,暴怒帽子,单品,C,C,不至于不能用，但总有更好的选择。,,火枪手,伤害 +25%（位置4）；减益技能概率 +30%；治疗量 -50%,,3750,00:12:47,BV11m5B6REni_048_00-12-47,frames/BV11m5B6REni_048_00-12-47.jpg,https://www.bilibili.com/video/BV11m5B6REni/?t=767,wrathful_hat,暴怒帽子,同页共同评级（狂暴面具；愤怒头巾；暴怒帽子）,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+橙色,生命之烛,单品,A,C,"惊为天人的数值，优质肉装兼奶装。
+但因为是古商职业橙，优先级不高。",,古董商人,治疗量 +50%；最大生命 +15%,,3750,00:13:32,BV11m5B6REni_050_00-13-32,frames/BV11m5B6REni_050_00-13-32.jpg,https://www.bilibili.com/video/BV11m5B6REni/?t=812,antiq_5,生命之烛,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+橙色,地狱发髻,单品,S（无光）,S,"无光恶女毕业饰品，职业橙三幻神。
+史上最强精准+输出装，没有之一，
+钢铁天鹅刀刀烈火，尽显暴力美学。
+如同天上降魔主，真是人间太岁神！",,蛮族战士,暴击率 +10%（火炬亮度低于25）；命中 +15（火炬亮度低于25）；减益抗性 -10%；流血抗性 -10%,,3750,00:13:52,BV11m5B6REni_051_00-13-52,frames/BV11m5B6REni_051_00-13-52.jpg,https://www.bilibili.com/video/BV11m5B6REni/?t=832,hells_hairpin,地狱发医,,名称近似匹配，待核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+橙色,抑制枷锁,单品,B,C,"减少变身的压力，但只减少变身的压力。
+既不能控压吸仇恨，也没有美德装的上限。",,咒缚者,"造成压力 -40%（skill(transform, 0)）；受到压力 -40%",,3750,00:14:15,BV11m5B6REni_053_00-14-15,frames/BV11m5B6REni_053_00-14-15.jpg,https://www.bilibili.com/video/BV11m5B6REni/?t=855,padlock_5,抑制伽锁,,名称近似匹配，待核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+橙色,抑制枷锁,单品,B,C,"减少变身的压力，但只减少变身的压力。
+既不能控压吸仇恨，也没有美德装的上限。
+PS：变身玩法要求队伍有刷压能力",,咒缚者,"造成压力 -40%（skill(transform, 0)）；受到压力 -40%",,3750,00:14:25,BV11m5B6REni_054_00-14-25,frames/BV11m5B6REni_054_00-14-25.jpg,https://www.bilibili.com/video/BV11m5B6REni/?t=865,padlock_5,抑制伽锁,,名称近似匹配，待核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+橙色,摸金符,单品,A,A,"盗墓专属侦察饰品，属性相当豪华。
+但减血量自带风险，不能无脑使用。","※兽窟专属饰品
+盗墓专属侦察饰品，属性相当豪华。",盗墓贼,暴击率 +5%；trap抗性 +30%；速度 +2；侦察概率 +15%；最大生命 -10%,,3750,00:14:49,BV11m5B6REni_056_00-14-49,frames/BV11m5B6REni_056_00-14-49.jpg,https://www.bilibili.com/video/BV11m5B6REni/?t=889,raiders_talisman,摸金符,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+橙色,坚皮衣甲,单品,B,未给出（原图横线或留空）,卖速度换血量，中规中矩好坏参半。,,破盾者,最大生命 +33%；速度 -2,,无法出售,00:15:24,BV11m5B6REni_057_00-15-24,frames/BV11m5B6REni_057_00-15-24.jpg,https://www.bilibili.com/video/BV11m5B6REni/?t=924,sb_5,坚皮衣甲,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+先祖,先祖的地图,单品,S（无光）,不适用（作者取消该标准）,"所有的道路都通向我，
+掌管侦察和陷阱的神。",※跛行者/错乱恐魔掉落,通用,trap抗性 +25%；侦察概率 +25%；受到压力 +10%,,7500,00:00:16,BV1exGW6dEyH_003_00-00-16,frames/BV1exGW6dEyH_003_00-00-16.jpg,https://www.bilibili.com/video/BV1exGW6dEyH/?t=16,ancestors_map,先祖的地图,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+先祖,先祖的卷轴,单品,S,不适用（作者取消该标准）,"一件饰品囊括了诸多用途，泛用性王者：
+①治疗毕业装，提高主副奶的治疗能力
+②减压毕业装，提高刷压和解折磨能力
+③提高杀敌以及技能暴击带来的回复效果
+4提高奇物互动/解除陷阱带来的回复效果
+5大幅提高宿醉狂欢等扎营技能的回复效果",※跛行者/错乱恐魔掉落,通用,治疗量 +25%；压力治疗量 +25%；受到压力 +10%,,7500,00:02:11,BV1exGW6dEyH_012_00-02-11,frames/BV1exGW6dEyH_012_00-02-11.jpg,https://www.bilibili.com/video/BV1exGW6dEyH/?t=131,ancestors_scroll,先祖的卷轴,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+先祖,先祖的蜡烛,单品,S（高光）,不适用（作者取消该标准）,"加伤加速加闪，高光最具性价比的输出饰品，
+人人爱用，更是完美适配盗墓等高闪输出英雄。
+也可以用于兵十十丑、破破修丑等阵容的控速。
+无光流程中，庭院、农庄、DD4也能派上用场。",※跛行者/错乱恐魔掉落,通用,伤害 +15%（火炬亮度高于50）；速度 +2（火炬亮度高于50）；闪避 +5（火炬亮度高于50）；受到压力 +10%,,7500,00:04:40,BV1exGW6dEyH_023_00-04-40,frames/BV1exGW6dEyH_023_00-04-40.jpg,https://www.bilibili.com/video/BV1exGW6dEyH/?t=280,ancestors_candle,先祖的蜡烛,,名称精确核对,含1行低置信度OCR，需对照原图,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+先祖,先祖的触须魔偶,单品,B,不适用（作者取消该标准）,"+20%美德概率，通常与英雄戒指配套使用，
+在DD1、冠军船员、无尽农庄等副本里刷美德。",※跛行者/错乱恐魔掉落,通用,美德概率 +20%；死亡抗性 +8%,,7500,00:04:58,BV1exGW6dEyH_024_00-04-58,frames/BV1exGW6dEyH_024_00-04-58.jpg,https://www.bilibili.com/video/BV1exGW6dEyH/?t=298,ancestors_tentacle_idol,先祖的触须魔偶,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+先祖,先祖的药瓶,单品,C,不适用（作者取消该标准）,"练级保命可用，但食物消耗不好规避。
+身为一件先祖饰品，实在是过于掉价，
+建议在集齐五件爬爬饰品后，卖掉换钱。",※跛行者/错乱恐魔掉落,通用,最大生命 +25%；食物消耗 +50%；受到压力 +10%,,7500,00:05:23,BV1exGW6dEyH_025_00-05-23,frames/BV1exGW6dEyH_025_00-05-23.jpg,https://www.bilibili.com/video/BV1exGW6dEyH/?t=323,ancestors_bottle,先祖的药瓶,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+先祖,先祖的外套,单品,A,不适用（作者取消该标准）,"简单粗暴+15闪避，无亮度要求，
+是闪避队、闪避套路的重要组件。
+有着先祖饰品的通病：只有一件",,通用,闪避 +15；受到压力 +10%,,7500,00:06:00,BV1exGW6dEyH_026_00-06-00,frames/BV1exGW6dEyH_026_00-06-00.jpg,https://www.bilibili.com/video/BV1exGW6dEyH/?t=360,ancestors_coat,先祖的外套,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+先祖,先祖的家印戒指,单品,S,不适用（作者取消该标准）,"千磨万击还坚劲，任尔东西南北风。
+精准+防御，堪称史上第二大胆的设计。
+一件饰品兼顾了学者的精准和生存需求。
+坦克英雄兵麻十将最大化这件饰品的收益。",,通用,命中 +10；防御 +10%；受到压力 +10%,,7500,00:06:28,BV1exGW6dEyH_028_00-06-28,frames/BV1exGW6dEyH_028_00-06-28.jpg,https://www.bilibili.com/video/BV1exGW6dEyH/?t=388,ancestors_signet_ring,先祖的家印戒指,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+先祖,先祖的手枪,单品,S,不适用（作者取消该标准）,"寻常一样窗前月，才有梅花便不同。
+精准+速度，堪称史上第一大胆的设计。
+一件饰品兼顾了学者的精准和速度需求",,通用,命中 +15（远程）；速度 +3；受到压力 +10%,,7500,00:06:47,BV1exGW6dEyH_029_00-06-47,frames/BV1exGW6dEyH_029_00-06-47.jpg,https://www.bilibili.com/video/BV1exGW6dEyH/?t=407,ancestors_pistol,先祖的手枪,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+先祖,先祖的蘸水笔,单品,A,不适用（作者取消该标准）,8暴10伤，输出饰品中的龙凤。,,通用,暴击率 +8%（近战）；伤害 +10%（近战）；受到压力 +10%,,7500,00:07:10,BV1exGW6dEyH_030_00-07-10,frames/BV1exGW6dEyH_030_00-07-10.jpg,https://www.bilibili.com/video/BV1exGW6dEyH/?t=430,ancestors_pen,先祖的蘸水笔,同页共同评级（先祖的蘸水笔；先祖的弹丸）,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+先祖,先祖的弹丸,单品,A,不适用（作者取消该标准）,8暴10伤，输出饰品中的龙凤。,,通用,暴击率 +8%（远程）；伤害 +10%（远程）；受到压力 +10%,,7500,00:07:10,BV1exGW6dEyH_030_00-07-10,frames/BV1exGW6dEyH_030_00-07-10.jpg,https://www.bilibili.com/video/BV1exGW6dEyH/?t=430,ancestors_musket_ball,先祖的弹丸,同页共同评级（先祖的蘸水笔；先祖的弹丸）,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+先祖,先祖的刮胡膏,单品,C,不适用（作者取消该标准）,腐蚀、减益抗性相对不太实用。,,通用,腐蚀抗性 +50%；减益抗性 +50%；受到压力 +10%,,7500,00:07:23,BV1exGW6dEyH_031_00-07-23,frames/BV1exGW6dEyH_031_00-07-23.jpg,https://www.bilibili.com/video/BV1exGW6dEyH/?t=443,ancestors_moustache_cream,先祖的刮胡膏,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+先祖,先祖的手帕,单品,A,不适用（作者取消该标准）,"+50%流血抗性，苦修血抗毕业装。
+流血怪物更多，所以流血抗性更加实用。
+病抗可以预防各种疾病，包括猩红诅咒。",,通用,流血抗性 +50%；疾病抗性 +50%；受到压力 +10%,,7500,00:07:34,BV1exGW6dEyH_032_00-07-34,frames/BV1exGW6dEyH_032_00-07-34.jpg,https://www.bilibili.com/video/BV1exGW6dEyH/?t=454,ancestors_handkerchief,先祖的手帕,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+先祖,先祖的灯笼,单品,B,不适用（作者取消该标准）,"饰品本身没有毛病，帮忙减少乱位和争取先手。
+问题在于获取时期，拿到的时候侦察早就成型。",,通用,我方被突袭概率 -20%；敌方被突袭概率 +20%；受到压力 +10%,,7500,00:08:03,BV1exGW6dEyH_033_00-08-03,frames/BV1exGW6dEyH_033_00-08-03.jpg,https://www.bilibili.com/video/BV1exGW6dEyH/?t=483,ancestors_lantern,先祖的灯笼,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+先祖,先祖的肖像画,单品,B,不适用（作者取消该标准）,加快练级速度，可用于紧急练人。,,通用,决心经验 +50%；受到压力 +10%,,7500,00:08:27,BV1exGW6dEyH_034_00-08-27,frames/BV1exGW6dEyH_034_00-08-27.jpg,https://www.bilibili.com/video/BV1exGW6dEyH/?t=507,ancestors_portrait,先祖的肖像画,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+猎获,叹咏乐盒,单品,B,不适用（作者取消该标准）,"25%减压伤数值极高，
+极大缓解各种压力问题。",※疯子4.1%掉落,通用,受到压力 -25%,,2250,00:00:14,BV1TnVh6TEpR_003_00-00-14,frames/BV1TnVh6TEpR_003_00-00-14.jpg,https://www.bilibili.com/video/BV1TnVh6TEpR/?t=14,madman_1,叹咏乐盒,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+猎获,序曲乐盒,单品,B,不适用（作者取消该标准）,较为不错的练级保命装。,※疯子4.1%掉落,通用,最大生命 +15%；闪避 +8；命中 -2,,2250,00:00:35,BV1TnVh6TEpR_004_00-00-35,frames/BV1TnVh6TEpR_004_00-00-35.jpg,https://www.bilibili.com/video/BV1TnVh6TEpR/?t=35,madman_2,序曲乐盒,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+猎获,渐响乐盒,单品,A,不适用（作者取消该标准）,"加速加伤，输出饰品香，
+也可以用于各大阵容的控速。",※疯子4.1%掉落,通用,速度 +2；伤害 +15%；受到压力 +10%,,2250,00:00:45,BV1TnVh6TEpR_005_00-00-45,frames/BV1TnVh6TEpR_005_00-00-45.jpg,https://www.bilibili.com/video/BV1TnVh6TEpR/?t=45,madman_3,渐响乐盒,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+猎获,诱惑酒杯,单品,C,不适用（作者取消该标准）,"25%加压伤，凭空制造压力短板。
+没有魔瓶的命，却得了魔瓶的病",※冠军骷酒杯4.6%掉落,通用,最大生命 +20%；速度 +3；闪避 +8；受到压力 +25%；美德概率 -10%,,无法出售,00:01:03,BV1TnVh6TEpR_007_00-01-03,frames/BV1TnVh6TEpR_007_00-01-03.jpg,https://www.bilibili.com/video/BV1TnVh6TEpR/?t=63,tempting_goblet,诱惑酒杯,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+猎获,巴利斯坦的头颅,单品,B,不适用（作者取消该标准）,"正面给的慷慨，负面同样严重。
+没有更好选择，可以适当利用。",※收藏家/密门25%掉落,通用,防御 +25%；受到压力 +20%,,2250,00:01:36,BV1TnVh6TEpR_011_00-01-36,frames/BV1TnVh6TEpR_011_00-01-36.jpg,https://www.bilibili.com/video/BV1TnVh6TEpR/?t=96,collector_2,巴利斯坦的头颅,同页共同评级（巴利斯坦的头颅；朱妮娅的头颅；迪斯马的头颅）,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+猎获,朱妮娅的头颅,单品,B,不适用（作者取消该标准）,"正面给的慷慨，负面同样严重。
+没有更好选择，可以适当利用。",※收藏家/密门25%掉落,通用,治疗量 +30%；受到压力 +20%,,2250,00:01:36,BV1TnVh6TEpR_011_00-01-36,frames/BV1TnVh6TEpR_011_00-01-36.jpg,https://www.bilibili.com/video/BV1TnVh6TEpR/?t=96,collector_3,朱妮娅的头颅,同页共同评级（巴利斯坦的头颅；朱妮娅的头颅；迪斯马的头颅）,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+猎获,迪斯马的头颅,单品,B,不适用（作者取消该标准）,"正面给的慷慨，负面同样严重。
+没有更好选择，可以适当利用。",※收藏家/密门25%掉落,通用,伤害 +25%；最大生命 -10%；受到压力 +20%,,2250,00:01:36,BV1TnVh6TEpR_011_00-01-36,frames/BV1TnVh6TEpR_011_00-01-36.jpg,https://www.bilibili.com/video/BV1TnVh6TEpR/?t=96,collector_1,迪斯马的头颅,同页共同评级（巴利斯坦的头颅；朱妮娅的头颅；迪斯马的头颅）,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+猎获,结痂的鸦爪,单品,A（无光）,不适用（作者取消该标准）,无光最强流血饰品。,※尖叫魔的财宝,通用,暴击率 +7%；疾病抗性 +33%（火炬亮度低于75）；流血技能概率 +33%（火炬亮度低于50）；受到压力 +15%,,1,00:02:22,BV1TnVh6TEpR_014_00-02-22,frames/BV1TnVh6TEpR_014_00-02-22.jpg,https://www.bilibili.com/video/BV1TnVh6TEpR/?t=142,crow_talon,结的鸦爪,,名称近似匹配，待核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+猎获,膨胀的鸦眼,单品,S（无光）,不适用（作者取消该标准）,精准爷就是爷，侦察爷就是爷。,※尖叫魔的财宝,通用,命中 +10；疾病抗性 +33%（火炬亮度低于75）；侦察概率 +15%（火炬亮度低于50）；受到压力 +15%,,1,00:02:36,BV1TnVh6TEpR_015_00-02-36,frames/BV1TnVh6TEpR_015_00-02-36.jpg,https://www.bilibili.com/video/BV1TnVh6TEpR/?t=156,crow_eye,膨胀的鸦眼,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+猎获,褪落的尾翼,单品,B（无光）,不适用（作者取消该标准）,"速度饰品，主要由坦克英雄使用，
+起到先手守护和先手自标的作用。",※尖叫魔的财宝,通用,速度 +4；疾病抗性 +33%（火炬亮度低于75）；眩晕抗性 +33%（火炬亮度低于50）；受到压力 +15%,,1,00:02:54,BV1TnVh6TEpR_017_00-02-54,frames/BV1TnVh6TEpR_017_00-02-54.jpg,https://www.bilibili.com/video/BV1TnVh6TEpR/?t=174,crow_tailfeather,褪落的尾翼,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+猎获,褪落的翼羽,单品,C（无光）,不适用（作者取消该标准）,被月光斗篷完爆了。,※尖叫魔的财宝,通用,闪避 +10；疾病抗性 +33%（火炬亮度低于75）；位移抗性 +33%（火炬亮度低于50）；受到压力 +15%,,1,00:03:20,BV1TnVh6TEpR_018_00-03-20,frames/BV1TnVh6TEpR_018_00-03-20.jpg,https://www.bilibili.com/video/BV1TnVh6TEpR/?t=200,crow_wingfeather,褪落的翼羽,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+猎获,“头狼”挂坠,单品,A,不适用（作者取消该标准）,标记一响，生死难料。,※门前恶狼任务奖励,通用,伤害 +20%（自身状态：tagged）；命中 +10（自身状态：tagged）；暴击率 +5%（目标体型2）,,无法出售,00:03:28,BV1TnVh6TEpR_019_00-03-28,frames/BV1TnVh6TEpR_019_00-03-28.jpg,https://www.bilibili.com/video/BV1TnVh6TEpR/?t=208,boss_tassle,“头狼”挂坠,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+猎获,死灵法师的尖领,单品,B,不适用（作者取消该标准）,"大号克星戒指，遗迹专武。
+可以对策冠军先知、船员。",※冠军死灵任务奖励,通用,伤害 +20%（对邪秽）；暴击率 +8%（对邪秽）,,无法出售,00:03:51,BV1TnVh6TEpR_020_00-03-51,frames/BV1TnVh6TEpR_020_00-03-51.jpg,https://www.bilibili.com/video/BV1TnVh6TEpR/?t=231,boss_necromancer,死灵法师的尖领,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+猎获,先知的眼睛,单品,A,不适用（作者取消该标准）,"后期侦察成型好用，
+可以对策冠军大炮。",※冠军先知任务奖励,通用,命中 +15（位置4）；速度 +3（位置4）；受到压力 -15%（位置4）,,无法出售,00:04:09,BV1TnVh6TEpR_022_00-04-09,frames/BV1TnVh6TEpR_022_00-04-09.jpg,https://www.bilibili.com/video/BV1TnVh6TEpR/?t=249,boss_prophet,先知的眼睛,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+猎获,塞壬的螺号,单品,B,不适用（作者取消该标准）,平平无奇减压装。,※冠军塞壬任务奖励,通用,减益抗性 +50%；受到压力 -20%,,无法出售,00:04:18,BV1TnVh6TEpR_023_00-04-18,frames/BV1TnVh6TEpR_023_00-04-18.jpg,https://www.bilibili.com/video/BV1TnVh6TEpR/?t=258,boss_siren,塞壬的螺号,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+猎获,船长的铃铛,单品,C,不适用（作者取消该标准）,当前游戏阶段没有用武之地了。,※冠军船员任务奖励,通用,位移抗性 +50%；受到治疗 +20%,,无法出售,00:04:24,BV1TnVh6TEpR_024_00-04-24,frames/BV1TnVh6TEpR_024_00-04-24.jpg,https://www.bilibili.com/video/BV1TnVh6TEpR/?t=264,boss_crew,船长的铃铛,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+猎获,巫婆的汤勺,单品,B,不适用（作者取消该标准）,腐蚀饰品，诱捕破盾专用。,※冠军巫婆任务奖励,通用,腐蚀技能概率 +30%；腐蚀抗性 +40%；疾病抗性 +40%,,无法出售,00:04:36,BV1TnVh6TEpR_026_00-04-36,frames/BV1TnVh6TEpR_026_00-04-36.jpg,https://www.bilibili.com/video/BV1TnVh6TEpR/?t=276,boss_hag,巫婆的汤勺,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+猎获,点火人的引燃棒,单品,A,不适用（作者取消该标准）,狗哥优质输出饰品。,※冠军大炮任务奖励,通用,速度 +2；伤害 +10%（远程）；暴击率 +6%（远程）,,无法出售,00:04:44,BV1TnVh6TEpR_027_00-04-44,frames/BV1TnVh6TEpR_027_00-04-44.jpg,https://www.bilibili.com/video/BV1TnVh6TEpR/?t=284,boss_cannon,点火人的引燃棒,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+猎获,威利伯的旗帜,单品,B,不适用（作者取消该标准）,"+50%眩晕抗性，老兵对策饰品。
+可以对策门前恶狼、冠军血肉。",※冠军猪王任务奖励,通用,眩晕抗性 +50%；闪避 +10,,无法出售,00:05:04,BV1TnVh6TEpR_028_00-05-04,frames/BV1TnVh6TEpR_028_00-05-04.jpg,https://www.bilibili.com/video/BV1TnVh6TEpR/?t=304,boss_wilbur,威利伯的旗帜,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+猎获,血肉之心,单品,A,不适用（作者取消该标准）,最强血抗装，先祖手帕上位。,※冠军血肉任务奖励,通用,流血抗性 +50%；最大生命 +15%,,无法出售,00:05:16,BV1TnVh6TEpR_029_00-05-16,frames/BV1TnVh6TEpR_029_00-05-16.jpg,https://www.bilibili.com/video/BV1TnVh6TEpR/?t=316,boss_flesh,血肉之心,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+猎获,男爵的鞭子,单品,C/D,不适用（作者取消该标准）,意义不明的时尚小垃圾。,※庭院史诗本任务奖励,通用,减益抗性 +75%（受猩红诅咒时）；速度 +4（受猩红诅咒时）；眩晕抗性 -10%（受猩红诅咒时）,,无法出售,00:05:35,BV1TnVh6TEpR_030_00-05-35,frames/BV1TnVh6TEpR_030_00-05-35.jpg,https://www.bilibili.com/video/BV1TnVh6TEpR/?t=335,cc_boss_baron,男爵的鞭子,同页共同评级（男爵的鞭子；子爵的香料；伯爵夫人的扇子）,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+猎获,子爵的香料,单品,C/D,不适用（作者取消该标准）,意义不明的时尚小垃圾。,※庭院史诗本任务奖励,通用,暴击率 +5%（受猩红诅咒时）；受到治疗 +100%（受猩红诅咒时）；食物消耗 +100%（受猩红诅咒时）,,无法出售,00:05:35,BV1TnVh6TEpR_030_00-05-35,frames/BV1TnVh6TEpR_030_00-05-35.jpg,https://www.bilibili.com/video/BV1TnVh6TEpR/?t=335,cc_boss_viscount,子爵的香料,同页共同评级（男爵的鞭子；子爵的香料；伯爵夫人的扇子）,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+猎获,伯爵夫人的扇子,单品,C/D,不适用（作者取消该标准）,意义不明的时尚小垃圾。,※庭院史诗本任务奖励,通用,受到治疗 +50%（受猩红诅咒时）；流血抗性 -25%（受猩红诅咒时）,,无法出售,00:05:35,BV1TnVh6TEpR_030_00-05-35,frames/BV1TnVh6TEpR_030_00-05-35.jpg,https://www.bilibili.com/video/BV1TnVh6TEpR/?t=335,cc_boss_countess,伯爵夫人的扇子,同页共同评级（男爵的鞭子；子爵的香料；伯爵夫人的扇子）,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+猎获,棱镜心形水晶,单品,B,不适用（作者取消该标准）,猎杀星空怪可用。,"※精英星空怪14%掉落
+※冠军星空怪20%掉落",通用,"腐蚀技能概率 +35%（actor_base_class(thing, 0)）；流血技能概率 +35%（actor_base_class(thing, 0)）；暴击率 +12%（actor_base_class(thing, 0)）",,无法出售,00:05:49,BV1TnVh6TEpR_031_00-05-49,frames/BV1TnVh6TEpR_031_00-05-49.jpg,https://www.bilibili.com/video/BV1TnVh6TEpR/?t=349,com_prismatic_heart_crystal,棱镜心形水晶,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+猎获,怪物迷人的眼睛,单品,C,不适用（作者取消该标准）,数值过于保守，上下限都一般。,"※精英星空怪14%掉落
+※冠军星空怪20%掉落",通用,暴击率 +4%（生命比例高于41%）；暴击率 +8%（生命比例低于40%）,,无法出售,00:06:03,BV1TnVh6TEpR_032_00-06-03,frames/BV1TnVh6TEpR_032_00-06-03.jpg,https://www.bilibili.com/video/BV1TnVh6TEpR/?t=363,com_thing_eye,怪物迷人的眼睛,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+猎获,怪物相移皮肤,单品,B,不适用（作者取消该标准）,减压装，上限有待开发。,"※精英星空怪14%掉落
+※冠军星空怪20%掉落",通用,受到压力 -15%（生命比例高于41%）；受到压力 -50%（生命比例低于40%）,,无法出售,00:06:09,BV1TnVh6TEpR_033_00-06-09,frames/BV1TnVh6TEpR_033_00-06-09.jpg,https://www.bilibili.com/video/BV1TnVh6TEpR/?t=369,com_thing_hide,怪物相移皮肤,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+猎获,怪物的水晶牙,单品,A,不适用（作者取消该标准）,闪亮挂坠打底，还有二阶段。,"※精英星空怪14%掉落
+※冠军星空怪20%掉落",通用,眩晕技能概率 +10%（生命比例高于40%）；眩晕技能概率 +40%（生命比例低于41%）,,无法出售,00:06:15,BV1TnVh6TEpR_034_00-06-15,frames/BV1TnVh6TEpR_034_00-06-15.jpg,https://www.bilibili.com/video/BV1TnVh6TEpR/?t=375,com_thing_fang,怪物的水晶牙,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+庭院,签署的动员章,单品,B,B,小先祖卷轴，分摊治疗/回压负担。,,十字军,治疗量 +20%；压力治疗量 +20%,最大生命 +20%,7500,00:00:21,BV1onEQ6sE5w_003_00-00-21,frames/BV1onEQ6sE5w_003_00-00-21.jpg,https://www.bilibili.com/video/BV1onEQ6sE5w/?t=21,cc_set_cru_signed_conscription,签署的动员章,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+庭院,闪亮的肩甲,单品,B,C,"主要服务于自标打法，
+竞争对手是沉重长靴。",,十字军,防御 +15%；位移抗性 +35%；受到压力 -15%；速度 -2,最大生命 +20%,7500,00:00:38,BV1onEQ6sE5w_004_00-00-38,frames/BV1onEQ6sE5w_004_00-00-38.jpg,https://www.bilibili.com/video/BV1onEQ6sE5w/?t=38,cc_set_cru_glittering_spaulders,闪亮的肩甲,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+庭院,签署的动员章 + 闪亮的肩甲,套装组合,B,不适用（套装评价）,"抗压能力强，但缺乏战斗力，
+建议在怪癖里补充精准属性。",,十字军,"签署的动员章：治疗量 +20%；压力治疗量 +20%
+闪亮的肩甲：防御 +15%；位移抗性 +35%；受到压力 -15%；速度 -2",最大生命 +20%,7500,00:00:49,BV1onEQ6sE5w_005_00-00-49,frames/BV1onEQ6sE5w_005_00-00-49.jpg,https://www.bilibili.com/video/BV1onEQ6sE5w/?t=49,cc_set_cru_signed_conscription；cc_set_cru_glittering_spaulders,签署的动员章；闪亮的肩甲,本行评级仅适用于组合，不替代单品评级,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+庭院,羞耻吊坠,单品,A,A,不减闪的专注戒指。,,强盗,命中 +10；暴击率 +5%；受到压力 +15%,美德概率 +45%,7500,00:01:03,BV1onEQ6sE5w_007_00-01-03,frames/BV1onEQ6sE5w_007_00-01-03.jpg,https://www.bilibili.com/video/BV1onEQ6sE5w/?t=63,cc_set_high_shameful_locket,羞耻吊坠,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+庭院,染血围巾,单品,A,B,契合强盗的速度闪避装。,,强盗,速度 +2；闪避 +10,美德概率 +45%,7500,00:01:13,BV1onEQ6sE5w_008_00-01-13,frames/BV1onEQ6sE5w_008_00-01-13.jpg,https://www.bilibili.com/video/BV1onEQ6sE5w/?t=73,cc_set_high_bloodied_neckerchief,染血围巾,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+庭院,羞耻吊坠 + 染血围巾,套装组合,A,不适用（套装评价）,"综合性能强，缺点是比较刮，
+建议在怪里补充伤害属性。",,强盗,"羞耻吊坠：命中 +10；暴击率 +5%；受到压力 +15%
+染血围巾：速度 +2；闪避 +10",美德概率 +45%,7500,00:01:23,BV1onEQ6sE5w_010_00-01-23,frames/BV1onEQ6sE5w_010_00-01-23.jpg,https://www.bilibili.com/video/BV1onEQ6sE5w/?t=83,cc_set_high_shameful_locket；cc_set_high_bloodied_neckerchief,整耻吊坠；染血围巾,本行评级仅适用于组合，不替代单品评级,名称近似匹配，待核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+庭院,第40号实验的记录,单品,B,C,中规中矩血量装。,,瘟疫医生,最大生命 +25%；疾病抗性 +35%,腐蚀技能概率 +15%；眩晕技能概率 +15%,7500,00:01:46,BV1onEQ6sE5w_012_00-01-46,frames/BV1onEQ6sE5w_012_00-01-46.jpg,https://www.bilibili.com/video/BV1onEQ6sE5w/?t=106,cc_set_pd_codex_of_plagues,第40号实验的记录,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+庭院,解剖工具,单品,C,D,小刀瘟疫后期价值一般。,,瘟疫医生,流血技能概率 +35%；伤害 +25%,腐蚀技能概率 +15%；眩晕技能概率 +15%,7500,00:01:54,BV1onEQ6sE5w_013_00-01-54,frames/BV1onEQ6sE5w_013_00-01-54.jpg,https://www.bilibili.com/video/BV1onEQ6sE5w/?t=114,cc_set_pd_dissection_kit,解剖工具,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+庭院,第40号实验的记录 + 解剖工具,套装组合,C,不适用（套装评价）,"琳琅皆满目，唯独缺锋芒，
+简而言之：样样通样样松。",,瘟疫医生,"第40号实验的记录：最大生命 +25%；疾病抗性 +35%
+解剖工具：流血技能概率 +35%；伤害 +25%",腐蚀技能概率 +15%；眩晕技能概率 +15%,7500,00:02:07,BV1onEQ6sE5w_015_00-02-07,frames/BV1onEQ6sE5w_015_00-02-07.jpg,https://www.bilibili.com/video/BV1onEQ6sE5w/?t=127,cc_set_pd_codex_of_plagues；cc_set_pd_dissection_kit,第40号实验的记录；解剖工具,本行评级仅适用于组合，不替代单品评级,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+庭院,背德日记,单品,S,S,修女三大毕业装之一。,,修女,压力治疗量 +33%（扎营时）；治疗量 +25%,减益技能概率 +35%；眩晕技能概率 +35%,7500,00:02:15,BV1onEQ6sE5w_016_00-02-15,frames/BV1onEQ6sE5w_016_00-02-15.jpg,https://www.bilibili.com/video/BV1onEQ6sE5w/?t=135,cc_set_vest_salacious_diary,背德日记,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+庭院,赎罪念珠,单品,D,D,不要玩近战修女。,,修女,伤害 +15%（近战）；暴击率 +8%（近战）；美德概率 -15%,减益技能概率 +35%；眩晕技能概率 +35%,7500,00:02:29,BV1onEQ6sE5w_018_00-02-29,frames/BV1onEQ6sE5w_018_00-02-29.jpg,https://www.bilibili.com/video/BV1onEQ6sE5w/?t=149,cc_set_vest_atonement_beads,赎罪念珠,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+庭院,背德日记 + 赎罪念珠,套装组合,A,不适用（套装评价）,"眩晕概率175%，治疗控制两手抓，
+能帮助队伍更好地处理各种二体型。",,修女,"背德日记：压力治疗量 +33%（扎营时）；治疗量 +25%
+赎罪念珠：伤害 +15%（近战）；暴击率 +8%（近战）；美德概率 -15%",减益技能概率 +35%；眩晕技能概率 +35%,7500,00:02:39,BV1onEQ6sE5w_019_00-02-39,frames/BV1onEQ6sE5w_019_00-02-39.jpg,https://www.bilibili.com/video/BV1onEQ6sE5w/?t=159,cc_set_vest_salacious_diary；cc_set_vest_atonement_beads,背德日记；赎罪念珠,本行评级仅适用于组合，不替代单品评级,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+庭院,暴君的品酒杯,单品,A,B,25%加压伤，但有演艺厅抵消10%。,,小丑,压力治疗量 +33%；受到压力 +25%,压力治疗量 +33%（扎营时）,7500,00:03:18,BV1onEQ6sE5w_023_00-03-18,frames/BV1onEQ6sE5w_023_00-03-18.jpg,https://www.bilibili.com/video/BV1onEQ6sE5w/?t=198,cc_set_jest_tasting_cup,暴君的品酒杯,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+庭院,暴君的指骨,单品,B,B,"独奏谢幕速杀、自标闪避坦克。
+拓展小丑玩法，但吃局势判断。",,小丑,速度 +3（位置1）；闪避 +20（位置1）,压力治疗量 +33%（扎营时）,7500,00:03:39,BV1onEQ6sE5w_026_00-03-39,frames/BV1onEQ6sE5w_026_00-03-39.jpg,https://www.bilibili.com/video/BV1onEQ6sE5w/?t=219,cc_set_jest_tyrants_fingerbone,暴君的指骨,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+庭院,暴君的品酒杯 + 暴君的指骨,套装组合,B,不适用（套装评价）,也许不够划算，但至少不会差劲。,,小丑,"暴君的品酒杯：压力治疗量 +33%；受到压力 +25%
+暴君的指骨：速度 +3（位置1）；闪避 +20（位置1）",压力治疗量 +33%（扎营时）,7500,00:04:00,BV1onEQ6sE5w_028_00-04-00,frames/BV1onEQ6sE5w_028_00-04-00.jpg,https://www.bilibili.com/video/BV1onEQ6sE5w/?t=240,cc_set_jest_tasting_cup；cc_set_jest_tyrants_fingerbone,暴君的品酒杯；暴君的指骨,本行评级仅适用于组合，不替代单品评级,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+庭院,旧役旗标,单品,A,B,"可与防壁巨盾组合使用，
+再度加码提高控制能力。",,老兵,眩晕技能概率 +15%；减益技能概率 +20%；死亡抗性 +15%；受到压力 +10%,"伤害 +25%（riposte(, 0)）；命中 +10（riposte(, 0)）",7500,00:04:10,BV1onEQ6sE5w_029_00-04-10,frames/BV1onEQ6sE5w_029_00-04-10.jpg,https://www.bilibili.com/video/BV1onEQ6sE5w/?t=250,cc_set_maa_old_unit_banner,旧役旗标,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+庭院,玩具士兵,单品,A,B,"老兵暴击后会获得33%减压伤，
+玩具士兵给防御，同时兼顾压力。",,老兵,防御 +10%；暴击率 +5%,"伤害 +25%（riposte(, 0)）；命中 +10（riposte(, 0)）",7500,00:04:30,BV1onEQ6sE5w_031_00-04-30,frames/BV1onEQ6sE5w_031_00-04-30.jpg,https://www.bilibili.com/video/BV1onEQ6sE5w/?t=270,cc_set_maa_toy_soldier,玩具士兵,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+庭院,旧役旗标 + 玩具士兵,套装组合,B,不适用（套装评价）,"反击流，作为打爬的副C，
+但需要怪癖/小丑提供精准。",,老兵,"旧役旗标：眩晕技能概率 +15%；减益技能概率 +20%；死亡抗性 +15%；受到压力 +10%
+玩具士兵：防御 +10%；暴击率 +5%","伤害 +25%（riposte(, 0)）；命中 +10（riposte(, 0)）",7500,00:04:44,BV1onEQ6sE5w_032_00-04-44,frames/BV1onEQ6sE5w_032_00-04-44.jpg,https://www.bilibili.com/video/BV1onEQ6sE5w/?t=284,cc_set_maa_old_unit_banner；cc_set_maa_toy_soldier,旧役旗标；玩具士兵,本行评级仅适用于组合，不替代单品评级,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+庭院,一瓶黄沙,单品,S,S,"一件饰品四个属性全有用，逆天没有负面。
+位概和晕抗对策怪物、BOSS有独到优势。
+有精准的前提下，地埚+黄沙200%眩晕概率，
+全游最强点控，可以稳晕圣堂、巨噬细胞。",,神秘学者,眩晕技能概率 +20%；减益技能概率 +20%；位移技能概率 +20%；眩晕抗性 +20%,闪避 +15,7500,00:05:21,BV1onEQ6sE5w_035_00-05-21,frames/BV1onEQ6sE5w_035_00-05-21.jpg,https://www.bilibili.com/video/BV1onEQ6sE5w/?t=321,cc_set_occ_vial_of_sand,一瓶黄沙,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+庭院,血之契约,单品,B（无光）,C,"正面属性给予玩家很大的主动权
+-25%流血概率，奶技不再流血。
+减血量尤其危险，风险与收益并存。",,神秘学者,速度 +4（火炬亮度低于60）；伤害 +25%（火炬亮度低于60）；流血技能概率 -25%；最大生命 -10%,闪避 +15,7500,00:05:52,BV1onEQ6sE5w_037_00-05-52,frames/BV1onEQ6sE5w_037_00-05-52.jpg,https://www.bilibili.com/video/BV1onEQ6sE5w/?t=352,cc_set_occ_blood_pact,血之契约,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+庭院,一瓶黄沙 + 血之契约,套装组合,B（无光）,不适用（套装评价）,"提供的15闪避十分可观，
+但没有精准也缺少容错，
+建议在怪癖里补充属性",,神秘学者,"一瓶黄沙：眩晕技能概率 +20%；减益技能概率 +20%；位移技能概率 +20%；眩晕抗性 +20%
+血之契约：速度 +4（火炬亮度低于60）；伤害 +25%（火炬亮度低于60）；流血技能概率 -25%；最大生命 -10%",闪避 +15,7500,00:06:13,BV1onEQ6sE5w_038_00-06-13,frames/BV1onEQ6sE5w_038_00-06-13.jpg,https://www.bilibili.com/video/BV1onEQ6sE5w/?t=373,cc_set_occ_vial_of_sand；cc_set_occ_blood_pact,一瓶黄沙；血之契约,本行评级仅适用于组合，不替代单品评级,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+庭院,破损警章,单品,A,A,"+15精准量大管饱，保送毕业，
+也提高了自理能力和扎营回复。
+减晕抗要考虑一下地区适配性。",,驯犬师,命中 +15（远程）；压力治疗量 +50%（扎营时）；治疗量 +25%；眩晕抗性 -20%；减益抗性 -20%,伤害 +25%（自身流血时）；暴击率 +5%（自身流血时）,7500,00:06:27,BV1onEQ6sE5w_040_00-06-27,frames/BV1onEQ6sE5w_040_00-06-27.jpg,https://www.bilibili.com/video/BV1onEQ6sE5w/?t=387,cc_set_hm_lawmans_badge,破损警章,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+庭院,腐败之证,单品,S（无光）,S,"侦察概率更高，同时能减惊慌，
+与侦察尖哨平分秋色、各有千秋。",,驯犬师,侦察概率 +25%；我方被突袭概率 -15%；受到压力 +10%,伤害 +25%（自身流血时）；暴击率 +5%（自身流血时）,7500,00:06:44,BV1onEQ6sE5w_041_00-06-44,frames/BV1onEQ6sE5w_041_00-06-44.jpg,https://www.bilibili.com/video/BV1onEQ6sE5w/?t=404,cc_set_hm_damning_evidence,腐败之证,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+庭院,破损警章 + 腐败之证,套装组合,S（无光）,不适用（套装评价）,最实用的一套CC。,,驯犬师,"破损警章：命中 +15（远程）；压力治疗量 +50%（扎营时）；治疗量 +25%；眩晕抗性 -20%；减益抗性 -20%
+腐败之证：侦察概率 +25%；我方被突袭概率 -15%；受到压力 +10%",伤害 +25%（自身流血时）；暴击率 +5%（自身流血时）,7500,00:06:56,BV1onEQ6sE5w_042_00-06-56,frames/BV1onEQ6sE5w_042_00-06-56.jpg,https://www.bilibili.com/video/BV1onEQ6sE5w/?t=416,cc_set_hm_lawmans_badge；cc_set_hm_damning_evidence,破损警章；腐败之证,本行评级仅适用于组合，不替代单品评级,名称精确核对,含1行低置信度OCR，需对照原图,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+庭院,充满仇恨的杀戮名单,单品,B,C,"强化钩子、铁藜，
+让赏金多一条路走。",,赏金猎人,位移技能概率 +50%；流血技能概率 +35%；命中 +15（远程）,暴击率 +5%（自身状态：tagged）；暴击率 +5%（自身状态：stunned）；暴击率 +5%（自身流血时）,7500,00:07:12,BV1onEQ6sE5w_044_00-07-12,frames/BV1onEQ6sE5w_044_00-07-12.jpg,https://www.bilibili.com/video/BV1onEQ6sE5w/?t=432,cc_set_bh_vow_of_revenge,充满仇恨的杀裁名单,,名称近似匹配，待核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+庭院,黑道老大的臼齿,单品,B,C,"眼花缭乱的增伤饰品
+在闪避上克扣得太狠。",,赏金猎人,伤害 +20%（自身状态：tagged）；伤害 +20%（自身状态：stunned）；伤害 +20%（自身流血时）；闪避 -10,暴击率 +5%（自身状态：tagged）；暴击率 +5%（自身状态：stunned）；暴击率 +5%（自身流血时）,7500,00:07:32,BV1onEQ6sE5w_045_00-07-32,frames/BV1onEQ6sE5w_045_00-07-32.jpg,https://www.bilibili.com/video/BV1onEQ6sE5w/?t=452,cc_set_bh_crime_lords_molars,黑道老大的日齿,,名称近似匹配，待核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+庭院,充满仇恨的杀戮名单 + 黑道老大的臼齿,套装组合,C,不适用（套装评价）,"没有一丁点近战精准，
+自相矛盾的套装奖励。",,赏金猎人,"充满仇恨的杀戮名单：位移技能概率 +50%；流血技能概率 +35%；命中 +15（远程）
+黑道老大的臼齿：伤害 +20%（自身状态：tagged）；伤害 +20%（自身状态：stunned）；伤害 +20%（自身流血时）；闪避 -10",暴击率 +5%（自身状态：tagged）；暴击率 +5%（自身状态：stunned）；暴击率 +5%（自身流血时）,7500,00:07:50,BV1onEQ6sE5w_046_00-07-50,frames/BV1onEQ6sE5w_046_00-07-50.jpg,https://www.bilibili.com/video/BV1onEQ6sE5w/?t=470,cc_set_bh_vow_of_revenge；cc_set_bh_crime_lords_molars,充满仇恨的杀裁名单；黑道老大的白齿,本行评级仅适用于组合，不替代单品评级,名称近似匹配，待核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+庭院,睡前故事,单品,A,A,"暴击属性对弩手的提升十分大，
++35%减益概率也强化了减闪标。",,弩手,命中 +15（自身状态：tagged）；暴击率 +8%（自身状态：tagged）；减益技能概率 +35%；位移技能概率 +35%,防御 +25%,7500,00:08:04,BV1onEQ6sE5w_048_00-08-04,frames/BV1onEQ6sE5w_048_00-08-04.jpg,https://www.bilibili.com/video/BV1onEQ6sE5w/?t=484,cc_set_arb_sharpshooters_string_wax,睡前故事,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+庭院,童年的宝藏,单品,B,B,弩手最好的治疗饰品。,,弩手,治疗量 +30%；治疗量 +20%（扎营时）；受到压力 -15%,防御 +25%,7500,00:08:25,BV1onEQ6sE5w_051_00-08-25,frames/BV1onEQ6sE5w_051_00-08-25.jpg,https://www.bilibili.com/video/BV1onEQ6sE5w/?t=505,cc_set_arb_childhood_treasure,童年的宝藏,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+庭院,睡前故事 + 童年的宝藏,套装组合,A,不适用（套装评价）,"肉得一批的同时伤害还高，
+治疗和辅助功能也不拉下。",,弩手,"睡前故事：命中 +15（自身状态：tagged）；暴击率 +8%（自身状态：tagged）；减益技能概率 +35%；位移技能概率 +35%
+童年的宝藏：治疗量 +30%；治疗量 +20%（扎营时）；受到压力 -15%",防御 +25%,7500,00:08:33,BV1onEQ6sE5w_052_00-08-33,frames/BV1onEQ6sE5w_052_00-08-33.jpg,https://www.bilibili.com/video/BV1onEQ6sE5w/?t=513,cc_set_arb_sharpshooters_string_wax；cc_set_arb_childhood_treasure,睡前故事；童年的宝藏,本行评级仅适用于组合，不替代单品评级,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+庭院,主人的精华,单品,A,C,"如果将古商纳入战力考量，
+这件饰品的提升是最大的。",,古董商人,治疗量 +50%；腐蚀技能概率 +35%；减益技能概率 +35%,速度 +4；闪避 +10,7500,00:08:51,BV1onEQ6sE5w_054_00-08-51,frames/BV1onEQ6sE5w_054_00-08-51.jpg,https://www.bilibili.com/video/BV1onEQ6sE5w/?t=531,cc_set_anti_the_masters_essence,主人的精华,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+庭院,三相之二,单品,D,D,古商有个近战梦。,,古董商人,伤害 +50%（自身腐蚀时）；暴击率 +8%（自身腐蚀时）,速度 +4；闪避 +10,7500,00:09:17,BV1onEQ6sE5w_055_00-09-17,frames/BV1onEQ6sE5w_055_00-09-17.jpg,https://www.bilibili.com/video/BV1onEQ6sE5w/?t=557,cc_set_anti_two_of_the_three,三相之二,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+庭院,主人的精华 + 三相之二,套装组合,C,不适用（套装评价）,"闪避不够高的同时，
+没有肉装提供容错。",,古董商人,"主人的精华：治疗量 +50%；腐蚀技能概率 +35%；减益技能概率 +35%
+三相之二：伤害 +50%（自身腐蚀时）；暴击率 +8%（自身腐蚀时）",速度 +4；闪避 +10,7500,00:09:23,BV1onEQ6sE5w_056_00-09-23,frames/BV1onEQ6sE5w_056_00-09-23.jpg,https://www.bilibili.com/video/BV1onEQ6sE5w/?t=563,cc_set_anti_the_masters_essence；cc_set_anti_two_of_the_three,主人的精华；三相之二,本行评级仅适用于组合，不替代单品评级,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+庭院,放逐印记,单品,A,A,"+2速度争取先手切死压力怪。
++35%流血概率加强三号位打点，
+高甲怪对策饰品，打爬能力提升",,蛮族战士,速度 +2；流血技能概率 +35%；死亡抗性 +15%；受到治疗 -15%,命中 +7；闪避 +7,7500,00:09:35,BV1onEQ6sE5w_058_00-09-35,frames/BV1onEQ6sE5w_058_00-09-35.jpg,https://www.bilibili.com/video/BV1onEQ6sE5w/?t=575,cc_set_hel_mark_of_the_outcast,放逐印记,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+庭院,雌狮战痕,单品,C,C,残血加伤，效果一般。,,蛮族战士,伤害 +20%（生命比例低于75%）；伤害 +20%（生命比例低于50%）；伤害 +20%（生命比例低于25%）；受到压力 +10%,命中 +7；闪避 +7,7500,00:09:51,BV1onEQ6sE5w_059_00-09-51,frames/BV1onEQ6sE5w_059_00-09-51.jpg,https://www.bilibili.com/video/BV1onEQ6sE5w/?t=591,cc_set_hel_lioness_warpaint,雌狮战痕,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+庭院,放逐印记 + 雌狮战痕,套装组合,B,不适用（套装评价）,精准有但不多，强度一般。,,蛮族战士,"放逐印记：速度 +2；流血技能概率 +35%；死亡抗性 +15%；受到治疗 -15%
+雌狮战痕：伤害 +20%（生命比例低于75%）；伤害 +20%（生命比例低于50%）；伤害 +20%（生命比例低于25%）；受到压力 +10%",命中 +7；闪避 +7,7500,00:09:58,BV1onEQ6sE5w_060_00-09-58,frames/BV1onEQ6sE5w_060_00-09-58.jpg,https://www.bilibili.com/video/BV1onEQ6sE5w/?t=598,cc_set_hel_mark_of_the_outcast；cc_set_hel_lioness_warpaint,放逐印记；维狮战痕,本行评级仅适用于组合，不替代单品评级,名称近似匹配，待核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+庭院,长笛,单品,C,C,"麻风饰品栏位紧张，
+不太考虑减压饰品。",,麻风剑客,受到压力 -20%；压力治疗量 +33%（扎营时）,命中 +15（生命比例高于60%）,7500,00:10:07,BV1onEQ6sE5w_061_00-10-07,frames/BV1onEQ6sE5w_061_00-10-07.jpg,https://www.bilibili.com/video/BV1onEQ6sE5w/?t=607,cc_set_lep_tin_flute,长笛,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+庭院,临终遗嘱,单品,A,B,麻风最好的肉度饰品。,,麻风剑客,防御 +15%；最大生命 +15%；死亡抗性 -10%,命中 +15（生命比例高于60%）,7500,00:10:18,BV1onEQ6sE5w_063_00-10-18,frames/BV1onEQ6sE5w_063_00-10-18.jpg,https://www.bilibili.com/video/BV1onEQ6sE5w/?t=618,cc_set_lep_last_will_and_testament,临终遗瞩,,名称近似匹配，待核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+庭院,长笛 + 临终遗嘱,套装组合,A,不适用（套装评价）,"+15精准上道，自理能力佳。
+饰品的整体走向为自标承伤。",,麻风剑客,"长笛：受到压力 -20%；压力治疗量 +33%（扎营时）
+临终遗嘱：防御 +15%；最大生命 +15%；死亡抗性 -10%",命中 +15（生命比例高于60%）,7500,00:10:28,BV1onEQ6sE5w_064_00-10-28,frames/BV1onEQ6sE5w_064_00-10-28.jpg,https://www.bilibili.com/video/BV1onEQ6sE5w/?t=628,cc_set_lep_tin_flute；cc_set_lep_last_will_and_testament,长笛；临终遗瞩,本行评级仅适用于组合，不替代单品评级,名称近似匹配，待核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+庭院,神护锁链,单品,D,D,"锁链首先是个控制技能，
+其次是个补刀/垫刀技能。",,咒缚者,伤害 +20%（远程）；暴击率 +8%（远程）,伤害 +20%（位置1）,7500,00:10:56,BV1onEQ6sE5w_067_00-10-56,frames/BV1onEQ6sE5w_067_00-10-56.jpg,https://www.bilibili.com/video/BV1onEQ6sE5w/?t=656,cc_set_abom_wrought_osmond_chains,神护锁链,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+庭院,屈辱披风,单品,B,C,狼人在闪避队的饰品。,,咒缚者,受到压力 -15%；闪避 +10,伤害 +20%（位置1）,7500,00:11:07,BV1onEQ6sE5w_068_00-11-07,frames/BV1onEQ6sE5w_068_00-11-07.jpg,https://www.bilibili.com/video/BV1onEQ6sE5w/?t=667,cc_set_abom_shameful_shroud,屈辱披风,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+庭院,神护锁链 + 屈辱披风,套装组合,D,不适用（套装评价）,最幽默的套装，左脑攻击右脑。,,咒缚者,"神护锁链：伤害 +20%（远程）；暴击率 +8%（远程）
+屈辱披风：受到压力 -15%；闪避 +10",伤害 +20%（位置1）,7500,00:11:17,BV1onEQ6sE5w_069_00-11-17,frames/BV1onEQ6sE5w_069_00-11-17.jpg,https://www.bilibili.com/video/BV1onEQ6sE5w/?t=677,cc_set_abom_wrought_osmond_chains；cc_set_abom_shameful_shroud,神护锁链；屈辱披风,本行评级仅适用于组合，不替代单品评级,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+庭院,锋利的开信刀,单品,S,S,"暗黑地牢人气饰品，
+盗墓贼的最好伴侣。",,盗墓贼,伤害 +25%（近战）；命中 +10（近战）；闪避 +5,暴击率 +5%,7500,00:11:29,BV1onEQ6sE5w_070_00-11-29,frames/BV1onEQ6sE5w_070_00-11-29.jpg,https://www.bilibili.com/video/BV1onEQ6sE5w/?t=689,cc_set_gr_sharpened_letter_opener,锋利的开信刀,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+庭院,苦艾酒,单品,D,D,-10%最大生命，不考虑。,,盗墓贼,疾病抗性 +35%；腐蚀抗性 +35%；腐蚀技能概率 +35%；最大生命 -10%,暴击率 +5%,7500,00:11:49,BV1onEQ6sE5w_071_00-11-49,frames/BV1onEQ6sE5w_071_00-11-49.jpg,https://www.bilibili.com/video/BV1onEQ6sE5w/?t=709,cc_set_gr_absinthe,苦艾酒,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+庭院,锋利的开信刀 + 苦艾酒,套装组合,C,不适用（套装评价）,被苦艾酒拖后腿了。,,盗墓贼,"锋利的开信刀：伤害 +25%（近战）；命中 +10（近战）；闪避 +5
+苦艾酒：疾病抗性 +35%；腐蚀抗性 +35%；腐蚀技能概率 +35%；最大生命 -10%",暴击率 +5%,7500,00:12:04,BV1onEQ6sE5w_073_00-12-04,frames/BV1onEQ6sE5w_073_00-12-04.jpg,https://www.bilibili.com/video/BV1onEQ6sE5w/?t=724,cc_set_gr_sharpened_letter_opener；cc_set_gr_absinthe,锋利的开信刀；苦艾酒,本行评级仅适用于组合，不替代单品评级,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+庭院,黑耀石匕首,单品,B,未给出（原图横线或留空）,诱捕破盾专用，对觅踪也有提升。,,破盾者,减益技能概率 +40%；腐蚀技能概率 +40%,最大生命 +15%；防御 +10%；guard_blocked/: +1,无法出售,00:12:14,BV1onEQ6sE5w_075_00-12-14,frames/BV1onEQ6sE5w_075_00-12-14.jpg,https://www.bilibili.com/video/BV1onEQ6sE5w/?t=734,sb_set_1,黑耀石匕首,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+庭院,被切断的手,单品,C,未给出（原图横线或留空）,没什么实质提升。,,破盾者,腐蚀抗性 +50%；受到压力 -10%,最大生命 +15%；防御 +10%；guard_blocked/: +1,无法出售,00:12:46,BV1onEQ6sE5w_078_00-12-46,frames/BV1onEQ6sE5w_078_00-12-46.jpg,https://www.bilibili.com/video/BV1onEQ6sE5w/?t=766,sb_set_2,被切断的手,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+庭院,黑耀石匕首 + 被切断的手,套装组合,B,不适用（套装评价）,补足了生存，但缺少精准。,,破盾者,"黑耀石匕首：减益技能概率 +40%；腐蚀技能概率 +40%
+被切断的手：腐蚀抗性 +50%；受到压力 -10%",最大生命 +15%；防御 +10%；guard_blocked/: +1,无法出售,00:12:52,BV1onEQ6sE5w_079_00-12-52,frames/BV1onEQ6sE5w_079_00-12-52.jpg,https://www.bilibili.com/video/BV1onEQ6sE5w/?t=772,sb_set_1；sb_set_2,黑耀石匕首；被切断的手,本行评级仅适用于组合，不替代单品评级,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+庭院,玻璃碎片,单品,B,B,"极大强调苦修的进攻，
+第二件推荐血肉之心。",,苦修者,流血技能概率 +35%；流血抗性 -20%,死亡抗性 +10%,7500,00:13:15,BV1onEQ6sE5w_081_00-13-15,frames/BV1onEQ6sE5w_081_00-13-15.jpg,https://www.bilibili.com/video/BV1onEQ6sE5w/?t=795,cc_set_flag_shard_of_glass,玻璃碎片,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+庭院,玻璃碎片 + 断裂的牙齿,套装组合,B,不适用（套装评价）,中规中矩的一套CC。,,苦修者,"玻璃碎片：流血技能概率 +35%；流血抗性 -20%
+断裂的牙齿：最大生命 +20%；位移抗性 +35%",死亡抗性 +10%,7500,00:13:47,BV1onEQ6sE5w_084_00-13-47,frames/BV1onEQ6sE5w_084_00-13-47.jpg,https://www.bilibili.com/video/BV1onEQ6sE5w/?t=827,cc_set_flag_shard_of_glass；cc_set_flag_chipped_tooth,玻璃碎片；断裂的牙齿,本行评级仅适用于组合，不替代单品评级,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+水晶,非欧刀柄,单品,A,未给出（原图横线或留空）,"眩晕饰品，冠军本控二体型需要
++15%最大生命，提供了不俗肉度。",,十字军,"最大生命 +15%；攻击随机目标概率 +5%；眩晕技能概率 +25%（has_item_id(holy_water, 0)）",,无法出售,00:00:32,BV15NTx6nEXX_003_00-00-32,frames/BV15NTx6nEXX_003_00-00-32.jpg,https://www.bilibili.com/video/BV15NTx6nEXX/?t=32,com_cru_non_euclidean_hilt,非欧刀柄,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+水晶,晶体火药,单品,A,未给出（原图横线或留空）,顶级输出饰品，但不能无脑使用。,,强盗,伤害 +20%；速度 +3；眩晕抗性 -15%,,无法出售,00:01:19,BV15NTx6nEXX_006_00-01-19,frames/BV15NTx6nEXX_006_00-01-19.jpg,https://www.bilibili.com/video/BV15NTx6nEXX/?t=79,com_hwy_crystalline_gunpowder,晶体火药,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+水晶,尘埃蒸馏,单品,A,未给出（原图横线或留空）,"+20闪避，一举追至合格/优秀线。
+配合亵渎魔瓶以及藏书馆能够达成
+200%腐蚀概率，几乎是无物不蚀。",,瘟疫医生,"闪避 +20；腐蚀技能概率 +25%；受到治疗 +20%（has_item_id(medicinal_herbs, 0)）",,无法出售,00:01:41,BV15NTx6nEXX_007_00-01-41,frames/BV15NTx6nEXX_007_00-01-41.jpg,https://www.bilibili.com/video/BV15NTx6nEXX/?t=101,com_pd_ashen_distillation,尘埃蒸馏,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+水晶,异教文章,单品,S,未给出（原图横线或留空）,"修女三大毕业装之一
+可以拔高为打爬的副C。",,修女,"治疗量 +20%（has_item_id(holy_water, 0)）；伤害 +25%（对husk）；伤害 +25%（对异魔）；受到压力 +10%",,无法出售,00:02:06,BV15NTx6nEXX_008_00-02-06,frames/BV15NTx6nEXX_008_00-02-06.jpg,https://www.bilibili.com/video/BV15NTx6nEXX/?t=126,com_ves_heretical_passages,异教文章,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+水晶,吞噬者挽歌,单品,S,未给出（原图横线或留空）,"小丑毕业减压装/输出装。
+减压更轻松，提刀更有力。",,小丑,"压力治疗量 +25%；伤害 +25%（has_item_id(laudanum, 0)）；受到压力 +10%",,无法出售,00:02:28,BV15NTx6nEXX_010_00-02-28,frames/BV15NTx6nEXX_010_00-02-28.jpg,https://www.bilibili.com/video/BV15NTx6nEXX/?t=148,com_jes_dirge_for_devoured,吞噬者挽歌,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+水晶,镜罩,单品,C,未给出（原图横线或留空）,"伤害反弹、堆防堆闪，两者逻辑冲突。
+反而妨碍刷状态，本质猪王猎获下位。",,老兵,闪避 +10；damage_reflect_percent/reflected_dmg: +0.3；眩晕抗性 +20%,,无法出售,00:02:40,BV15NTx6nEXX_011_00-02-40,frames/BV15NTx6nEXX_011_00-02-40.jpg,https://www.bilibili.com/video/BV15NTx6nEXX/?t=160,com_maa_mirror_shield,镜罩,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+水晶,石化颅骨,单品,A,未给出（原图横线或留空）,海湾、极暗地牢的极佳肉装。,,神秘学者,防御 +40%（受到husk攻击时）；受到治疗 -20%；防御 +30%（受到异魔攻击时）；最大生命 +15%,,无法出售,00:03:11,BV15NTx6nEXX_012_00-03-11,frames/BV15NTx6nEXX_012_00-03-11.jpg,https://www.bilibili.com/video/BV15NTx6nEXX/?t=191,com_occ_elder_sign,石化颅骨,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+水晶,瘪牙尖哨,单品,B,未给出（原图横线或留空）,"变成三回合守护，使用场景为DD2，
+不一定比得上月光斗篷专心叠闪避。",,驯犬师,"流血技能概率 +50%（has_item_id(dog_treats, 0)）；压力治疗量 +40%（is_guarding(, 0)）；闪避 -10；guard_duration_percent/: +0.66",,无法出售,00:03:27,BV15NTx6nEXX_013_00-03-27,frames/BV15NTx6nEXX_013_00-03-27.jpg,https://www.bilibili.com/video/BV15NTx6nEXX/?t=207,com_hnd_huskfang_whistle,牙尖哨,,名称近似匹配，待核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+水晶,永恒面具,单品,A,未给出（原图横线或留空）,赏金极佳的速度/闪避装。,,赏金猎人,速度 +2；闪避 +15；受到压力 +5%,,无法出售,00:03:59,BV15NTx6nEXX_015_00-03-59,frames/BV15NTx6nEXX_015_00-03-59.jpg,https://www.bilibili.com/video/BV15NTx6nEXX/?t=239,com_bh_mask_of_timeless,永恒面具,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+水晶,锐利箭矢,单品,A,未给出（原图横线或留空）,"弩手超暴力输出装，无光慎用，
+因为标记/照明弹也会触发加压。",,弩手,伤害 +20%；暴击率 +7%（远程）,,无法出售,00:04:09,BV15NTx6nEXX_016_00-04-09,frames/BV15NTx6nEXX_016_00-04-09.jpg,https://www.bilibili.com/video/BV15NTx6nEXX/?t=249,com_arb_keening_bolts,锐利箭矢,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+水晶,超级火枪子弹,单品,D,未给出（原图横线或留空）,昂贵的价格和逆天的负面。,,火枪手,伤害 +20%；攻击随机目标概率 +20%,,无法出售,00:04:36,BV15NTx6nEXX_018_00-04-36,frames/BV15NTx6nEXX_018_00-04-36.jpg,https://www.bilibili.com/video/BV15NTx6nEXX/?t=276,com_msk_icosahedric_balls,超级火枪子弹,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+水晶,冒烟颅骨,单品,A,未给出（原图横线或留空）,古商闪避队必备，同时也是唯二的出路。,,古董商人,"闪避 +35（has_item_id(spice, 0)）；命中 -15；腐蚀抗性 -15%",,无法出售,00:04:48,BV15NTx6nEXX_019_00-04-48,frames/BV15NTx6nEXX_019_00-04-48.jpg,https://www.bilibili.com/video/BV15NTx6nEXX/?t=288,com_ant_smoking_skull,冒烟颅骨,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+水晶,嗜血之刃,单品,S（高光）,未给出（原图横线或留空）,"高光恶女毕业饰品，面板实力强劲。
+怕空刀就追加精准，比如日光戒指。",,蛮族战士,命中 +15；流血抗性 -20%；速度 +2；暴击率 +8%（自身流血时）,,无法出售,00:05:12,BV15NTx6nEXX_020_00-05-12,frames/BV15NTx6nEXX_020_00-05-12.jpg,https://www.bilibili.com/video/BV15NTx6nEXX/?t=312,com_hel_thirsting_blade,嗜血之刃,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+水晶,石化护身符,单品,B,未给出（原图横线或留空）,"属性不错，减血抗有不小的负面。
+竞争不过家印戒指，但依然可用。",,麻风剑客,"命中 +10（has_item_id(bandage, 0)）；最大生命 +15%；流血抗性 -15%",,无法出售,00:05:31,BV15NTx6nEXX_021_00-05-31,frames/BV15NTx6nEXX_021_00-05-31.jpg,https://www.bilibili.com/video/BV15NTx6nEXX/?t=331,com_lep_crystalized_amulet,石化护身符,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+水晶,破损钥匙,单品,S,S,"狼人毕业饰品，堪称体外器官。
+假饰品强度，直接拯救一个职业。
+30碎片，性价比最高的水晶饰品",,咒缚者,命中 +15；眩晕技能概率 +35%；受到压力 +10%,,无法出售,00:05:58,BV15NTx6nEXX_023_00-05-58,frames/BV15NTx6nEXX_023_00-05-58.jpg,https://www.bilibili.com/video/BV15NTx6nEXX/?t=358,com_abom_broken_key,破损钥匙,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+水晶,珍贵药剂,单品,A,未给出（原图横线或留空）,盗墓极佳的速度/闪避装。,,盗墓贼,"闪避 +15（has_item_id(medicinal_herbs, 0)）；速度 +3；腐蚀抗性 -20%；hp_dot_poison_duration_percent/: +0.5",,无法出售,00:06:35,BV15NTx6nEXX_026_00-06-35,frames/BV15NTx6nEXX_026_00-06-35.jpg,https://www.bilibili.com/video/BV15NTx6nEXX/?t=395,com_grv_huskclaw_toxin,珍贵药剂,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+水晶,幽灵矛尖,单品,B,未给出（原图横线或留空）,"可以说满足了破盾的很多需求，
+但下限低，不适用于单C阵容。
+用法参考：诱捕破盾、无尽农庄..",,破盾者,伤害 +15%；攻击随机目标概率 +5%；腐蚀技能概率 +20%；最大生命 +15%,,无法出售,00:06:42,BV15NTx6nEXX_027_00-06-42,frames/BV15NTx6nEXX_027_00-06-42.jpg,https://www.bilibili.com/video/BV15NTx6nEXX/?t=402,com_sb_spectral_speartip,幽灵矛尖,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+水晶,酸性灵液,单品,D,未给出（原图横线或留空）,意义不明的水晶饰品,,苦修者,最大生命 -25%；伤害 +30%；流血技能概率 +30%（对husk）；受到治疗 +25%（生命比例低于20%）,,无法出售,00:06:59,BV15NTx6nEXX_028_00-06-59,frames/BV15NTx6nEXX_028_00-06-59.jpg,https://www.bilibili.com/video/BV15NTx6nEXX/?t=419,com_flag_acidic_husk_ichor,酸性灵液,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+水晶,水晶吊坠,单品,B,未给出（原图横线或留空）,提高碎片收集效率。,,通用,碎片奖励 +15%；受到压力 +15%,,无法出售,00:07:09,BV15NTx6nEXX_030_00-07-09,frames/BV15NTx6nEXX_030_00-07-09.jpg,https://www.bilibili.com/video/BV15NTx6nEXX/?t=429,com_comet_seed_pendant,水晶吊坠,同页共同评级（水晶吊坠；水晶簇吊坠）,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+水晶,水晶簇吊坠,单品,B,未给出（原图横线或留空）,提高碎片收集效率。,,通用,碎片奖励 +25%；受到压力 +15%,,无法出售,00:07:09,BV15NTx6nEXX_030_00-07-09,frames/BV15NTx6nEXX_030_00-07-09.jpg,https://www.bilibili.com/video/BV15NTx6nEXX/?t=429,com_comet_cluster_pendant,水晶簇吊坠,同页共同评级（水晶吊坠；水晶簇吊坠）,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+水晶,彗星透镜,单品,B,未给出（原图横线或留空）,无视潜行，人造暮光之梦。,,通用,"无视潜行；美德概率 -20%；暴击率 +5%（has_item_id(spice, 0)）",,无法出售,00:07:19,BV15NTx6nEXX_031_00-07-19,frames/BV15NTx6nEXX_031_00-07-19.jpg,https://www.bilibili.com/video/BV15NTx6nEXX/?t=439,com_lens_of_comet,彗星透镜,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+水晶,彩色外套,单品,C,未给出（原图横线或留空）,易读性差，效果杂要。,,通用,,,无法出售,00:07:30,BV15NTx6nEXX_032_00-07-30,frames/BV15NTx6nEXX_032_00-07-30.jpg,https://www.bilibili.com/video/BV15NTx6nEXX/?t=450,com_coat_many_colours,彩色外套,同页共同评级（彩色外套；磨坊主的烟斗）,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+水晶,磨坊主的烟斗,单品,C,未给出（原图横线或留空）,易读性差，效果杂要。,,通用,,,无法出售,00:07:30,BV15NTx6nEXX_032_00-07-30,frames/BV15NTx6nEXX_032_00-07-30.jpg,https://www.bilibili.com/video/BV15NTx6nEXX/?t=450,com_millers_pipe,磨坊主的烟斗,同页共同评级（彩色外套；磨坊主的烟斗）,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season
+水晶,米尔德里德的吊坠,单品,B,未给出（原图横线或留空）,"速度饰品，主要由坦克英雄使用，
+起到先手守护和先手自标的作用。",,通用,"受到伤害 -100%（skill(grind_the_grist, 0)）；腐蚀抗性 +40%；速度 +3；伤害 +40%（对unfortunate_soul）",,无法出售,00:07:47,BV15NTx6nEXX_033_00-07-47,frames/BV15NTx6nEXX_033_00-07-47.jpg,https://www.bilibili.com/video/BV15NTx6nEXX/?t=467,com_mildredslocket,米尔德里德的吊坠,,名称精确核对,OCR正文可读，原文保留,Bilibili,清丽静,https://space.bilibili.com/1412307924,https://space.bilibili.com/1412307924/lists/6744111?type=season

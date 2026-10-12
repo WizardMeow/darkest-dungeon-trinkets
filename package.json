@@ -1,0 +1,20 @@
+{
+  "name": "darkest-dungeon-catalog",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "rsbuild dev",
+    "build": "rsbuild build",
+    "preview": "rsbuild preview"
+  },
+  "dependencies": {
+    "papaparse": "^5.5.3",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "@rsbuild/core": "^2.0.0",
+    "@rsbuild/plugin-react": "^2.0.0"
+  }
+}
