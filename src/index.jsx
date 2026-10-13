@@ -3,6 +3,7 @@ import { createRoot } from 'react-dom/client';
 import Papa from 'papaparse';
 import './styles.css';
 import Quirks from './Quirks';
+import { matchesSearch } from './search';
 
 const CATEGORIES = ['灰白', '绿色', '蓝色', '橙色', '先祖', '猎获', '庭院', '水晶'];
 const csvUrl = (name) => `./data/${encodeURIComponent(name)}`;
@@ -69,7 +70,7 @@ function App() {
 
   const results = useMemo(() => {
     const needle = query.trim().toLowerCase();
-    const result = rows.filter((row) => (category === '全部' || row['分类'] === category) && (grade === '全部' || row['实用程度'].includes(grade)) && (priority === '全部' || row['获取优先'] === priority) && (type === '全部' || row['评级对象'] === type) && (!reviewOnly || needsReview(row)) && (!needle || ['饰品名称', '介绍', '限定条件', '适用职业', '游戏属性', '套装效果', '饰品ID'].some((key) => row[key].toLowerCase().includes(needle))));
+    const result = rows.filter((row) => (category === '全部' || row['分类'] === category) && (grade === '全部' || row['实用程度'].includes(grade)) && (priority === '全部' || row['获取优先'] === priority) && (type === '全部' || row['评级对象'] === type) && (!reviewOnly || needsReview(row)) && matchesSearch(['饰品名称', '介绍', '限定条件', '适用职业', '游戏属性', '套装效果', '饰品ID'].map(key => row[key]), needle));
     if (sort === '实用程度') result.sort((a, b) => rank(b['实用程度']) - rank(a['实用程度']) || a.order - b.order);
     if (sort === '获取优先') result.sort((a, b) => rank(b['获取优先']) - rank(a['获取优先']) || a.order - b.order);
     if (sort === '名称') result.sort((a, b) => a['饰品名称'].localeCompare(b['饰品名称'], 'zh-CN'));
@@ -87,7 +88,7 @@ function App() {
       <div className="source-line"><span>评级来源：<a href="https://www.bilibili.com/" target="_blank" rel="noreferrer">Bilibili</a> · UP 主 <a href="https://space.bilibili.com/1412307924" target="_blank" rel="noreferrer">清丽静 ↗</a> · <a href="https://space.bilibili.com/1412307924/lists/6744111?type=season" target="_blank" rel="noreferrer">地牢大学习 23–30 期 ↗</a></span><button className="text-button" aria-expanded={showSources} onClick={() => setShowSources(!showSources)}>数据说明 {showSources ? '−' : '+'}</button></div>
       {showSources && <section className="source-panel"><p>实用程度与获取优先是视频作者的独立评级。先祖、猎获篇取消获取优先；套装组合单独列出，不覆盖单品评级。高光、无光条件保留在评级旁。</p><p>属性来自本机《暗黑地牢 I》原版与 DLC 定义，不包含创意工坊模组。名称和小字存在识别误差，待复核条目可打开原图核对。</p><div className="source-links"><a href={summary?.seriesUrl} target="_blank" rel="noreferrer">查看视频合集 ↗</a>{['逐图索引.csv', '游戏饰品表.csv', '逐行原文.csv'].map((name) => <a key={name} href={csvUrl(name)} download>下载{name.replace('.csv', '')}</a>)}</div></section>}
       <section className="catalog" aria-label="饰品目录">
-        <div className="catalog-toolbar"><label className="search"><span aria-hidden="true">⌕</span><input aria-label="搜索饰品" placeholder="搜索饰品、职业、属性或介绍…" value={query} onChange={(event) => setQuery(event.target.value)} />{query && <button onClick={() => setQuery('')} aria-label="清空搜索">×</button>}</label><label className="sort">排序<select aria-label="排序" value={sort} onChange={(event) => setSort(event.target.value)}>{['视频顺序', '实用程度', '获取优先', '名称'].map((x) => <option key={x}>{x}</option>)}</select></label></div>
+        <div className="catalog-toolbar"><label className="search"><span aria-hidden="true">⌕</span><input aria-label="搜索饰品" placeholder="搜索饰品、职业、属性，支持拼音首字母…" value={query} onChange={(event) => setQuery(event.target.value)} />{query && <button onClick={() => setQuery('')} aria-label="清空搜索">×</button>}</label><label className="sort">排序<select aria-label="排序" value={sort} onChange={(event) => setSort(event.target.value)}>{['视频顺序', '实用程度', '获取优先', '名称'].map((x) => <option key={x}>{x}</option>)}</select></label></div>
         <div className="categories" aria-label="饰品分类">{['全部', ...CATEGORIES].map((x) => <button key={x} className={category === x ? 'active' : ''} aria-pressed={category === x} onClick={() => setCategory(x)}>{x}{x !== '全部' && <span>{rows.filter((r) => r['分类'] === x).length}</span>}</button>)}</div>
         <div className="filters"><label>实用程度<select aria-label="实用程度筛选" value={grade} onChange={(event) => setGrade(event.target.value)}>{['全部', 'S', 'A', 'B', 'C', 'D'].map((x) => <option key={x}>{x}</option>)}</select></label><label>获取优先<select aria-label="获取优先筛选" value={priority} onChange={(event) => setPriority(event.target.value)}>{['全部', 'S', 'A', 'B', 'C', 'D'].map((x) => <option key={x}>{x}</option>)}</select></label><label>评级对象<select aria-label="评级对象筛选" value={type} onChange={(event) => setType(event.target.value)}>{['全部', '单品', '套装组合'].map((x) => <option key={x}>{x}</option>)}</select></label><label className="review-check"><input type="checkbox" checked={reviewOnly} onChange={(event) => setReviewOnly(event.target.checked)} />只看待复核</label><button className="text-button reset" onClick={reset}>重置筛选</button></div>
         <div className="result-heading"><span><strong>{results.length}</strong> 条评级记录{category !== '全部' && ` · ${category}`}</span><span>点击饰品查看详情与原图</span></div>
