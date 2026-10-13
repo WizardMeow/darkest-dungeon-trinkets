@@ -2,6 +2,7 @@ import React, { useEffect, useMemo, useRef, useState } from 'react';
 import { createRoot } from 'react-dom/client';
 import Papa from 'papaparse';
 import './styles.css';
+import Quirks from './Quirks';
 
 const CATEGORIES = ['灰白', '绿色', '蓝色', '橙色', '先祖', '猎获', '庭院', '水晶'];
 const csvUrl = (name) => `./data/${encodeURIComponent(name)}`;
@@ -42,6 +43,7 @@ function Detail({ row, onClose }) {
 }
 
 function App() {
+  const [tab, setTab] = useState(location.hash === '#quirks' ? '怪癖' : '饰品');
   const [rows, setRows] = useState([]);
   const [summary, setSummary] = useState(null);
   const [error, setError] = useState('');
@@ -75,8 +77,11 @@ function App() {
   }, [rows, query, category, grade, priority, type, sort, reviewOnly]);
 
   function reset() { setQuery(''); setCategory('全部'); setGrade('全部'); setPriority('全部'); setType('全部'); setReviewOnly(false); setSort('视频顺序'); }
+  function switchTab(value) { setTab(value); history.replaceState(null, '', value === '怪癖' ? '#quirks' : '#trinkets'); }
+  const header = <header className="site-header"><div className="brand"><span className="brand-mark" aria-hidden="true">D</span><div><strong>地牢档案</strong><span>Darkest Dungeon I</span></div></div><nav aria-label="内容导航">{['饰品','怪癖'].map(value=><button key={value} className="nav-tab" aria-current={tab===value?'page':undefined} onClick={()=>switchTab(value)}>{value}{value==='饰品'&&<span>{summary?.items||'—'}</span>}</button>)}</nav><a className="download-button" href={csvUrl(tab==='怪癖'?'怪癖评级.csv':'饰品评级.csv')} download>下载 CSV ↓</a></header>;
+  if (tab === '怪癖') return <Quirks header={header}/>;
   return <>
-    <header className="site-header"><div className="brand"><span className="brand-mark" aria-hidden="true">D</span><div><strong>地牢档案</strong><span>Darkest Dungeon I</span></div></div><nav aria-label="内容导航"><button className="nav-tab" aria-current="page">饰品<span>{summary?.items || '—'}</span></button></nav><a className="download-button" href={csvUrl('饰品评级.csv')} download>下载 CSV <span aria-hidden="true">↓</span></a></header>
+    {header}
     <main>
       <section className="page-heading"><div><span className="eyebrow">TRINKET ARCHIVE</span><h1>找到适合这次远征的饰品。</h1><p>从灰白过渡到先祖珍藏，查阅属性、评级与搭配建议。</p></div><div className="archive-stats"><div><strong>{summary?.items || '—'}</strong><span>件饰品</span></div><div><strong>{summary?.sets || '—'}</strong><span>套装组合评级</span></div><div><strong>{summary?.frames || '—'}</strong><span>张来源图片</span></div></div></section>
       <div className="source-line"><span>评级来源：<a href="https://www.bilibili.com/" target="_blank" rel="noreferrer">Bilibili</a> · UP 主 <a href="https://space.bilibili.com/1412307924" target="_blank" rel="noreferrer">清丽静 ↗</a> · <a href="https://space.bilibili.com/1412307924/lists/6744111?type=season" target="_blank" rel="noreferrer">地牢大学习 23–30 期 ↗</a></span><button className="text-button" aria-expanded={showSources} onClick={() => setShowSources(!showSources)}>数据说明 {showSources ? '−' : '+'}</button></div>
